@@ -1,0 +1,328 @@
+﻿{
+    "id": "catupecu-machu-eso-vive",
+    "title": "Eso Vive",
+    "artist": "Catupecu Machu",
+    "originalKey": "F#",
+    "tempo": "Moderate Rock",
+    "timeSignature": "4/4",
+    "content": [
+      {
+        "type": "section",
+        "name": "PRIMERA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Se agrieta el piso"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "y en un segundo"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "se pone el mundo"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "frente a mi."
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Bing Ban consciente"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "en una disco,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "dj de turno"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "no pongas fin."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "SEGUNDA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Se acerca un trago"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "con un amigo"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "destino justo,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "venir aqui."
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Se brinda en pos"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "de un futuro en sincro"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "con bombo en negras"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "y amor sin fin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#", "-", "G7"]
+              },
+              {
+                "type": "lyric",
+                "content": "E---so vi--ve"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#", "-", "G7"]
+              },
+              {
+                "type": "lyric",
+                "content": "E---so vi--ve"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "E---so vive"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "RIFF",
+        "lines": [
+          {
+            "type": "text",
+            "content": "Riff"
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "TERCERA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Y que si quiero voy,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "decime donde estoy,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "me quiero enamorar crudo"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "y cocinarme."
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "Y si bailando voy,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "y aunque satan no soy,"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "estoy haciendo méritos"
+              },
+              {
+                "type": "chord",
+                "content": "F#"
+              },
+              {
+                "type": "lyric",
+                "content": "para graduarme."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

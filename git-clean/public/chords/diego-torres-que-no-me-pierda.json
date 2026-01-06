@@ -1,0 +1,709 @@
+{
+  "id": "diego-torres-que-no-me-pierda",
+  "title": "Que No Me Pierda",
+  "artist": "Diego Torres",
+  "originalKey": "F",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["F", "Bb", "C", "Bb"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda la noche"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm7", "Am7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el vino"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb", "F"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda del camino"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "En el abrazo de la gente que, tiene el corazón frío"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la bruma"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm7", "Am7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el ruido"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb", "F"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me encuentre confundido"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "En el canto del que adula y que sólo juega conmigo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en el aplauso indiferente"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "De esa gente que aparenta conmigo"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en un mundo que no entiende"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Que ha venido ya su alma y sentido"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la tarde"
+            },
+            {
+              "type": "chord",
+              "content": "Dm7"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma vencido"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G", "C", "Bb9"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en el aire cansado de respirar oo-oh!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la sombra"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm7", "Am7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el brillo"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb", "F"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en el cariño"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Del que jura que calcula y que nunca ha sido mi amigo"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la duda"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm7", "Am7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma rendido"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb", "F"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda convencido"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "En el llanto del que miente y que ya empeñó su destino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en el aplauso indiferente"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "De esa gente que aparenta conmigo"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en un mundo que no entiende"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Que ha venido ya su alma y sentido"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la tarde"
+            },
+            {
+              "type": "chord",
+              "content": "Dm7"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma vencido"
+            },
+            {
+              "type": "chords",
+              "content": ["G4", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en el aire cansado de respirar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 3",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en el género inconsciente"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "Que ha dejado ya su alma al olvido, no no"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en la risa complaciente"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Del que espera algo a cambio conmigo"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la noche"
+            },
+            {
+              "type": "chord",
+              "content": "Dm7"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en el vino"
+            },
+            {
+              "type": "chords",
+              "content": ["Gsus", "G7"]
+            },
+            {
+              "type": "lyric",
+              "content": "La vida vale la pena"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Si aprendo a hacer el camino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "INTERLUDIO MUSICAL",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["Bb", "C", "Bb"]
+        },
+        {
+          "type": "chords",
+          "content": ["F", "C", "Bb", "C"]
+        },
+        {
+          "type": "chords",
+          "content": ["F", "C", "Bb", "C"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSO FINAL",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la noche"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el vino, ay no"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me aparte de mi destino"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "No me dejes sin tu cariño"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "Bb"]
+            },
+            {
+              "type": "lyric",
+              "content": "No me dejes solo y perdido"
+            },
+            {
+              "type": "chords",
+              "content": ["C", "F"]
+            },
+            {
+              "type": "lyric",
+              "content": "Sin ti no encuentro el camino"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Sin ti me quedo solito"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la sombra"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el brillo, ay no"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me quede sin tu cariño"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la sombra"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me duerma en el brillo, ay no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO FINAL",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en el género inconsciente"
+            },
+            {
+              "type": "chord",
+              "content": "Bb"
+            },
+            {
+              "type": "lyric",
+              "content": "Que ha dejado ya su alma al olvido, no no"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm7", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda, en la risa complaciente"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Del que espera algo a cambio conmigo"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Gm", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en la noche"
+            },
+            {
+              "type": "chord",
+              "content": "Dm7"
+            },
+            {
+              "type": "lyric",
+              "content": "Que no me pierda en el vino"
+            },
+            {
+              "type": "chords",
+              "content": ["Gsus", "G7"]
+            },
+            {
+              "type": "lyric",
+              "content": "La vida vale la pena"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "Bb", "C", "Bb"]
+            },
+            {
+              "type": "lyric",
+              "content": "Si aprendo a hacer el camino"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "…Si aprendo a hacer el camino"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

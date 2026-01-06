@@ -1,0 +1,184 @@
+{
+  "id": "bon-jovi-make-a-memory",
+  "title": "(You Want To) Make a Memory",
+  "artist": "Bon Jovi",
+  "originalKey": "C",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "VERSE 1",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "Hello again, it's you and me" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "lyric", "content": "Kinda always like it used to be" },
+        { "type": "chord", "content": "Em" },
+        { "type": "lyric", "content": "Sippin' wine, killing time" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "Trying to solve life's mysteries" },
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "How's your life, it's been awhile?" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "lyric", "content": "God it's good to see you smile" },
+        { "type": "chord", "content": "Em" },
+        { "type": "lyric", "content": "I see you reaching for your keys" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "Looking for a reason not to leave" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "BRIDGE 1",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "G" },
+        { "type": "lyric", "content": "If you don't know if you should stay" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "If you don't say what's on your mind" },
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "Baby just breathe" },
+        { "type": "chord", "content": "Em" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "There's nowhere else tonight we should be" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "CHORUS",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "You wanna make a memory?" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSE 2",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "I dug up this old photograph" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "lyric", "content": "Look at all that hair we had" },
+        { "type": "chord", "content": "Em" },
+        { "type": "lyric", "content": "It's bitter sweet to hear you laugh" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "Your phone is ringin' I don't wanna ask" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "BRIDGE 2",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "G" },
+        { "type": "lyric", "content": "If you go now I'll understand" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "If you stay hey I've gotta plan" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "CHORUS (REPEAT)",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "G" },
+        { "type": "lyric", "content": "You wanna make a memory?" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "You wanna steal a piece of time?" },
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "G" },
+        { "type": "lyric", "content": "You can sing the melody to me" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "And I can write a couple lines" },
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "You wanna make a memory" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SOLO",
+      "lines": [
+        { "type": "lyric", "content": "(Solo de guitarra)" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "BRIDGE 3",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "G" },
+        { "type": "lyric", "content": "If you don't know if you should stay" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "If you don't say what's on your mind" },
+        { "type": "chord", "content": "C" },
+        { "type": "lyric", "content": "Baby just breathe" },
+        { "type": "chord", "content": "Em" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "There's nowhere else tonight we should be, we should be" }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "CHORUS (FINAL)",
+      "lines": [
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "lyric", "content": "You wanna make a memory?" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "You wanna steal a piece of time?" },
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "lyric", "content": "You can sing the melody to me" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "And I can write a couple lines" },
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "You wanna make a memory" },
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "You wanna make a memory" },
+        { "type": "chord", "content": "C" },
+        { "type": "chord", "content": "C/B" },
+        { "type": "chord", "content": "Am" },
+        { "type": "chord", "content": "F" },
+        { "type": "lyric", "content": "You wanna make a memory" }
+      ]
+    }
+  ]
+}

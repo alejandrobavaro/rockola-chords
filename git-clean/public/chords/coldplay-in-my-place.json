@@ -1,0 +1,475 @@
+{
+  "id": "coldplay-in-my-place",
+  "title": "In My Place",
+  "artist": "Coldplay",
+  "originalKey": "E",
+  "tempo": "Moderate Rock",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "In my place, in my place"
+            },
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Were lines that I couldn't change"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m", "B"]
+            },
+            {
+              "type": "lyric",
+              "content": "I was lost, oh yeah"
+            },
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "I was lost, I was lost"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Crossed lines I shouldn't have crossed"
+            },
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m", "B"]
+            },
+            {
+              "type": "lyric",
+              "content": "I was lost, oh yeah"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["A/E", "E", "B", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["A/E", "E", "B", "A/E"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you wait for it?"
+            },
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you pay for it?"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you wait for it?"
+            },
+            {
+              "type": "chord",
+              "content": "B"
+            },
+            {
+              "type": "lyric",
+              "content": "For it"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "I was scared, I was scared"
+            },
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Tired and underprepared"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m", "B"]
+            },
+            {
+              "type": "lyric",
+              "content": "But I waited for it"
+            },
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "If you go, if you go"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then leave me down here on my own"
+            },
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m", "B"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then I'll wait for you"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["A/E", "E", "B", "A/E"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you wait for it?"
+            },
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you pay for it?"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["A/E", "E", "B", "A/E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Yeah, how long must you wait for it?"
+            },
+            {
+              "type": "chord",
+              "content": "B"
+            },
+            {
+              "type": "lyric",
+              "content": "For it"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "E/D#", "G#m", "B"]
+        },
+        {
+          "type": "chords",
+          "content": ["E", "C#m", "G#m", "B"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "TERCERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "Sing it please, please, please"
+            },
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Come back and sing to me"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "To me, me"
+            },
+            {
+              "type": "chords",
+              "content": ["B", "E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "Come on and sing it out, now, now"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B", "E", "C#m", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "Come on and sing it out, to me, me"
+            },
+            {
+              "type": "chord",
+              "content": "B"
+            },
+            {
+              "type": "lyric",
+              "content": "Come back and sing it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "FINAL",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["E", "E/D#", "G#m"]
+            },
+            {
+              "type": "lyric",
+              "content": "In my place, in my place"
+            },
+            {
+              "type": "chords",
+              "content": ["B", "E"]
+            },
+            {
+              "type": "lyric",
+              "content": "Were lines that I couldn't change"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C#m", "G#m", "B"]
+            },
+            {
+              "type": "lyric",
+              "content": "I was lost, oh yeah"
+            },
+            {
+              "type": "chord",
+              "content": "E"
+            },
+            {
+              "type": "lyric",
+              "content": "Oh yeah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

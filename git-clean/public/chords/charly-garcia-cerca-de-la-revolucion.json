@@ -1,0 +1,602 @@
+﻿{
+    "id": "charly-garcia-cerca-de-la-revolucion",
+    "title": "Cerca De La Revolución",
+    "artist": "Charly García",
+    "originalKey": "Em",
+    "tempo": "Moderate Rock",
+    "timeSignature": "4/4",
+    "content": [
+      {
+        "type": "section",
+        "name": "INTRO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PRIMERA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["E5", "A5", "E5", "A5"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué no vienes hasta mí?"
+              },
+              {
+                "type": "chords",
+                "content": ["E5", "G", "Am", "A2"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué no puedo amarte?"
+              },
+              {
+                "type": "chords",
+                "content": ["C#7", "D7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué no vienes hasta mí?"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["E5", "A5", "E5", "A5"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué no cambias como el sol?"
+              },
+              {
+                "type": "chords",
+                "content": ["E5", "G", "Am", "A2"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué eres tan distante?"
+              },
+              {
+                "type": "chords",
+                "content": ["C#7", "D7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Porqué no cambias como el sol?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PRE-ESTRIBILLO",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Me siento solo y confundido a la vez"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Los analistas no podrán entender"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F"]
+              },
+              {
+                "type": "lyric",
+                "content": "Ya no sé bien qué decir"
+              },
+              {
+                "type": "chords",
+                "content": ["C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Ya no sé más qué hacer"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Todo el mundo loco y yo sin poderte ver"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "SEGUNDA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["E5", "A5", "E5", "A5"]
+              },
+              {
+                "type": "lyric",
+                "content": "Cerca de la revolución"
+              },
+              {
+                "type": "chords",
+                "content": ["E5", "G", "Am"]
+              },
+              {
+                "type": "lyric",
+                "content": "El pueblo pide sangre"
+              },
+              {
+                "type": "chord",
+                "content": "C#7"
+              },
+              {
+                "type": "lyric",
+                "content": "Cerca de la revolución"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "D7"
+              },
+              {
+                "type": "lyric",
+                "content": ""
+              },
+              {
+                "type": "chords",
+                "content": ["E5", "A5", "E5", "A5"]
+              },
+              {
+                "type": "lyric",
+                "content": "Yo estoy cantando esta canción"
+              },
+              {
+                "type": "chords",
+                "content": ["E5", "G", "Am", "A2"]
+              },
+              {
+                "type": "lyric",
+                "content": "Que alguna vez fue hambre"
+              },
+              {
+                "type": "chords",
+                "content": ["C#7", "D7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Estoy cantando esta canción"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PRE-ESTRIBILLO 2",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Y si mañana es como ayer otra vez"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Lo que fue hermoso será horrible después"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "No es sólo una cuestión de elecciones"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "No elegí este mundo, pero aprendí a querer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO 2",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "SOLO 1",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "G", "Am", "A2"]
+          },
+          {
+            "type": "chords",
+            "content": ["C#7", "D7"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "G", "Am", "A2"]
+          },
+          {
+            "type": "chords",
+            "content": ["C#7", "D7"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "TERCERA PARTE",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Si estas palabras te pudieran dar fe"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Si esta armonía te ayudara a creer"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sería tan feliz, tan feliz en el mundo"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "F", "C", "Dm7"]
+              },
+              {
+                "type": "lyric",
+                "content": "Que moriria arrodillado a tus pies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO FINAL",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chord",
+                "content": "Am"
+              },
+              {
+                "type": "lyric",
+                "content": "Pero si insisto"
+              },
+              {
+                "type": "chord",
+                "content": "Bb"
+              },
+              {
+                "type": "lyric",
+                "content": "Yo sé muy bien que conseguiré"
+              },
+              {
+                "type": "text",
+                "content": "( C5  G5  C5 )"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "SOLO 2",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "G", "Am", "A2"]
+          },
+          {
+            "type": "chords",
+            "content": ["C#7", "D7"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "E5", "A5"]
+          },
+          {
+            "type": "chords",
+            "content": ["E5", "A5", "G", "Am", "A2"]
+          },
+          {
+            "type": "chords",
+            "content": ["C#7", "D7"]
+          }
+        ]
+      }
+    ]
+  }

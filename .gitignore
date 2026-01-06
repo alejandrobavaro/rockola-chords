@@ -1,3 +1,5 @@
+# Actualizar .gitignore
+cat > .gitignore << 'EOF'
 # Dependencias
 /node_modules
 /dist
@@ -14,24 +16,16 @@ yarn-error.log*
 .idea/
 .DS_Store
 
-# Netlify
+# Netlify local
 .netlify/
 
-# ===========================================
-# ARCHIVOS MP3 - NUNCA EN GIT
-# ===========================================
+# Archivos de audio MP3 (NO subir a GitHub)
+public/audio/*.mp3
 *.mp3
-*.wav
-*.ogg
-*.m4a
-public/audio/
-**/*.mp3
 
-# Backup
+# Backups y temporales
 *.bak
 *.tmp
-
-# Archivos de configuración específicos
-.eslintrc.cjs
-eslint.config.js
-.gitattributes
+*.temp
+EOFpublic/audio/
+*.mp3

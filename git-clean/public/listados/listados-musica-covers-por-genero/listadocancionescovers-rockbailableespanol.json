@@ -1,0 +1,154 @@
+{
+  "artista": "Cover",
+  "discografia": [
+    {
+      "album_id": "covers-rockbailableespanol",
+      "album_name": "Covers Rock Bailable Español",
+      "year": "2025",
+      "cover_image": "/img/09-discos/tapa-listado-covers.jpg",
+      "genre": "Rock Bailable",
+      "songs": [
+        {
+          "id": "la-renga-el-rebelde",
+          "track_number": 1,
+          "title": "El Rebelde",
+          "artist": "La Renga",
+          "duration": "",
+          "mp3_url": "/audio/la-renga-el-rebelde.mp3",
+          "chords_url": "/chords/la-renga-el-rebelde.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "los-lobos-la-bamba",
+          "track_number": 2,
+          "title": "La Bamba",
+          "artist": "Los Lobos",
+          "duration": "",
+          "mp3_url": "/audio/los-lobos-la-bamba.mp3",
+          "chords_url": "/chords/los-lobos-la-bamba.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "pappo-rock-n-roll-y-fiebre",
+          "track_number": 3,
+          "title": "Rock 'n' Roll y Fiebre",
+          "artist": "Pappo",
+          "duration": "",
+          "mp3_url": "/audio/pappo-rock-n-roll-y-fiebre.mp3",
+          "chords_url": "/chords/pappo-rock-n-roll-y-fiebre.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "pappo-ruta-66",
+          "track_number": 4,
+          "title": "Ruta 66",
+          "artist": "Pappo",
+          "duration": "",
+          "mp3_url": "/audio/pappo-ruta-66.mp3",
+          "chords_url": "/chords/pappo-ruta-66.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "ratones-paranoicos-rock-del-gato",
+          "track_number": 5,
+          "title": "Rock del Gato",
+          "artist": "Ratones Paranoicos",
+          "duration": "",
+          "mp3_url": "/audio/ratones-paranoicos-rock-del-gato.mp3",
+          "chords_url": "/chords/ratones-paranoicos-rock-del-gato.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "seru-giran-popotitos-e",
+          "track_number": 6,
+          "title": "Popotitos e",
+          "artist": "Serú Girán",
+          "duration": "",
+          "mp3_url": "/audio/seru-giran-popotitos-e.mp3",
+          "chords_url": "/chords/seru-giran-popotitos-e.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        },
+        {
+          "id": "viejas-locas-me-gustas-mucho",
+          "track_number": 7,
+          "title": "Me Gustas Mucho",
+          "artist": "Viejas Locas",
+          "duration": "",
+          "mp3_url": "/audio/viejas-locas-me-gustas-mucho.mp3",
+          "chords_url": "/chords/viejas-locas-me-gustas-mucho.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Bailable",
+            "genre": "Rock Bailable",
+            "categoria": "Covers Rock Bailable Español"
+          }
+        }
+      ]
+    }
+  ]
+}

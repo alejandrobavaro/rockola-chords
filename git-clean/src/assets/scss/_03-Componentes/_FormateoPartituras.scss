@@ -1,0 +1,67 @@
+.formateo-unificado-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem;
+  background: #1a1a1a;
+  border-radius: 12px;
+}
+
+.formateo-titulo {
+  text-align: center;
+  color: #ffd166;
+  margin-bottom: 1rem;
+}
+
+.formateo-wrapper {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.input-section,
+.preview-section {
+  flex: 1;
+  background: rgba(255,255,255,0.05);
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+textarea {
+  width: 100%;
+  min-height: 200px;
+  font-family: monospace;
+}
+
+.partitura {
+  background: white;
+  color: black;
+  padding: 10mm;
+}
+
+.columnas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10mm;
+}
+
+.columna {
+  border: 1px solid #000;
+  padding: 6mm;
+}
+
+.linea {
+  font-family: "Courier New", monospace;
+  white-space: pre;
+  margin: 0;
+}
+
+.linea.acordes {
+  color: #0033cc;
+  font-weight: bold;
+}
+
+.linea.titulo {
+  font-weight: bold;
+  text-decoration: underline;
+  margin: 6mm 0 3mm;
+}
