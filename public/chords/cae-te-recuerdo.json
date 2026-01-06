@@ -1,0 +1,470 @@
+﻿{
+    "id": "cae-te-recuerdo",
+    "title": "Te recuerdo",
+    "artist": "Cae",
+    "originalKey": "D",
+    "tempo": "Moderate",
+    "timeSignature": "4/4",
+    "content": [
+      {
+        "type": "section",
+        "name": "INTRO SAXO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["G", "–", "A", "–", "D", "-", "Bm"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 1",
+        "color": "ale",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "D"
+          },
+          {
+            "type": "lyric",
+            "content": "Amor, ya sé que es imposible perdonar,"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": ""
+          },
+          {
+            "type": "chord",
+            "content": "G"
+          },
+          {
+            "type": "lyric",
+            "content": "las noches que yo no te pude dar,"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "encarcelado entre las luces,"
+          },
+          {
+            "type": "chord",
+            "content": "Em"
+          },
+          {
+            "type": "lyric",
+            "content": "escribiendo tus silencios."
+          }
+        ]
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 2",
+        "color": "pato",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "D"
+          },
+          {
+            "type": "lyric",
+            "content": "Amor ya sé que nada queda por decir,"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": ""
+          },
+          {
+            "type": "chord",
+            "content": "G"
+          },
+          {
+            "type": "lyric",
+            "content": "no hay palabras que hoy te acerquen a mí."
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Fuiste mi rosa preferida,"
+          },
+          {
+            "type": "chord",
+            "content": "Em"
+          },
+          {
+            "type": "lyric",
+            "content": "fuiste mi mejor canción."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D", "Bm"]
+              },
+              {
+                "type": "lyric",
+                "content": "Te recuerdo en mis sueños,"
+              },
+              {
+                "type": "chords",
+                "content": ["G", "A", "A4", "A"]
+              },
+              {
+                "type": "lyric",
+                "content": "ahora que te estoy perdiendo,"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D", "Bm"]
+              },
+              {
+                "type": "lyric",
+                "content": "te recuerdo en mi piel,"
+              },
+              {
+                "type": "chords",
+                "content": ["F#m", "A"]
+              },
+              {
+                "type": "lyric",
+                "content": "y no puedo creer."
+              }
+            ]
+          },
+          {
+            "type": "chords",
+            "content": ["G", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Que el secreto que inventamos,"
+          },
+          {
+            "type": "chords",
+            "content": ["D", "A", "Bm"]
+          },
+          {
+            "type": "lyric",
+            "content": "en el fuego murió."
+          },
+          {
+            "type": "chords",
+            "content": ["G", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "y mato de un solo beso a nuestro amor."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PUENTE",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["G", "A", "D"]
+          },
+          {
+            "type": "lyric",
+            "content": "Te recuerdo en mis brazos amor…"
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "INTRO SAXO 2",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["G", "–", "A", "–", "D", "–", "Bm", "(x1)"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 1",
+        "color": "ale",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "D"
+          },
+          {
+            "type": "lyric",
+            "content": "Amor no sé cómo llegamos al final,"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": ""
+          },
+          {
+            "type": "chord",
+            "content": "G"
+          },
+          {
+            "type": "lyric",
+            "content": "yo nunca te quise lastimar,"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Serás mi rosa preferida,"
+          },
+          {
+            "type": "chord",
+            "content": "Em"
+          },
+          {
+            "type": "lyric",
+            "content": "y fuiste mi mejor canción."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO 2",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D", "Bm"]
+              },
+              {
+                "type": "lyric",
+                "content": "Te recuerdo en mis sueños,"
+              },
+              {
+                "type": "chords",
+                "content": ["G", "A", "A4", "A"]
+              },
+              {
+                "type": "lyric",
+                "content": "ahora que te estoy perdiendo,"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D", "Bm"]
+              },
+              {
+                "type": "lyric",
+                "content": "te recuerdo en mi piel,"
+              },
+              {
+                "type": "chords",
+                "content": ["F#m", "A"]
+              },
+              {
+                "type": "lyric",
+                "content": "y no puedo creer."
+              }
+            ]
+          },
+          {
+            "type": "chords",
+            "content": ["G", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Que el secreto que inventamos,"
+          },
+          {
+            "type": "chords",
+            "content": ["D", "A", "Bm"]
+          },
+          {
+            "type": "lyric",
+            "content": "en el fuego murió."
+          },
+          {
+            "type": "chords",
+            "content": ["G", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "y mato de un solo beso a nuestro amor."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PUENTE 2",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["G", "A", "D"]
+          },
+          {
+            "type": "lyric",
+            "content": "Te recuerdo en mis brazos amor…"
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "CORTE",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["A#", "-", "A", "-", "A#", "-", "C", "-", "A#", "-", "D", "-", "C"]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO FINAL (MODULA)",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D#", "Cm"]
+              },
+              {
+                "type": "lyric",
+                "content": "Te recuerdo en mis sueños"
+              },
+              {
+                "type": "chords",
+                "content": ["G#", "A#7"]
+              },
+              {
+                "type": "lyric",
+                "content": "ahora que te estoy perdiendo"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["D#", "Cm"]
+              },
+              {
+                "type": "lyric",
+                "content": "te recuerdo en mi piel"
+              },
+              {
+                "type": "chords",
+                "content": ["Gm", "A#7"]
+              },
+              {
+                "type": "lyric",
+                "content": "y no puedo creeeer....."
+              }
+            ]
+          },
+          {
+            "type": "chords",
+            "content": ["G#", "A#7", "D#", "Cm"]
+          },
+          {
+            "type": "lyric",
+            "content": "en el fuego murió"
+          },
+          {
+            "type": "chords",
+            "content": ["G#", "A#7"]
+          },
+          {
+            "type": "lyric",
+            "content": "Te recuerdo en mis brazos amor.."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "OUTRO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["G#", "A#7", "D#"]
+          },
+          {
+            "type": "lyric",
+            "content": "Te recuerdo en mis brazos amor…"
+          }
+        ]
+      }
+    ]
+  }

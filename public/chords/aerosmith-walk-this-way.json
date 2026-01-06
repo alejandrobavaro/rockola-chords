@@ -1,0 +1,732 @@
+{
+  "id": "aerosmith-walk-this-way",
+  "title": "Walk This Way",
+  "artist": "Aerosmith",
+  "originalKey": "E",
+  "tempo": "Fast Rock",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff)"
+        },
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "G", "E"]
+        },
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "A5"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Backstroke lover, always hidin' 'neath the covers"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "'Til I talked to my daddy, he say"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "He said you ain't seen nothing"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "'Til you're down on a muffin"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Then you're sure to be a-changin' your ways"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "I met a cheerleader, was a real young bleeder"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "All the times I could reminisce"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "'Cause the best things in lovin'"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "With her sister and her cousin"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Only started with a little kiss, like this!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "RIFF 1",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "G", "E"]
+        },
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "A5"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "See-saw swingin' with the boys in the school"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "And your feet flyin' up in the air"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Singin' hey diddle-diddle with your kitty in the middle"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "of the swing like ya didn't care"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "So I took a big chance at the high school dance"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "With a missy who was ready to play"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Wasn't me she was foolin'"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "'Cause she knew what she was doin'"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "And I know love was here to stay"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "When she told me to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            },
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            },
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Ah, just give me a kiss"
+            },
+            {
+              "type": "text",
+              "content": "- Like this"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "RIFF 2",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "G", "E"]
+        },
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "A5"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSO 3",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "School girl sweetie with the classy kinda sassy"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Little skirt's climbing way up her knee"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "There was three young ladies in the school gym locker"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "When I noticed they was lookin' at me"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "I was a high school loser"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Never made it with a lady"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Till the boys told me something I missed"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Then my next door neighbour"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "With a daughter had a favour"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "So I gave her just a little kiss, like this!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "RIFF 3",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*"]
+        },
+        {
+          "type": "chords",
+          "content": ["A", "Bb", "B", "E", "A", "Bb", "B", "E", "E*", "A", "Bb", "B", "E", "A", "Bb", "B", "E", "A5"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "VERSO 4",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "See-saw swingin' with the boys in the school"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "And your feet flyin' up in the air"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Singin' hey diddle-diddle with your kitty in the middle"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "of the swing like ya didn't care"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "So I took a big chance at the high school dance"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "With a missy who was ready to play"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Wasn't me she was foolin'"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "'Cause she knew what she was doin'"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "When she told me how to walk this way"
+            },
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "She told me to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            },
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            },
+            {
+              "type": "chords",
+              "content": ["C13", "F7"]
+            },
+            {
+              "type": "lyric",
+              "content": "Walk this way, walk this way"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C7"
+            },
+            {
+              "type": "lyric",
+              "content": "Just give me a kiss"
+            },
+            {
+              "type": "text",
+              "content": "- Like this!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "OUTRO/RIFF 2",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["E*", "G", "G#", "E", "A", "Bb", "B", "E", "E*", "E*", "G", "G#", "E", "A", "Bb", "B", "E", "A5"]
+        },
+        {
+          "type": "text",
+          "content": "(x4)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SOLO DE GUITARRA",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Repeat Riff 2 and fade)"
+        }
+      ]
+    }
+  ]
+}

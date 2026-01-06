@@ -1,0 +1,633 @@
+{
+  "id": "coldplay-viva-la-vida",
+  "title": "Viva La Vida",
+  "artist": "Coldplay",
+  "originalKey": "Em",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "I used to rule the world"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Seas would rise when I gave the word"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Now in the morning and I sleep alone"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Sweep the streets I used to own"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "I used to roll the dice"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Feel the fear in my enemy's eyes"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Listen as the crowd would sing"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Now the old king is dead!"
+            },
+            {
+              "type": "chord",
+              "content": "Em"
+            },
+            {
+              "type": "lyric",
+              "content": "Long live the king!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "One minute I held the key"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Next the walls were closed on me"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "And I discovered that my castles stand"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Upon pillars of salt and pillars of sand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "I hear Jerusalem bells are ringing"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Roman Cavalry choirs are singing"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Be my mirror, my sword, and shield"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "My missionaries in a foreign field"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "For some reason I can't explain"
+            },
+            {
+              "type": "chords",
+              "content": ["G/B", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Once you go there was never"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Never an honest word"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "That was when I ruled the world"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "It was the wicked and wild wind"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Blew down the doors to let me in"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Shattered windows and the sound of drums"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "People couldn't believe what I'd become"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Revolutionaries wait"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "For my head on a silver plate"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Just a puppet on a lonely string"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh who would ever want to be king?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "I hear Jerusalem bells are ringing"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Roman Cavalry choirs are singing"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Be my mirror, my sword, and shield"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "My missionaries in a foreign field"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "For some reason I can't explain"
+            },
+            {
+              "type": "chords",
+              "content": ["G/B", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "I know Saint Peter won't call my name"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Never an honest word"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "But that was when I ruled the world"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "Em", "C", "Em"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "Em", "D"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        },
+        {
+          "type": "chords",
+          "content": ["C", "D9(11)", "G", "Em"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO FINAL",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "I hear Jerusalem bells are ringing"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Roman Cavalry choirs are singing"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Be my mirror, my sword, and shield"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "My missionaries in a foreign field"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "For some reason I can't explain"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "I know Saint Peter won't call my name"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D9(11)"]
+            },
+            {
+              "type": "lyric",
+              "content": "Never an honest word"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "But that was when I ruled the world"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

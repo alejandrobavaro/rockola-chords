@@ -1,0 +1,635 @@
+{
+  "id": "coldplay-hymn-for-the-weekend",
+  "title": "Hymn For The Weekend",
+  "artist": "Coldplay",
+  "originalKey": "C",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["Dm", "G", "Am"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm", "G", "Am"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh, angel sent from up above"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "You know you make my world light up"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Dm"
+            },
+            {
+              "type": "lyric",
+              "content": "When I was down"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I was hurt"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "You came to lift me up"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Life is a drink and your love's a drug"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh, now, I think I must be miles up"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I was a river dried up"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "You came to rain a flood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "You said \"drink from me, drink from me\""
+            },
+            {
+              "type": "chords",
+              "content": ["F", "Em", "G"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I was so thirsty"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "We're on a symphony"
+            },
+            {
+              "type": "chord",
+              "content": "Dm"
+            },
+            {
+              "type": "lyric",
+              "content": "Now I just can't get enough"
+            },
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Put your wings on me, wings on me"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "Em", "G"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I was so heavy"
+            },
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "We're on a symphony"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I'm low,low,low,low"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Got me feeling drunk and high"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "So high, so high"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh-ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Got me feeling drunk and high"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "So high, so high"
+            }
+          ]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm", "G", "Am"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm", "G", "Am"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh, angels sent from up above"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "I feel it coursing through my blood"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Life is a drink, your love's about"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "To make the stars come out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRE-ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Put your wings on me, wings on me"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "Em", "G"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I was so heavy"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "We're on a symphony"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G"]
+            },
+            {
+              "type": "lyric",
+              "content": "When I'm low,low,low,low"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Got me feeling drunk and high"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "So high, so high"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Oh-ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Got me feeling drunk and high"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "So high, so high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PUENTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "La-la-la-la-la-la-la so high so high"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Ah-oh-ah-oh-ah"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "I'm feeling drunk and high"
+            },
+            {
+              "type": "chords",
+              "content": ["G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "So high, so high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "TERCERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the sky"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the sky"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the"
+            },
+            {
+              "type": "chords",
+              "content": ["F", "G", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the sky"
+            },
+            {
+              "type": "chord",
+              "content": "F"
+            },
+            {
+              "type": "lyric",
+              "content": "Then we'll shoot across the"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

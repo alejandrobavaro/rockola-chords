@@ -1,0 +1,1008 @@
+{
+  "id": "aerosmith-dream-on",
+  "title": "Dream On",
+  "artist": "Aerosmith",
+  "originalKey": "Dm",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["Dm/A", "Am", "B5-/A", "Bb5-/A"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm/A", "D4/A", "D5/A"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm/A", "Am", "B5-/A", "Bb5-/A"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm/A", "D4/A", "D5/A", "Dm"]
+        },
+        {
+          "type": "text",
+          "content": "(Riff de Introducción)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Every time that"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "I look in the mirror"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "All these lines"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "In my face gettin' clearer"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am", "B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "The past is gone"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am", "B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "It went by like dusk to dawn"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Isn't that the way?"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Everybody's got their dues"
+            },
+            {
+              "type": "text",
+              "content": "(Riff 1)"
+            },
+            {
+              "type": "lyric",
+              "content": "In life to pay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["D5", "C5"]
+            },
+            {
+              "type": "lyric",
+              "content": "I know, nobody knows"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Bb5", "C5"]
+            },
+            {
+              "type": "lyric",
+              "content": "Where it comes and where it goes"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["D5", "C5"]
+            },
+            {
+              "type": "lyric",
+              "content": "I know it's everybody's sin"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Bb5", "C5"]
+            },
+            {
+              "type": "lyric",
+              "content": "You got to lose to know how to win"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "TERCERA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Half my life's"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "In books' written pages"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "Lived and learned"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "From fools and from sages"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am", "B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "You know it's true"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Dm/A", "Am"]
+            },
+            {
+              "type": "lyric",
+              "content": "All the things"
+            },
+            {
+              "type": "chords",
+              "content": ["B5-/A", "Bb5-/A"]
+            },
+            {
+              "type": "lyric",
+              "content": "Come back to you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMER ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the year"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the laughter"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "And sing for the tear"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "If it's just for today"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "B5"
+            },
+            {
+              "type": "lyric",
+              "content": "Maybe tomorrow"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb5", "A5"]
+            },
+            {
+              "type": "lyric",
+              "content": "The good lord will take you away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PUENTE",
+      "lines": [
+        {
+          "type": "chords",
+          "content": ["Dm/A", "D4/A", "D5/A"]
+        },
+        {
+          "type": "chords",
+          "content": ["Dm/A", "D4/A", "D5/A"]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDO ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the year"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the laughter"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "And sing for the tear"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "If it's just for today"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "B5"
+            },
+            {
+              "type": "lyric",
+              "content": "Maybe tomorrow"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb5", "A5"]
+            },
+            {
+              "type": "lyric",
+              "content": "The good lord will take you away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "CUARTA PARTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "A5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream yourself a dream comes true"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "A5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "And dream until your dream comes true"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "A5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "E5"
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["F5", "G5"]
+            },
+            {
+              "type": "lyric",
+              "content": "Dream on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "TERCER ESTRIBILLO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the year"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the laughter"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "And sing for the tear"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "If it's just for today"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Maybe tomorrow"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "The good lord will take you away"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the year"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing for the laughter"
+            },
+            {
+              "type": "chord",
+              "content": "Bb5"
+            },
+            {
+              "type": "lyric",
+              "content": "And sing for the tear"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "D5"
+            },
+            {
+              "type": "lyric",
+              "content": "Sing with me"
+            },
+            {
+              "type": "chord",
+              "content": "C5"
+            },
+            {
+              "type": "lyric",
+              "content": "If it's just for today"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "B5"
+            },
+            {
+              "type": "lyric",
+              "content": "Maybe tomorrow"
+            },
+            {
+              "type": "chords",
+              "content": ["Bb5", "A5"]
+            },
+            {
+              "type": "lyric",
+              "content": "The good lord will take you away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "OUTRO",
+      "lines": [
+        {
+          "type": "chord",
+          "content": "A5"
+        }
+      ]
+    }
+  ]
+}

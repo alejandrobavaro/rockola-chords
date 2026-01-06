@@ -1,0 +1,2034 @@
+{
+  "artista": "Cover",
+  "discografia": [
+    {
+      "album_id": "covers-poprockingles",
+      "album_name": "Covers Pop Rock Inglés",
+      "year": "2025",
+      "cover_image": "/img/09-discos/tapa-listado-covers.jpg",
+      "genre": "Pop Rock",
+      "songs": [
+        {
+          "id": "10cc-im-not-in-love",
+          "track_number": 1,
+          "title": "I'm Not in Love",
+          "artist": "10cc",
+          "duration": "",
+          "mp3_url": "/audio/10cc-im-not-in-love.mp3",
+          "chords_url": "/chords/10cc-im-not-in-love.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "aerosmith-crazy",
+          "track_number": 2,
+          "title": "Crazy",
+          "artist": "Aerosmith",
+          "duration": "",
+          "mp3_url": "/audio/aerosmith-crazy.mp3",
+          "chords_url": "/chords/aerosmith-crazy.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "aerosmith-cryin",
+          "track_number": 3,
+          "title": "Cryin'",
+          "artist": "Aerosmith",
+          "duration": "",
+          "mp3_url": "/audio/aerosmith-cryin.mp3",
+          "chords_url": "/chords/aerosmith-cryin.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "aerosmith-pink",
+          "track_number": 4,
+          "title": "Pink",
+          "artist": "Aerosmith",
+          "duration": "",
+          "mp3_url": "/audio/aerosmith-pink.mp3",
+          "chords_url": "/chords/aerosmith-pink.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "aerosmith-what-it-takes",
+          "track_number": 5,
+          "title": "What It Takes",
+          "artist": "Aerosmith",
+          "duration": "",
+          "mp3_url": "/audio/aerosmith-what-it-takes.mp3",
+          "chords_url": "/chords/aerosmith-what-it-takes.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "alanis-morissette-ironic",
+          "track_number": 6,
+          "title": "Ironic",
+          "artist": "Alanis Morissette",
+          "duration": "",
+          "mp3_url": "/audio/alanis-morissette-ironic.mp3",
+          "chords_url": "/chords/alanis-morissette-ironic.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "alphaville-forever-young",
+          "track_number": 7,
+          "title": "Forever Young",
+          "artist": "Alphaville",
+          "duration": "",
+          "mp3_url": "/audio/alphaville-forever-young.mp3",
+          "chords_url": "/chords/alphaville-forever-young.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "ayla-flash-and-the-pan",
+          "track_number": 8,
+          "title": "Flash and the Pan",
+          "artist": "Ayla",
+          "duration": "",
+          "mp3_url": "/audio/ayla-flash-and-the-pan.mp3",
+          "chords_url": "/chords/ayla-flash-and-the-pan.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-a-hard-days-night",
+          "track_number": 9,
+          "title": "A Hard Day's Night",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-a-hard-days-night.mp3",
+          "chords_url": "/chords/beatles-a-hard-days-night.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-all-my-loving",
+          "track_number": 10,
+          "title": "All My Loving",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-all-my-loving.mp3",
+          "chords_url": "/chords/beatles-all-my-loving.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-come-together",
+          "track_number": 11,
+          "title": "Come Together",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-come-together.mp3",
+          "chords_url": "/chords/beatles-come-together.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-help",
+          "track_number": 12,
+          "title": "Help!",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-help.mp3",
+          "chords_url": "/chords/beatles-help.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-here-comes-the-sun",
+          "track_number": 13,
+          "title": "Here Comes the Sun",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-here-comes-the-sun.mp3",
+          "chords_url": "/chords/beatles-here-comes-the-sun.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "beatles-love-me-do",
+          "track_number": 14,
+          "title": "Love Me Do",
+          "artist": "The Beatles",
+          "duration": "",
+          "mp3_url": "/audio/beatles-love-me-do.mp3",
+          "chords_url": "/chords/beatles-love-me-do.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bill-medley-the-time-of-my-life",
+          "track_number": 15,
+          "title": "The Time of My Life",
+          "artist": "Bill Medley",
+          "duration": "",
+          "mp3_url": "/audio/bill-medley-the-time-of-my-life.mp3",
+          "chords_url": "/chords/bill-medley-the-time-of-my-life.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bill-withers-aint-no-sunshine",
+          "track_number": 16,
+          "title": "Ain't No Sunshine",
+          "artist": "Bill Withers",
+          "duration": "",
+          "mp3_url": "/audio/bill-withers-aint-no-sunshine.mp3",
+          "chords_url": "/chords/bill-withers-aint-no-sunshine.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Soul",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "billy-idol-eyes-without-a-face",
+          "track_number": 17,
+          "title": "Eyes Without a Face",
+          "artist": "Billy Idol",
+          "duration": "",
+          "mp3_url": "/audio/billy-idol-eyes-without-a-face.mp3",
+          "chords_url": "/chords/billy-idol-eyes-without-a-face.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "billy-joel-piano-man",
+          "track_number": 18,
+          "title": "Piano Man",
+          "artist": "Billy Joel",
+          "duration": "",
+          "mp3_url": "/audio/billy-joel-piano-man.mp3",
+          "chords_url": "/chords/billy-joel-piano-man.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "blind-melon-no-rain",
+          "track_number": 19,
+          "title": "No Rain",
+          "artist": "Blind Melon",
+          "duration": "",
+          "mp3_url": "/audio/blind-melon-no-rain.mp3",
+          "chords_url": "/chords/blind-melon-no-rain.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bon-jovi-midnight-in-chelsea",
+          "track_number": 20,
+          "title": "Midnight in Chelsea",
+          "artist": "Bon Jovi",
+          "duration": "",
+          "mp3_url": "/audio/bon-jovi-midnight-in-chelsea.mp3",
+          "chords_url": "/chords/bon-jovi-midnight-in-chelsea.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Melódico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bon-jovi-someday-ill-be-saturday-night",
+          "track_number": 21,
+          "title": "Someday I'll Be Saturday Night",
+          "artist": "Bon Jovi",
+          "duration": "",
+          "mp3_url": "/audio/bon-jovi-someday-ill-be-saturday-night.mp3",
+          "chords_url": "/chords/bon-jovi-someday-ill-be-saturday-night.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Melódico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bon-jovi-something-for-the-pain",
+          "track_number": 22,
+          "title": "Something for the Pain",
+          "artist": "Bon Jovi",
+          "duration": "",
+          "mp3_url": "/audio/bon-jovi-something-for-the-pain.mp3",
+          "chords_url": "/chords/bon-jovi-something-for-the-pain.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Melódico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bryan-adams-summer-of-69",
+          "track_number": 23,
+          "title": "Summer of '69",
+          "artist": "Bryan Adams",
+          "duration": "",
+          "mp3_url": "/audio/bryan-adams-summer-of-69.mp3",
+          "chords_url": "/chords/bryan-adams-summer-of-69.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "bryan-adams-when-youre-gone",
+          "track_number": 24,
+          "title": "When You're Gone",
+          "artist": "Bryan Adams",
+          "duration": "",
+          "mp3_url": "/audio/bryan-adams-when-youre-gone.mp3",
+          "chords_url": "/chords/bryan-adams-when-youre-gone.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "cake-i-will-survive",
+          "track_number": 25,
+          "title": "I Will Survive",
+          "artist": "Cake",
+          "duration": "",
+          "mp3_url": "/audio/cake-i-will-survive.mp3",
+          "chords_url": "/chords/cake-i-will-survive.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "chris-isaak-wicked-game",
+          "track_number": 26,
+          "title": "Wicked Game",
+          "artist": "Chris Isaak",
+          "duration": "",
+          "mp3_url": "/audio/chris-isaak-wicked-game.mp3",
+          "chords_url": "/chords/chris-isaak-wicked-game.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "cyndi-lauper-time-after-time",
+          "track_number": 27,
+          "title": "Time After Time",
+          "artist": "Cyndi Lauper",
+          "duration": "",
+          "mp3_url": "/audio/cyndi-lauper-time-after-time.mp3",
+          "chords_url": "/chords/cyndi-lauper-time-after-time.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "david-bowie-heroes",
+          "track_number": 28,
+          "title": "Heroes",
+          "artist": "David Bowie",
+          "duration": "",
+          "mp3_url": "/audio/david-bowie-heroes.mp3",
+          "chords_url": "/chords/david-bowie-heroes.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "duran-duran-ordinary-world",
+          "track_number": 29,
+          "title": "Ordinary World",
+          "artist": "Duran Duran",
+          "duration": "",
+          "mp3_url": "/audio/duran-duran-ordinary-world.mp3",
+          "chords_url": "/chords/duran-duran-ordinary-world.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "eagles-hotel-california",
+          "track_number": 30,
+          "title": "Hotel California",
+          "artist": "Eagles",
+          "duration": "",
+          "mp3_url": "/audio/eagles-hotel-california.mp3",
+          "chords_url": "/chords/eagles-hotel-california.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "elton-john-i-dont-wanna-go-on-with-you-like-that",
+          "track_number": 31,
+          "title": "I Don't Wanna Go On with You Like That",
+          "artist": "Elton John",
+          "duration": "",
+          "mp3_url": "/audio/elton-john-i-dont-wanna-go-on-with-you-like-that.mp3",
+          "chords_url": "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "elton-john-rocket-man",
+          "track_number": 32,
+          "title": "Rocket Man",
+          "artist": "Elton John",
+          "duration": "",
+          "mp3_url": "/audio/elton-john-rocket-man.mp3",
+          "chords_url": "/chords/elton-john-rocket-man.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "elton-john-sacrifice",
+          "track_number": 33,
+          "title": "Sacrifice",
+          "artist": "Elton John",
+          "duration": "",
+          "mp3_url": "/audio/elton-john-sacrifice.mp3",
+          "chords_url": "/chords/elton-john-sacrifice.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "elton-john-the-one",
+          "track_number": 34,
+          "title": "The One",
+          "artist": "Elton John",
+          "duration": "",
+          "mp3_url": "/audio/elton-john-the-one.mp3",
+          "chords_url": "/chords/elton-john-the-one.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "foo-fighters-big-me",
+          "track_number": 35,
+          "title": "Big Me",
+          "artist": "Foo Fighters",
+          "duration": "",
+          "mp3_url": "/audio/foo-fighters-big-me.mp3",
+          "chords_url": "/chords/foo-fighters-big-me.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "foo-fighters-learn-to-fly",
+          "track_number": 36,
+          "title": "Learn to Fly",
+          "artist": "Foo Fighters",
+          "duration": "",
+          "mp3_url": "/audio/foo-fighters-learn-to-fly.mp3",
+          "chords_url": "/chords/foo-fighters-learn-to-fly.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "foo-fighters-times-like-these",
+          "track_number": 37,
+          "title": "Times Like These",
+          "artist": "Foo Fighters",
+          "duration": "",
+          "mp3_url": "/audio/foo-fighters-times-like-these.mp3",
+          "chords_url": "/chords/foo-fighters-times-like-these.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "four-non-blondes-whats-going-on",
+          "track_number": 38,
+          "title": "What's Going On",
+          "artist": "Four Non Blondes",
+          "duration": "",
+          "mp3_url": "/audio/four-non-blondes-whats-going-on.mp3",
+          "chords_url": "/chords/four-non-blondes-whats-going-on.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "fugees-killing-me-softly",
+          "track_number": 39,
+          "title": "Killing Me Softly",
+          "artist": "Fugees",
+          "duration": "",
+          "mp3_url": "/audio/fugees-killing-me-softly.mp3",
+          "chords_url": "/chords/fugees-killing-me-softly.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Hip-Hop/R&B",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "george-harrison-my-sweet-lord",
+          "track_number": 40,
+          "title": "My Sweet Lord",
+          "artist": "George Harrison",
+          "duration": "",
+          "mp3_url": "/audio/george-harrison-my-sweet-lord.mp3",
+          "chords_url": "/chords/george-harrison-my-sweet-lord.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-21-guns",
+          "track_number": 41,
+          "title": "21 Guns",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-21-guns.mp3",
+          "chords_url": "/chords/green-day-21-guns.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-boulevard-of-broken-dreams",
+          "track_number": 42,
+          "title": "Boulevard of Broken Dreams",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-boulevard-of-broken-dreams.mp3",
+          "chords_url": "/chords/green-day-boulevard-of-broken-dreams.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-she",
+          "track_number": 43,
+          "title": "She",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-she.mp3",
+          "chords_url": "/chords/green-day-she.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-time-of-your-life",
+          "track_number": 44,
+          "title": "Time of Your Life",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-time-of-your-life.mp3",
+          "chords_url": "/chords/green-day-time-of-your-life.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-wake-me-up-when-september-ends",
+          "track_number": 45,
+          "title": "Wake Me Up When September Ends",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-wake-me-up-when-september-ends.mp3",
+          "chords_url": "/chords/green-day-wake-me-up-when-september-ends.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "green-day-when-i-come-around",
+          "track_number": 46,
+          "title": "When I Come Around",
+          "artist": "Green Day",
+          "duration": "",
+          "mp3_url": "/audio/green-day-when-i-come-around.mp3",
+          "chords_url": "/chords/green-day-when-i-come-around.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Punk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "hoobastank-the-reason",
+          "track_number": 47,
+          "title": "The Reason",
+          "artist": "Hoobastank",
+          "duration": "",
+          "mp3_url": "/audio/hoobastank-the-reason.mp3",
+          "chords_url": "/chords/hoobastank-the-reason.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "jason-mraz-im-yours",
+          "track_number": 48,
+          "title": "I'm Yours",
+          "artist": "Jason Mraz",
+          "duration": "",
+          "mp3_url": "/audio/jason-mraz-im-yours.mp3",
+          "chords_url": "/chords/jason-mraz-im-yours.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Acústico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "john-farnham-you-are-the-voice",
+          "track_number": 49,
+          "title": "You're the Voice",
+          "artist": "John Farnham",
+          "duration": "",
+          "mp3_url": "/audio/john-farnham-you-are-the-voice.mp3",
+          "chords_url": "/chords/john-farnham-you-are-the-voice.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "keane-somewhere-only-we-know",
+          "track_number": 50,
+          "title": "Somewhere Only We Know",
+          "artist": "Keane",
+          "duration": "",
+          "mp3_url": "/audio/keane-somewhere-only-we-know.mp3",
+          "chords_url": "/chords/keane-somewhere-only-we-know.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "midnight-oil-beds-are-burning",
+          "track_number": 51,
+          "title": "Beds Are Burning",
+          "artist": "Midnight Oil",
+          "duration": "",
+          "mp3_url": "/audio/midnight-oil-beds-are-burning.mp3",
+          "chords_url": "/chords/midnight-oil-beds-are-burning.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "mr-big-to-be-with-you",
+          "track_number": 52,
+          "title": "To Be with You",
+          "artist": "Mr. Big",
+          "duration": "",
+          "mp3_url": "/audio/mr-big-to-be-with-you.mp3",
+          "chords_url": "/chords/mr-big-to-be-with-you.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Melódico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "new-radicals-you-get-what-you-give",
+          "track_number": 53,
+          "title": "You Get What You Give",
+          "artist": "New Radicals",
+          "duration": "",
+          "mp3_url": "/audio/new-radicals-you-get-what-you-give.mp3",
+          "chords_url": "/chords/new-radicals-you-get-what-you-give.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "oasis-champagne-supernova",
+          "track_number": 54,
+          "title": "Champagne Supernova",
+          "artist": "Oasis",
+          "duration": "",
+          "mp3_url": "/audio/oasis-champagne-supernova.mp3",
+          "chords_url": "/chords/oasis-champagne-supernova.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Britpop",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "oasis-dont-look-back-in-anger",
+          "track_number": 55,
+          "title": "Don't Look Back in Anger",
+          "artist": "Oasis",
+          "duration": "",
+          "mp3_url": "/audio/oasis-dont-look-back-in-anger.mp3",
+          "chords_url": "/chords/oasis-dont-look-back-in-anger.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Britpop",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "oasis-little-by-little",
+          "track_number": 56,
+          "title": "Little by Little",
+          "artist": "Oasis",
+          "duration": "",
+          "mp3_url": "/audio/oasis-little-by-little.mp3",
+          "chords_url": "/chords/oasis-little-by-little.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Britpop",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "oasis-stand-by-me",
+          "track_number": 57,
+          "title": "Stand by Me",
+          "artist": "Oasis",
+          "duration": "",
+          "mp3_url": "/audio/oasis-stand-by-me.mp3",
+          "chords_url": "/chords/oasis-stand-by-me.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Britpop",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "oasis-wonderwall",
+          "track_number": 58,
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "duration": "",
+          "mp3_url": "/audio/oasis-wonderwall.mp3",
+          "chords_url": "/chords/oasis-wonderwall.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Britpop",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "phil-collins-another-day-in-paradise",
+          "track_number": 59,
+          "title": "Another Day in Paradise",
+          "artist": "Phil Collins",
+          "duration": "",
+          "mp3_url": "/audio/phil-collins-another-day-in-paradise.mp3",
+          "chords_url": "/chords/phil-collins-another-day-in-paradise.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "pink-floyd-wish-you-were-here",
+          "track_number": 60,
+          "title": "Wish You Were Here",
+          "artist": "Pink Floyd",
+          "duration": "",
+          "mp3_url": "/audio/pink-floyd-wish-you-were-here.mp3",
+          "chords_url": "/chords/pink-floyd-wish-you-were-here.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Progresivo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-a-kind-of-magic",
+          "track_number": 61,
+          "title": "A Kind of Magic",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-a-kind-of-magic.mp3",
+          "chords_url": "/chords/queen-a-kind-of-magic.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-bicycle-race",
+          "track_number": 62,
+          "title": "Bicycle Race",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-bicycle-race.mp3",
+          "chords_url": "/chords/queen-bicycle-race.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-dont-stop-me-now",
+          "track_number": 63,
+          "title": "Don't Stop Me Now",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-dont-stop-me-now.mp3",
+          "chords_url": "/chords/queen-dont-stop-me-now.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-fat-bottomed-girls",
+          "track_number": 64,
+          "title": "Fat Bottomed Girls",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-fat-bottomed-girls.mp3",
+          "chords_url": "/chords/queen-fat-bottomed-girls.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-friends-will-be-friends",
+          "track_number": 65,
+          "title": "Friends Will Be Friends",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-friends-will-be-friends.mp3",
+          "chords_url": "/chords/queen-friends-will-be-friends.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-play-the-game",
+          "track_number": 66,
+          "title": "Play the Game",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-play-the-game.mp3",
+          "chords_url": "/chords/queen-play-the-game.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-somebody-to-love",
+          "track_number": 67,
+          "title": "Somebody to Love",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-somebody-to-love.mp3",
+          "chords_url": "/chords/queen-somebody-to-love.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-spread-your-wings",
+          "track_number": 68,
+          "title": "Spread Your Wings",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-spread-your-wings.mp3",
+          "chords_url": "/chords/queen-spread-your-wings.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-under-pressure",
+          "track_number": 69,
+          "title": "Under Pressure",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-under-pressure.mp3",
+          "chords_url": "/chords/queen-under-pressure.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-we-are-the-champions",
+          "track_number": 70,
+          "title": "We Are the Champions",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-we-are-the-champions.mp3",
+          "chords_url": "/chords/queen-we-are-the-champions.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-you-dont-fool-me",
+          "track_number": 71,
+          "title": "You Don't Fool Me",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-you-dont-fool-me.mp3",
+          "chords_url": "/chords/queen-you-dont-fool-me.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "queen-youre-my-best-friend",
+          "track_number": 72,
+          "title": "You're My Best Friend",
+          "artist": "Queen",
+          "duration": "",
+          "mp3_url": "/audio/queen-youre-my-best-friend.mp3",
+          "chords_url": "/chords/queen-youre-my-best-friend.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-aeroplane",
+          "track_number": 73,
+          "title": "Aeroplane",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-aeroplane.mp3",
+          "chords_url": "/chords/redhotchillipeppers-aeroplane.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-around-the-world",
+          "track_number": 74,
+          "title": "Around the World",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-around-the-world.mp3",
+          "chords_url": "/chords/redhotchillipeppers-around-the-world.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-californication",
+          "track_number": 75,
+          "title": "Californication",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-californication.mp3",
+          "chords_url": "/chords/redhotchillipeppers-californication.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-otherside",
+          "track_number": 76,
+          "title": "Otherside",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-otherside.mp3",
+          "chords_url": "/chords/redhotchillipeppers-otherside.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-scar-tissue",
+          "track_number": 77,
+          "title": "Scar Tissue",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-scar-tissue.mp3",
+          "chords_url": "/chords/redhotchillipeppers-scar-tissue.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "redhotchillipeppers-under-the-bridge",
+          "track_number": 78,
+          "title": "Under the Bridge",
+          "artist": "Red Hot Chili Peppers",
+          "duration": "",
+          "mp3_url": "/audio/redhotchillipeppers-under-the-bridge.mp3",
+          "chords_url": "/chords/redhotchillipeppers-under-the-bridge.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Funk Rock",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "rem-losing-my-religion",
+          "track_number": 79,
+          "title": "Losing My Religion",
+          "artist": "REM",
+          "duration": "",
+          "mp3_url": "/audio/rem-losing-my-religion.mp3",
+          "chords_url": "/chords/rem-losing-my-religion.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-come-undone",
+          "track_number": 80,
+          "title": "Come Undone",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-come-undone.mp3",
+          "chords_url": "/chords/robbie-williams-come-undone.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-feel",
+          "track_number": 81,
+          "title": "Feel",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-feel.mp3",
+          "chords_url": "/chords/robbie-williams-feel.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-let-me-entertain-you",
+          "track_number": 82,
+          "title": "Let Me Entertain You",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-let-me-entertain-you.mp3",
+          "chords_url": "/chords/robbie-williams-let-me-entertain-you.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-misunderstood",
+          "track_number": 83,
+          "title": "Misunderstood",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-misunderstood.mp3",
+          "chords_url": "/chords/robbie-williams-misunderstood.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-sin-sin-sin",
+          "track_number": 84,
+          "title": "Sin Sin Sin",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-sin-sin-sin.mp3",
+          "chords_url": "/chords/robbie-williams-sin-sin-sin.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "robbie-williams-something-beautiful",
+          "track_number": 85,
+          "title": "Something Beautiful",
+          "artist": "Robbie Williams",
+          "duration": "",
+          "mp3_url": "/audio/robbie-williams-something-beautiful.mp3",
+          "chords_url": "/chords/robbie-williams-something-beautiful.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "rod-stewart-forever-young",
+          "track_number": 86,
+          "title": "Forever Young",
+          "artist": "Rod Stewart",
+          "duration": "",
+          "mp3_url": "/audio/rod-stewart-forever-young.mp3",
+          "chords_url": "/chords/rod-stewart-forever-young.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "rod-stewart-my-heart-cant-tell-you-no",
+          "track_number": 87,
+          "title": "My Heart Can't Tell You No",
+          "artist": "Rod Stewart",
+          "duration": "",
+          "mp3_url": "/audio/rod-stewart-my-heart-cant-tell-you-no.mp3",
+          "chords_url": "/chords/rod-stewart-my-heart-cant-tell-you-no.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "rolling-stones-anybody-seen-my-baby",
+          "track_number": 88,
+          "title": "Anybody Seen My Baby?",
+          "artist": "Rolling Stones",
+          "duration": "",
+          "mp3_url": "/audio/rolling-stones-anybody-seen-my-baby.mp3",
+          "chords_url": "/chords/rolling-stones-anybody-seen-my-baby.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "rolling-stones-sympathy-for-the-devil",
+          "track_number": 89,
+          "title": "Sympathy for the Devil",
+          "artist": "Rolling Stones",
+          "duration": "",
+          "mp3_url": "/audio/rolling-stones-sympathy-for-the-devil.mp3",
+          "chords_url": "/chords/rolling-stones-sympathy-for-the-devil.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "roxette-big-love",
+          "track_number": 90,
+          "title": "Big Love",
+          "artist": "Roxette",
+          "duration": "",
+          "mp3_url": "/audio/roxette-big-love.mp3",
+          "chords_url": "/chords/roxette-big-love.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "roxette-joyride",
+          "track_number": 91,
+          "title": "Joyride",
+          "artist": "Roxette",
+          "duration": "",
+          "mp3_url": "/audio/roxette-joyride.mp3",
+          "chords_url": "/chords/roxette-joyride.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "roxette-june-afternoon",
+          "track_number": 92,
+          "title": "June Afternoon",
+          "artist": "Roxette",
+          "duration": "",
+          "mp3_url": "/audio/roxette-june-afternoon.mp3",
+          "chords_url": "/chords/roxette-june-afternoon.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "roxette-sleeping-in-my-car",
+          "track_number": 93,
+          "title": "Sleeping in My Car",
+          "artist": "Roxette",
+          "duration": "",
+          "mp3_url": "/audio/roxette-sleeping-in-my-car.mp3",
+          "chords_url": "/chords/roxette-sleeping-in-my-car.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "roxette-the-look",
+          "track_number": 94,
+          "title": "The Look",
+          "artist": "Roxette",
+          "duration": "",
+          "mp3_url": "/audio/roxette-the-look.mp3",
+          "chords_url": "/chords/roxette-the-look.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "the-cure-friday-im-in-love",
+          "track_number": 95,
+          "title": "Friday I'm in Love",
+          "artist": "The Cure",
+          "duration": "",
+          "mp3_url": "/audio/the-cure-friday-im-in-love.mp3",
+          "chords_url": "/chords/the-cure-friday-im-in-love.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "the-outfield-your-love",
+          "track_number": 96,
+          "title": "Your Love",
+          "artist": "The Outfield",
+          "duration": "",
+          "mp3_url": "/audio/the-outfield-your-love.mp3",
+          "chords_url": "/chords/the-outfield-your-love.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "tina-turner-simply-the-best",
+          "track_number": 97,
+          "title": "Simply the Best",
+          "artist": "Tina Turner",
+          "duration": "",
+          "mp3_url": "/audio/tina-turner-simply-the-best.mp3",
+          "chords_url": "/chords/tina-turner-simply-the-best.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "train-hey-soul-sister",
+          "track_number": 98,
+          "title": "Hey, Soul Sister",
+          "artist": "Train",
+          "duration": "",
+          "mp3_url": "/audio/train-hey-soul-sister.mp3",
+          "chords_url": "/chords/train-hey-soul-sister.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Pop Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "u2-with-or-without-you",
+          "track_number": 99,
+          "title": "With or Without You",
+          "artist": "U2",
+          "duration": "",
+          "mp3_url": "/audio/u2-with-or-without-you.mp3",
+          "chords_url": "/chords/u2-with-or-without-you.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Alternativo",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "van-halen-cant-stop-loving-you",
+          "track_number": 100,
+          "title": "Can't Stop Lovin' You",
+          "artist": "Van Halen",
+          "duration": "",
+          "mp3_url": "/audio/van-halen-cant-stop-loving-you.mp3",
+          "chords_url": "/chords/van-halen-cant-stop-loving-you.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        },
+        {
+          "id": "van-halen-jump",
+          "track_number": 101,
+          "title": "Jump",
+          "artist": "Van Halen",
+          "duration": "",
+          "mp3_url": "/audio/van-halen-jump.mp3",
+          "chords_url": "/chords/van-halen-jump.json",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 0,
+            "tonalidad": "",
+            "compas": "",
+            "dificultad": "",
+            "style": "Rock Clásico",
+            "genre": "Pop Rock",
+            "categoria": "Covers Pop Rock Inglés"
+          }
+        }
+      ]
+    }
+  ]
+}

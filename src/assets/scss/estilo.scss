@@ -1,0 +1,23 @@
+/*-----------------SASS A CSS------------------------*/
+@import "./_01-General/App";                 
+
+@import "./_03-Componentes/Header";          
+
+//-----------HOME - MAIN-----------------//
+@import "./_03-Componentes/MainPublicidadSlider"; 
+
+//--------------FOOTER----------------//
+@import "./_03-Componentes/Footer";         
+
+//------------CHORDS------------------//
+@import "./_03-Componentes/ChordsViewer/ChordsViewerIndex"; 
+
+//----------REPRODUCTOR VIDEO------------//
+@import "./_03-Componentes/ReproductorVideo";
+
+//-----------FORMATEO------------------//
+@import "./_03-Componentes/BibliotecaTeoriaMusical";
+
+//----------------OTROS------------------//
+@import "./_03-Componentes/ConsultasAyuda";
+@import "./_03-Componentes/Contacto";

@@ -1,0 +1,577 @@
+{
+  "id": "ac-dc-tnt",
+  "title": "T.N.T.",
+  "artist": "AC/DC",
+  "originalKey": "G",
+  "tempo": "Fast",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff 1)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRIMERA PARTE",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff 1)"
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "See me ride out of the sunset"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "On your color TV screen"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Out for all that I can get"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "If you know what I mean"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Women to the left of me"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "And women to the right"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Ain't got no gun"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Ain't got no knife"
+            },
+            {
+              "type": "chord",
+              "content": "D"
+            },
+            {
+              "type": "lyric",
+              "content": "Don't you start no fight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff 2)"
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "'Cause I'm TNT, I'm dynamite"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, and I'll win the fight"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, I'm a power load"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, watch me explode"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDA PARTE",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff 1)"
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "I'm dirty, mean and mighty unclean"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "I'm a wanted man"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Public enemy number one"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Understand?"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "So lock up your daughter"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Lock up your wife"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Lock up your back door"
+            },
+            {
+              "type": "chord",
+              "content": "C"
+            },
+            {
+              "type": "lyric",
+              "content": "Run for your life"
+            },
+            {
+              "type": "chord",
+              "content": "D"
+            },
+            {
+              "type": "lyric",
+              "content": "The man is back in town"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Don't you mess me 'round"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Riff 2)"
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "'Cause I'm TNT, I'm dynamite"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT and I'll win the fight"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, I'm a power load"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, watch me explode"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SOLO",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Solo de guitarra)"
+        },
+        {
+          "type": "text",
+          "content": "(Riff 1 después del solo)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO FINAL",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey, hey, hey"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey, hey, hey"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey, hey, hey"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey, hey, hey"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "I'm dynamite (hey, hey)"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "And I'll win the fight (hey, hey)"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT, hey"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "I'm a power load (hey, hey)"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "TNT"
+            },
+            {
+              "type": "chord",
+              "content": "G"
+            },
+            {
+              "type": "lyric",
+              "content": "Watch me explode"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "OUTRO",
+      "lines": [
+        {
+          "type": "text",
+          "content": "(Progresión ascendente final)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+﻿{
+    "id": "axel-fernando-tu-amor-por-siempre",
+    "title": "Tu amor por siempre",
+    "artist": "Axel Fernando",
+    "originalKey": "A",
+    "tempo": "Moderate",
+    "timeSignature": "4/4",
+    "content": [
+      {
+        "type": "section",
+        "name": "INTRO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["A", "-", "E", "–", "D", "-", "A", "(x2)"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 1",
+        "color": "ale",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de tu voz"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": "y tu ternura,"
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "Tú eres mi color,"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "mi poesía y mi música."
+          }
+        ]
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 2",
+        "color": "pato",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de tu mirada"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": "tan profunda."
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "Q se mete en mi alma,"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "la eleva y me inunda."
+          }
+        ]
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 1",
+        "color": "ale",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de tu vientre"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": "y d tu ombligo."
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "De tus manos, tu lengua"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "y hasta tus oídos."
+          }
+        ]
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 2",
+        "color": "pato",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de tu piel,"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": "tan transparente."
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "Y de tu boca directa"
+          },
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "que me habla de frente."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PRE ESTRIBILLO",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#m", "B", "E"]
+              },
+              {
+                "type": "lyric",
+                "content": "Y nunca dejarás"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#m", "B", "E", "E7"]
+              },
+              {
+                "type": "lyric",
+                "content": "De mi boca escuchar decir que"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Se mi amor, por favor, por siempre."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "INTRO 2",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["A", "-", "E", "–", "D", "-", "A", "(x2)"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 1",
+        "color": "ale",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de tus besos mariposa"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": ""
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "De tus logros, tus sueños, de todo lo q tocas."
+          }
+        ]
+      },
+      {
+        "type": "voice",
+        "name": "VOZ 2",
+        "color": "pato",
+        "lines": [
+          {
+            "type": "chord",
+            "content": "A"
+          },
+          {
+            "type": "lyric",
+            "content": "Estoy enamorado de las cosas q no veo"
+          },
+          {
+            "type": "chord",
+            "content": "Bm"
+          },
+          {
+            "type": "lyric",
+            "content": ""
+          },
+          {
+            "type": "chord",
+            "content": "E"
+          },
+          {
+            "type": "lyric",
+            "content": "Tus secretos, tu historia, lo q guardas dentro"
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "PRE ESTRIBILLO 2",
+        "lines": [
+          {
+            "type": "voice",
+            "name": "VOZ 1",
+            "color": "ale",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#m", "B", "E"]
+              },
+              {
+                "type": "lyric",
+                "content": "Y nunca dejarás"
+              }
+            ]
+          },
+          {
+            "type": "voice",
+            "name": "VOZ 2",
+            "color": "pato",
+            "lines": [
+              {
+                "type": "chords",
+                "content": ["F#m", "B", "E", "E7"]
+              },
+              {
+                "type": "lyric",
+                "content": "De mi boca escuchar decir que"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "ESTRIBILLO 2",
+        "lines": [
+          {
+            "type": "text",
+            "content": "(x4)"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Yo quiero ser tu amor por siempre,"
+          },
+          {
+            "type": "chords",
+            "content": ["A", "E", "D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Se mi amor, por favor, por siempre."
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "INTRO FINAL",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["A", "-", "E", "–", "D", "-", "A", "(x2)"]
+          }
+        ]
+      },
+      {
+        "type": "divider"
+      },
+      {
+        "type": "section",
+        "name": "OUTRO",
+        "lines": [
+          {
+            "type": "chords",
+            "content": ["D", "A"]
+          },
+          {
+            "type": "lyric",
+            "content": "Tu amor por siempre."
+          }
+        ]
+      }
+    ]
+  }

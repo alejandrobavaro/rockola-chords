@@ -1,0 +1,442 @@
+{
+  "id": "diego-torres-color-esperanza",
+  "title": "Color Esperanza",
+  "artist": "Diego Torres",
+  "originalKey": "C",
+  "tempo": "Moderate",
+  "timeSignature": "4/4",
+  "content": [
+    {
+      "type": "section",
+      "name": "INTRO/PRIMER VERSO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "B", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Se que hay en tus ojos con solo mirar"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que estas cansado de andar y andar"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Y caminar girando siempre en un lugar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "SEGUNDO VERSO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Bm", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Se que las ventanas se pueden abrir"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Cambiar el aire depende de ti"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Te ayudara vale la pena una vez más"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PRECORO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Saber que se puede querer que se pueda"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Quitarse los miedos sacarlos afuera"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Pintarse la cara color esperanza"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Tentar al futuro con el corazón"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "TERCER VERSO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Bm", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Es mejor perderse que nunca embarcar"
+            },
+            {
+              "type": "chords",
+              "content": ["Dm", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Mejor tentarse a dejar de intentar"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Bm", "Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Aunque ya vez que no es tan fácil empezar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "CUARTO VERSO",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Bm", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Se que lo imposible se puede lograr"
+            },
+            {
+              "type": "chords",
+              "content": ["D", "G", "C"]
+            },
+            {
+              "type": "lyric",
+              "content": "Que la tristeza algún día se ira"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Bm", "C", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Y así será la vida cambia y cambiara"
+            },
+            {
+              "type": "chords",
+              "content": ["C", "Bm"]
+            },
+            {
+              "type": "lyric",
+              "content": "Sentirás que el alma vuela"
+            },
+            {
+              "type": "chords",
+              "content": ["Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Por cantar una vez más"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "PUENTE",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Em", "Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Vale mas poder brillar y solo buscar ver el sol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 1",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Saber que se puede querer que se pueda"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Quitarse los miedos sacarlos afuera"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Pintarse la cara color esperanza"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Tentar al futuro con el corazón"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "section",
+      "name": "ESTRIBILLO 2",
+      "lines": [
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Saber que se puede querer que se pueda"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["Am", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Quitarse los miedos sacarlos afuera"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 1",
+          "color": "ale",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["G", "Em"]
+            },
+            {
+              "type": "lyric",
+              "content": "Pintarse la cara color esperanza"
+            }
+          ]
+        },
+        {
+          "type": "voice",
+          "name": "VOZ 2",
+          "color": "pato",
+          "lines": [
+            {
+              "type": "chords",
+              "content": ["C", "D"]
+            },
+            {
+              "type": "lyric",
+              "content": "Tentar al futuro con el corazón"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
