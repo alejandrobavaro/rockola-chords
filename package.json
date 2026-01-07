@@ -1,7 +1,7 @@
 {
-  "name": "vite-project",
+  "name": "rockola-chords",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,9 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "create-zapadas": "node create-zapadas-structure.js",
-    "postbuild": "node copy-audio.js"
+    "postbuild": "node copy-audio.js",
+    "deploy-audio": "node upload-audio-direct.js",
+    "deploy-full": "npm run build && netlify deploy --prod"
   },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
@@ -49,5 +51,9 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "sass": "^1.77.4",
     "vite": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
   }
 }
