@@ -1,8 +1,35 @@
 [build]
   command = "npm run build"
   publish = "dist"
+  base = "/"
 
+[build.environment]
+  NODE_VERSION = "18"
+  NODE_OPTIONS = "--max-old-space-size=4096"
+
+# Configuración esencial para SPA React
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Headers para caching de audios (AJUSTADO)
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800, stale-while-revalidate=86400"
+    Access-Control-Allow-Origin = "*"
+
+# Headers para assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Headers generales de seguridad
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

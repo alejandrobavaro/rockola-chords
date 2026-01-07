@@ -1,5 +1,3 @@
-# Actualizar .gitignore
-cat > .gitignore << 'EOF'
 # Dependencias
 /node_modules
 /dist
@@ -20,12 +18,10 @@ yarn-error.log*
 .netlify/
 
 # Archivos de audio MP3 (NO subir a GitHub)
-public/audio/*.mp3
+public/audio/
 *.mp3
 
 # Backups y temporales
 *.bak
 *.tmp
 *.temp
-EOFpublic/audio/
-*.mp3
