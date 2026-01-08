@@ -10,9 +10,13 @@
     "preview": "vite preview",
     "create-zapadas": "node create-zapadas-structure.js",
     "postbuild": "node copy-audio.js",
-    "deploy-heavyaudio": "node upload-heavy-audio.js",
-    "deploy-all": "npm run build && netlify deploy --prod",
-    "clean-audio": "node clean-audio.js"
+    
+    // NUEVO SCRIPT SEGURO para subir audios pesados
+    "deploy-audio-safe": "node deploy-audio-safe.js",
+    
+    "verify-audios": "node check-audios.js",
+    "clean-temp": "node clean-temp.js",
+    "deploy-full": "npm run build && netlify deploy --prod"
   },
   "dependencies": {
     "@react-pdf-viewer/core": "^3.12.0",
