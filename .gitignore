@@ -16,10 +16,28 @@ yarn-error.log*
 
 # Netlify local
 .netlify/
+.netlify-audio-upload/
 
-# Archivos de audio MP3 (NO subir a GitHub)
-public/audio/
-*.mp3
+# ===========================================
+# ARCHIVOS DE AUDIO - CONFIGURACIÓN ESPECÍFICA
+# ===========================================
+
+# ✅ SE SUBEN A GITHUB (tus originales):
+# public/audio/01-mp3-musicaoriginal/**/*.mp3
+# public/audio/03-mp3-medleys/**/*.mp3  
+# public/audio/05-mp3-zapadas/**/*.mp3
+
+# ❌ NO SE SUBEN A GITHUB (covers pesados):
+# Archivos MP3 SUELTOS en public/audio/ (no en subcarpetas)
+public/audio/*.mp3
+
+# También excluir otros formatos de audio sueltos
+public/audio/*.wav
+public/audio/*.ogg
+public/audio/*.m4a
+
+# Carpeta temporal de uploads
+.netlify-audio-upload/
 
 # Backups y temporales
 *.bak
