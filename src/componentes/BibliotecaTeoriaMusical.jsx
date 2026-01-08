@@ -5,11 +5,11 @@
 // Importaciones de React y dependencias
 import React, { useState, useEffect, useRef } from "react";
 import { FiMusic, FiSearch, FiX } from "react-icons/fi";
-import RockolaCancionerosDiagramaAcordes from "./RockolaCancionerosDiagramaAcordes";
-import "../assets/scss/_03-Componentes/_RockolaCancioneros.scss";
+import BibliotecaTeoriaMusicalDiagramaAcordes from "./BibliotecaTeoriaMusicalDiagramaAcordes";
+import "../assets/scss/_03-Componentes/_BibliotecaTeoriaMusical.scss";
 
 // 🎵 COMPONENTE PRINCIPAL - Biblioteca de Acordes
-const RockolaCancioneros = () => {
+const BibliotecaTeoriaMusical = () => {
   // ============= ESTADOS DEL COMPONENTE =============
   // 📊 Estados para manejar los datos de acordes
   const [chords, setChords] = useState([]); // Lista completa de acordes
@@ -140,7 +140,7 @@ const RockolaCancioneros = () => {
           </div>
           <div className="chord-detail-body">
             {/* 🎼 Componente que muestra el diagrama del acorde */}
-            <RockolaCancionerosDiagramaAcordes fingering={selectedChord.fingering} />
+            <BibliotecaTeoriaMusicalDiagramaAcordes fingering={selectedChord.fingering} />
             <div className="chord-detail-info">
               <h3>Descripción</h3>
               <p>{selectedChord.description}</p>
@@ -230,7 +230,7 @@ const RockolaCancioneros = () => {
             : filteredChords.map((chord, index) => (
               <div key={index} className="chord-item" onClick={() => handleChordSelect(chord)}>
                 <div className="chord-diagram-wrapper">
-                  <RockolaCancionerosDiagramaAcordes fingering={chord.fingering} />
+                  <BibliotecaTeoriaMusicalDiagramaAcordes fingering={chord.fingering} />
                 </div>
                 <div className="chord-info">
                   <h3>{chord.name}</h3>
@@ -250,4 +250,4 @@ const RockolaCancioneros = () => {
   );
 };
 
-export default RockolaCancioneros;
+export default BibliotecaTeoriaMusical;

@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "create-zapadas": "node create-zapadas-structure.js",
     "postbuild": "node copy-audio.js",
-    "deploy-audio": "node upload-audio-direct.js",
+    "deploy-audio": "node upload-audio-direct.cjs",
     "deploy-full": "npm run build && netlify deploy --prod"
   },
   "dependencies": {

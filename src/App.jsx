@@ -16,7 +16,7 @@ import MainWhatsappIcon from "./componentes/MainWhatsappIcon";
 import MainPublicidadSlider from "./componentes/MainPublicidadSlider";
 import Footer from "./componentes/Footer";
 import Contacto from "./componentes/Contacto";
-import RockolaCancioneros from "./componentes/RockolaCancioneros";
+import BibliotecaTeoriaMusical from "./componentes/BibliotecaTeoriaMusical";
 import ConsultasAyuda from "./componentes/ConsultasAyuda";
 import ReproductorVideo from "./componentes/ReproductorVideo"; 
 import FormateoPartituras from "./componentes/FormateoPartituras";
@@ -102,10 +102,10 @@ function App() {
                   } />
                   
                   {/* VIDEOS - REPRODUCTOR DE VIDEO (CORREGIDO) */}
-                  <Route path="/Videos" element={<ReproductorVideo />} /> {/* ✅ Ruta correcta */}
+                  <Route path="/Videos" element={<ReproductorVideo />} />
                   
                   {/* TEORÍA MUSICAL */}
-                  <Route path="/formateo-chords" element={<RockolaCancioneros />} />
+                  <Route path="/formateo-chords" element={<BibliotecaTeoriaMusical />} />
                   
                   {/* FORMATEO DE PARTITURAS */}
                   <Route path="/chords-format" element={

@@ -110,37 +110,62 @@ try {
   console.log('💡 Luego autentícate: netlify login');
   process.exit(1);
 }
-
 // 6. Subir a Netlify
 console.log('\n☁️  Subiendo a Netlify (esto puede tardar varios minutos)...');
 console.log('⏳ Por favor, espera. No cierres la terminal.\n');
+console.log('📊 Tamaño aproximado: ~1GB');
+console.log('⏰ Tiempo estimado: 15-30 minutos\n');
 
 try {
-  // Comando para subir SOLO los audios
-  execSync(`netlify deploy --dir=${TEMP_DIR} --prod --message="Actualización de archivos de audio"`, {
+  // Comando para subir SOLO los audios - SIN BUILD automático
+  console.log('🚀 Iniciando upload directo...');
+  
+  // Crear un netlify.toml temporal que NO ejecute build
+  const netlifyTomlPath = path.join(TEMP_DIR, 'netlify.toml');
+  fs.writeFileSync(netlifyTomlPath, 
+`# Configuración temporal para subir audios
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+    Access-Control-Allow-Origin = "*"
+
+# Desactivar funciones y build automático
+[functions]
+  directory = null
+
+[dev]
+  autoLaunch = false`
+  );
+  
+  // Comando simplificado
+  const deployCommand = `netlify deploy --dir=${TEMP_DIR} --prod --message="Audio upload: ${new Date().toLocaleDateString()}" --timeout 900`;
+  console.log(`📝 Comando: ${deployCommand}`);
+  
+  execSync(deployCommand, {
     stdio: 'inherit',
-    encoding: 'utf8'
+    encoding: 'utf8',
+    timeout: 20 * 60 * 1000 // 20 minutos timeout
   });
   
   console.log('\n🎉 ===========================================');
   console.log('🎉 ¡AUDIOS SUBIDOS EXITOSAMENTE A NETLIFY!');
   console.log('🎉 ===========================================');
   console.log(`📊 Total subido: ${totalCopiados} archivos MP3`);
-  console.log('💡 Los audios están disponibles inmediatamente en tu sitio.');
+  console.log('💡 Los audios están disponibles inmediatamente en:');
+  console.log('   https://rockola-cancioneros.netlify.app/audio/');
   
 } catch (error) {
   console.error('\n❌ Error al subir a Netlify:', error.message);
   console.log('\n🔧 Soluciones posibles:');
-  console.log('   1. Ejecuta: netlify login (para autenticarte)');
-  console.log('   2. Asegúrate de tener permisos en el sitio de Netlify');
-  console.log('   3. Verifica tu conexión a internet');
-} finally {
-  // 7. Limpiar directorio temporal
-  console.log('\n🧹 Limpiando archivos temporales...');
-  try {
-    fs.rmSync(TEMP_DIR, { recursive: true });
-    console.log('✅ Limpieza completada.');
-  } catch (cleanError) {
-    console.log('⚠️  No se pudo limpiar temp, puedes borrar manualmente:', TEMP_DIR);
-  }
+  console.log('   1. Verifica tu conexión a internet (necesitas subir ~1GB)');
+  console.log('   2. Intenta con menos archivos primero:');
+  console.log('      - Crea una carpeta temporal con solo 10 MP3');
+  console.log('      - netlify deploy --dir=carpeta_temp --prod');
+  console.log('   3. Sube por partes:');
+  console.log('      - Sube carpeta 01-mp3-musicaoriginal/ primero');
+  console.log('      - Luego 03-mp3-medleys/, etc.');
 }

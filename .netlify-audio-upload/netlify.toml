@@ -1,0 +1,16 @@
+# Configuración temporal para subir audios
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/audio/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+    Access-Control-Allow-Origin = "*"
+
+# Desactivar funciones y build automático
+[functions]
+  directory = null
+
+[dev]
+  autoLaunch = false

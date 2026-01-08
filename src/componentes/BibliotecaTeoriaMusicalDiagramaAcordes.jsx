@@ -4,9 +4,9 @@
 // ================================================
 
 import React, { useMemo } from "react";
-import "../assets/scss/_03-Componentes/_RockolaCancionerosDiagramaAcordes.scss";
+import "../assets/scss/_03-Componentes/_BibliotecaTeoriaMusicalDiagramaAcordes.scss";
 
-const RockolaCancionerosDiagramaAcordes = ({ fingering }) => {
+const BibliotecaTeoriaMusicalDiagramaAcordes = ({ fingering }) => {
   // ============= CONSTANTES Y MEMOIZACIÓN =============
   const frets = 5; // Número de trastes a mostrar (0-4)
   
@@ -117,4 +117,4 @@ const RockolaCancionerosDiagramaAcordes = ({ fingering }) => {
 };
 
 // Exportar componente con React.memo para optimizar renderizados
-export default React.memo(RockolaCancionerosDiagramaAcordes);
+export default React.memo(BibliotecaTeoriaMusicalDiagramaAcordes);
