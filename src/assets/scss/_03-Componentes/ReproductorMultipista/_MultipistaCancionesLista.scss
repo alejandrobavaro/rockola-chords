@@ -1,0 +1,248 @@
+// ============================================
+// ARCHIVO: _MultipistaCancionesLista.scss
+// DESCRIPCIÓN: Estilos para lista de canciones multipista
+// ============================================
+
+.lista-canciones-multipista {
+    width: 100%;
+    
+    &.compacta {
+      .cancion-item-multipista {
+        padding: 8px 10px;
+        
+        .item-numero-multipista {
+          min-width: 20px;
+        }
+        
+        .item-icono-multipista {
+          min-width: 30px;
+        }
+        
+        .item-info-multipista {
+          .info-metadatos {
+            display: none;
+          }
+        }
+      }
+    }
+    
+    .lista-vacia-multipista {
+      text-align: center;
+      padding: 40px 20px;
+      color: #888;
+      
+      .icono-vacio {
+        font-size: 2.5rem;
+        display: block;
+        margin-bottom: 15px;
+        opacity: 0.5;
+      }
+      
+      .texto-vacio {
+        margin: 0;
+        font-size: 0.9rem;
+      }
+    }
+    
+    .lista-contenido-multipista {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .cancion-item-multipista {
+      display: flex;
+      align-items: center;
+      padding: 12px 15px;
+      border-radius: 8px;
+      margin-bottom: 8px;
+      background: rgba(42, 42, 42, 0.6);
+      border: 1px solid transparent;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background: rgba(62, 62, 62, 0.8);
+        border-color: #555;
+      }
+      
+      &.cancion-actual-multipista {
+        background: rgba(6, 214, 160, 0.2);
+        border-color: #06D6A0;
+        
+        .item-numero-multipista .numero-reproduciendo {
+          color: #06D6A0;
+        }
+        
+        .item-icono-multipista .icono {
+          color: #06D6A0;
+        }
+      }
+      
+      .item-numero-multipista {
+        min-width: 25px;
+        margin-right: 10px;
+        
+        .numero-reproduciendo {
+          color: #06D6A0;
+          font-weight: bold;
+          animation: pulse 1.5s infinite;
+        }
+        
+        .numero-normal {
+          color: #888;
+          font-size: 0.9rem;
+        }
+      }
+      
+      .item-icono-multipista {
+        min-width: 40px;
+        text-align: center;
+        margin-right: 10px;
+        
+        .icono {
+          font-size: 1.2rem;
+          display: block;
+          margin-bottom: 2px;
+        }
+        
+        .contador-pistas {
+          font-size: 0.7rem;
+          color: #888;
+          font-weight: 600;
+        }
+      }
+      
+      .item-info-multipista {
+        flex: 1;
+        overflow: hidden;
+        
+        .info-titulo {
+          color: white;
+          font-size: 0.95rem;
+          font-weight: 600;
+          margin-bottom: 4px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        
+        .info-artista {
+          color: #ccc;
+          font-size: 0.85rem;
+          margin-bottom: 6px;
+        }
+        
+        .info-metadatos {
+          display: flex;
+          gap: 10px;
+          
+          .metadato-bpm,
+          .metadato-tonalidad {
+            font-size: 0.75rem;
+            color: #888;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 2px 6px;
+            border-radius: 10px;
+          }
+          
+          .metadato-bpm {
+            color: #06D6A0;
+          }
+          
+          .metadato-tonalidad {
+            color: #FFD166;
+          }
+        }
+      }
+      
+      .item-duracion-multipista {
+        color: #888;
+        font-size: 0.85rem;
+        margin: 0 15px;
+        min-width: 45px;
+        text-align: right;
+      }
+      
+      .item-controles-multipista {
+        display: flex;
+        gap: 8px;
+        
+        .control-btn {
+          width: 30px;
+          height: 30px;
+          border-radius: 6px;
+          border: none;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          transition: all 0.2s ease;
+          
+          &.control-select {
+            background: rgba(6, 214, 160, 0.2);
+            color: #06D6A0;
+            border: 1px solid #06D6A0;
+            
+            &:hover {
+              background: rgba(6, 214, 160, 0.4);
+              transform: scale(1.1);
+            }
+          }
+          
+          &.control-chords {
+            background: rgba(255, 255, 255, 0.1);
+            color: #ccc;
+            border: 1px solid #555;
+            
+            &:hover {
+              background: rgba(255, 255, 255, 0.2);
+              color: white;
+              transform: scale(1.1);
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  @keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+  
+  // Responsive
+  @media (max-width: 768px) {
+    .lista-canciones-multipista {
+      .cancion-item-multipista {
+        padding: 10px;
+        
+        .item-icono-multipista {
+          min-width: 30px;
+          
+          .icono {
+            font-size: 1rem;
+          }
+          
+          .contador-pistas {
+            font-size: 0.6rem;
+          }
+        }
+        
+        .item-info-multipista {
+          .info-metadatos {
+            display: none;
+          }
+        }
+        
+        .item-controles-multipista {
+          .control-btn {
+            width: 28px;
+            height: 28px;
+            font-size: 0.9rem;
+          }
+        }
+      }
+    }
+  }

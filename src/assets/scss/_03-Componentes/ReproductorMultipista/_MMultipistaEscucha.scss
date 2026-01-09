@@ -1,0 +1,930 @@
+// ============================================
+// ARCHIVO: _MMultipistaEscucha.scss
+// DESCRIPCIÓN: Estilos para el reproductor multipista
+// ============================================
+
+// ============================================
+// VARIABLES MULTIPISTA
+// ============================================
+$color-multipista: #06D6A0;
+$color-multipista-dark: #049c73;
+$color-multipista-light: rgba(6, 214, 160, 0.1);
+$color-pista-activa: #06D6A0;
+$color-pista-inactiva: #EF476F;
+$color-pista-solo: #FFD166;
+$color-pista-mute: #888;
+
+// ============================================
+// ESTRUCTURA PRINCIPAL
+// ============================================
+.reproductor-multipista-estructura {
+  width: 100%;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0;
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+  border-radius: 0;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  // Grid principal desktop
+  .estructura-desktop-multipista {
+    display: grid;
+    grid-template-columns: 320px 1fr 320px;
+    gap: 10px;
+    padding: 10px;
+    height: calc(100vh - 120px);
+    
+    @media (max-width: 1400px) {
+      grid-template-columns: 280px 1fr 280px;
+    }
+    
+    @media (max-width: 1200px) {
+      grid-template-columns: 250px 1fr 250px;
+    }
+  }
+  
+  // Panel lista lateral izquierdo
+  .panel-lista-multipista {
+    background: rgba(30, 30, 30, 0.9);
+    border-radius: 8px;
+    border: 1px solid #333;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease;
+    
+    &.panel-comprimido {
+      width: 60px;
+      
+      .panel-contenido-lista-multipista,
+      .panel-titulo-micro .panel-contador-micro,
+      .panel-titulo-micro .panel-categoria-micro span {
+        display: none;
+      }
+      
+      .panel-toggle-btn {
+        margin-left: auto;
+      }
+    }
+    
+    .panel-header-micro {
+      padding: 12px 15px;
+      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+      border-bottom: 1px solid #333;
+      
+      .panel-titulo-micro {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 0;
+        font-size: 0.9rem;
+        
+        .panel-categoria-micro {
+          color: $color-multipista;
+          font-weight: 600;
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+        
+        .panel-contador-micro {
+          background: rgba(6, 214, 160, 0.2);
+          color: white;
+          padding: 2px 6px;
+          border-radius: 10px;
+          font-size: 0.8rem;
+        }
+        
+        .panel-toggle-btn {
+          margin-left: auto;
+          background: transparent;
+          border: 1px solid #555;
+          color: #888;
+          width: 24px;
+          height: 24px;
+          border-radius: 4px;
+          cursor: pointer;
+          font-size: 0.8rem;
+          
+          &:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+          }
+        }
+      }
+    }
+    
+    .panel-contenido-lista-multipista {
+      flex: 1;
+      overflow-y: auto;
+      padding: 10px;
+    }
+  }
+  
+  // Panel central (pistas o chords)
+  .panel-central-multipista {
+    background: rgba(20, 20, 20, 0.95);
+    border-radius: 8px;
+    border: 1px solid #333;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    
+    .panel-switch-modo {
+      display: flex;
+      padding: 8px;
+      gap: 8px;
+      background: rgba(30, 30, 30, 0.8);
+      border-bottom: 1px solid #333;
+      
+      .modo-btn {
+        flex: 1;
+        padding: 8px 12px;
+        background: transparent;
+        border: 1px solid #555;
+        color: #888;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.85rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        transition: all 0.2s ease;
+        
+        &:hover {
+          background: rgba(255, 255, 255, 0.05);
+          color: #ccc;
+        }
+        
+        &.modo-activo {
+          background: rgba(6, 214, 160, 0.2);
+          border-color: $color-multipista;
+          color: $color-multipista;
+          font-weight: 600;
+        }
+      }
+    }
+    
+    .panel-pistas-mezcla {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+    }
+    
+    .panel-chords-multipista {
+      flex: 1;
+      overflow-y: auto;
+    }
+  }
+  
+  // Panel derecho info detallada
+  .panel-info-detallada-multipista {
+    background: rgba(30, 30, 30, 0.9);
+    border-radius: 8px;
+    border: 1px solid #333;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    
+    .panel-header-micro {
+      padding: 12px 15px;
+      background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+      border-bottom: 1px solid #333;
+    }
+    
+    .panel-contenido-info {
+      flex: 1;
+      padding: 15px;
+      overflow-y: auto;
+      
+      .info-portada-grande {
+        text-align: center;
+        margin-bottom: 15px;
+        
+        .portada-info-grande {
+          width: 100%;
+          max-width: 250px;
+          height: auto;
+          border-radius: 8px;
+          border: 2px solid $color-multipista;
+        }
+      }
+      
+      .info-detalles-completos {
+        .info-titulo-completo {
+          font-size: 1.3rem;
+          color: white;
+          margin: 0 0 5px 0;
+          font-weight: 600;
+        }
+        
+        .info-artista-completo {
+          color: $color-multipista;
+          margin: 0 0 15px 0;
+          font-size: 1rem;
+        }
+        
+        .info-metadatos-grid {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 10px;
+          margin-bottom: 20px;
+          
+          .metadato-item {
+            background: rgba(42, 42, 42, 0.8);
+            border: 1px solid #444;
+            border-radius: 6px;
+            padding: 8px;
+            
+            .metadato-label {
+              display: block;
+              font-size: 0.8rem;
+              color: #888;
+              margin-bottom: 3px;
+            }
+            
+            .metadato-valor {
+              display: block;
+              font-size: 0.9rem;
+              color: white;
+              font-weight: 600;
+            }
+          }
+        }
+        
+        .info-letra-preview {
+          border-top: 1px solid #444;
+          padding-top: 15px;
+          
+          .letra-titulo {
+            color: #ccc;
+            font-size: 0.9rem;
+            margin: 0 0 8px 0;
+          }
+          
+          .letra-texto {
+            color: #888;
+            font-size: 0.85rem;
+            line-height: 1.4;
+            font-style: italic;
+          }
+        }
+      }
+      
+      .sin-info-seleccionada {
+        text-align: center;
+        padding: 40px 20px;
+        color: #888;
+        
+        .icono-sin-info {
+          font-size: 3rem;
+          display: block;
+          margin-bottom: 15px;
+          opacity: 0.5;
+        }
+        
+        p {
+          margin: 0;
+          font-size: 0.9rem;
+        }
+      }
+    }
+  }
+}
+
+// ============================================
+// HEADER COMPACTO MULTIPISTA
+// ============================================
+.header-ultra-compacto-multipista {
+  background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+  padding: 12px 15px;
+  border-bottom: 3px solid $color-multipista;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+  
+  .reproductor-izquierda-compacto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    
+    .boton-control-micro {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid #555;
+      color: #ccc;
+      width: 36px;
+      height: 36px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background: rgba(255, 255, 255, 0.15);
+        color: white;
+      }
+      
+      &.boton-pistas-toggle {
+        color: $color-multipista;
+        border-color: $color-multipista;
+      }
+      
+      .contador-micro {
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        background: $color-multipista;
+        color: black;
+        font-size: 0.7rem;
+        font-weight: bold;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    }
+    
+    .info-cancion-micro {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex: 1;
+      
+      .portada-micro {
+        width: 40px;
+        height: 40px;
+        border-radius: 6px;
+        border: 2px solid $color-multipista;
+        object-fit: cover;
+      }
+      
+      .detalles-micro {
+        .titulo-micro {
+          font-size: 0.9rem;
+          color: white;
+          font-weight: 600;
+        }
+        
+        .artista-micro {
+          font-size: 0.8rem;
+          color: #ccc;
+        }
+      }
+    }
+  }
+  
+  .reproductor-centro-compacto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 2;
+    
+    .tiempo-micro {
+      font-size: 0.8rem;
+      color: #ccc;
+      min-width: 40px;
+    }
+    
+    .barra-progreso-interactiva-micro {
+      flex: 1;
+      
+      .barra-progreso-fondo-micro {
+        height: 6px;
+        background: #444;
+        border-radius: 3px;
+        overflow: hidden;
+        cursor: pointer;
+        
+        .barra-progreso-relleno-micro {
+          height: 100%;
+          background: $color-multipista;
+          border-radius: 3px;
+          transition: width 0.1s linear;
+        }
+      }
+    }
+  }
+  
+  .controles-reproduccion-micro {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    
+    .boton-control-micro {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid #555;
+      color: #ccc;
+      width: 36px;
+      height: 36px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background: rgba(255, 255, 255, 0.15);
+        color: white;
+      }
+      
+      &.boton-play-micro {
+        background: $color-multipista;
+        color: black;
+        border-color: $color-multipista;
+        font-size: 1.3rem;
+        
+        &:hover {
+          background: $color-multipista-dark;
+        }
+      }
+    }
+  }
+  
+  .reproductor-derecha-compacto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+    .volumen-contenedor-micro {
+      position: relative;
+      
+      .volumen-slider-micro {
+        position: absolute;
+        bottom: 100%;
+        right: 0;
+        background: rgba(20, 20, 20, 0.95);
+        border: 1px solid #555;
+        border-radius: 6px;
+        padding: 10px;
+        margin-bottom: 10px;
+        min-width: 150px;
+        z-index: 100;
+        
+        .volumen-input-micro {
+          width: 100%;
+        }
+        
+        .volumen-porcentaje-micro {
+          display: block;
+          text-align: center;
+          margin-top: 5px;
+          font-size: 0.8rem;
+          color: #ccc;
+        }
+      }
+    }
+    
+    .boton-control-micro {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid #555;
+      color: #ccc;
+      width: 36px;
+      height: 36px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+      transition: all 0.2s ease;
+      
+      &:hover {
+        background: rgba(255, 255, 255, 0.15);
+        color: white;
+      }
+    }
+    
+    .contador-pistas-micro {
+      background: rgba(6, 214, 160, 0.2);
+      border: 1px solid $color-multipista;
+      color: $color-multipista;
+      padding: 6px 10px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+  }
+}
+
+// ============================================
+// CONTROLES DE MEZCLA RÁPIDOS
+// ============================================
+.controles-mezcla-rapidos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 12px;
+  background: rgba(30, 30, 30, 0.8);
+  border-bottom: 1px solid #333;
+  
+  .control-mezcla-rapido {
+    padding: 8px 12px;
+    background: rgba(42, 42, 42, 0.9);
+    border: 1px solid #555;
+    border-radius: 6px;
+    color: #ccc;
+    font-size: 0.85rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background: rgba(62, 62, 62, 0.9);
+      color: white;
+      transform: translateY(-2px);
+    }
+    
+    &:first-child {
+      background: rgba(6, 214, 160, 0.2);
+      color: $color-multipista;
+      border-color: $color-multipista;
+    }
+    
+    &:nth-child(2) {
+      background: rgba(239, 71, 111, 0.2);
+      color: #EF476F;
+      border-color: #EF476F;
+    }
+    
+    &:nth-child(3) {
+      background: rgba(255, 209, 102, 0.2);
+      color: #FFD166;
+      border-color: #FFD166;
+    }
+    
+    &:nth-child(4) {
+      background: rgba(155, 89, 182, 0.2);
+      color: #9B59B6;
+      border-color: #9B59B6;
+    }
+    
+    &:last-child {
+      background: rgba(52, 152, 219, 0.2);
+      color: #3498DB;
+      border-color: #3498DB;
+    }
+  }
+}
+
+// ============================================
+// LISTA DE PISTAS DETALLADA
+// ============================================
+.lista-pistas-detallada {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px;
+  
+  .pista-item {
+    background: rgba(42, 42, 42, 0.6);
+    border: 1px solid #555;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.2s ease;
+    
+    &.pista-activa {
+      background: rgba(42, 42, 42, 0.8);
+      border-color: $color-pista-activa;
+    }
+    
+    &.pista-inactiva {
+      opacity: 0.6;
+      background: rgba(42, 42, 42, 0.4);
+    }
+    
+    &.pista-solo {
+      border-color: $color-pista-solo;
+      box-shadow: 0 0 8px rgba(255, 209, 102, 0.3);
+    }
+    
+    &.pista-mute {
+      opacity: 0.4;
+    }
+    
+    .pista-info {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex: 1;
+      
+      .pista-color {
+        width: 40px;
+        height: 40px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid rgba(255, 255, 255, 0.2);
+        
+        .pista-icono {
+          font-size: 1.2rem;
+          color: white;
+          text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+        }
+      }
+      
+      .pista-datos {
+        flex: 1;
+        
+        .pista-nombre {
+          font-size: 1rem;
+          color: white;
+          font-weight: 600;
+          margin-bottom: 4px;
+        }
+        
+        .pista-instrumento {
+          font-size: 0.85rem;
+          color: #ccc;
+        }
+      }
+    }
+    
+    .pista-controles {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      
+      .pista-toggle {
+        width: 30px;
+        height: 30px;
+        border-radius: 6px;
+        border: none;
+        font-size: 0.9rem;
+        font-weight: 700;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s ease;
+        
+        &.pista-on {
+          background: rgba(6, 214, 160, 0.2);
+          color: $color-pista-activa;
+          border: 1px solid $color-pista-activa;
+        }
+        
+        &.pista-off {
+          background: rgba(239, 71, 111, 0.2);
+          color: $color-pista-inactiva;
+          border: 1px solid $color-pista-inactiva;
+        }
+        
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+      
+      .pista-volumen,
+      .pista-pan {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        width: 120px;
+        
+        .pista-slider {
+          flex: 1;
+          height: 6px;
+          -webkit-appearance: none;
+          background: #555;
+          border-radius: 3px;
+          outline: none;
+          
+          &::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: $color-multipista;
+            cursor: pointer;
+          }
+        }
+        
+        .pista-porcentaje,
+        .pista-pan-valor {
+          font-size: 0.8rem;
+          color: #ccc;
+          min-width: 35px;
+        }
+      }
+      
+      .pista-solo-btn,
+      .pista-mute-btn {
+        width: 30px;
+        height: 30px;
+        border-radius: 6px;
+        border: none;
+        font-size: 0.8rem;
+        font-weight: 700;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s ease;
+      }
+      
+      .pista-solo-btn {
+        background: rgba(255, 209, 102, 0.2);
+        color: $color-pista-solo;
+        border: 1px solid $color-pista-solo;
+        
+        &.solo-activo {
+          background: rgba(255, 209, 102, 0.8);
+          color: black;
+          box-shadow: 0 0 8px rgba(255, 209, 102, 0.5);
+        }
+      }
+      
+      .pista-mute-btn {
+        background: rgba(136, 136, 136, 0.2);
+        color: $color-pista-mute;
+        border: 1px solid $color-pista-mute;
+        
+        &.mute-activo {
+          background: rgba(136, 136, 136, 0.8);
+          color: white;
+          box-shadow: 0 0 8px rgba(136, 136, 136, 0.5);
+        }
+      }
+    }
+  }
+}
+
+// ============================================
+// ESTADO DE MEZCLA PANEL
+// ============================================
+.estado-mezcla-panel {
+  display: flex;
+  justify-content: space-around;
+  padding: 12px;
+  background: rgba(30, 30, 30, 0.8);
+  border-top: 1px solid #333;
+  border-bottom: 1px solid #333;
+  
+  .estado-mezcla-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    
+    .estado-icono {
+      font-size: 1.2rem;
+    }
+    
+    .estado-texto {
+      font-size: 0.8rem;
+      color: #ccc;
+    }
+  }
+}
+
+// ============================================
+// RESPONSIVE MOBILE
+// ============================================
+@media (max-width: 1024px) {
+  .reproductor-multipista-estructura {
+    .estructura-desktop-multipista {
+      grid-template-columns: 1fr;
+      height: auto;
+    }
+    
+    .panel-lista-multipista,
+    .panel-info-detallada-multipista {
+      display: none;
+    }
+    
+    .panel-central-multipista {
+      height: 60vh;
+    }
+  }
+  
+  .estructura-mobile-multipista {
+    .panel-mobile-pistas {
+      .pista-mobile-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        background: rgba(42, 42, 42, 0.6);
+        border: 1px solid #555;
+        border-radius: 6px;
+        margin-bottom: 8px;
+        
+        .pista-mobile-info {
+          display: flex;
+          align-items: center;
+          gap: 10px;
+          
+          .pista-mobile-color {
+            width: 30px;
+            height: 30px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+          }
+          
+          .pista-mobile-nombre {
+            color: white;
+            font-size: 0.9rem;
+          }
+        }
+        
+        .pista-mobile-controles {
+          display: flex;
+          gap: 8px;
+          
+          .pista-mobile-toggle,
+          .pista-mobile-mute {
+            width: 30px;
+            height: 30px;
+            border-radius: 4px;
+            border: 1px solid #555;
+            background: rgba(255, 255, 255, 0.1);
+            color: #ccc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            
+            &.activo {
+              background: $color-multipista;
+              color: black;
+              border-color: $color-multipista;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// ============================================
+// ANIMACIONES Y TRANSICIONES
+// ============================================
+@keyframes pulse-multipista {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+.pista-solo {
+  animation: pulse-multipista 2s infinite;
+}
+
+// ============================================
+// SCROLLBAR ESTILIZADA
+// ============================================
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $color-multipista;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $color-multipista-dark;
+}
+
+// ============================================
+// UTILIDADES
+// ============================================
+.texto-multipista {
+  color: $color-multipista !important;
+}
+
+.fondo-multipista {
+  background: $color-multipista-light !important;
+}
+
+.borde-multipista {
+  border-color: $color-multipista !important;
+}

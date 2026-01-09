@@ -36,6 +36,13 @@ public/audio/*.wav
 public/audio/*.ogg
 public/audio/*.m4a
 
+# ===========================================
+# NUEVA REGLA AGREGADA - PISTAS SEPARADAS
+# ===========================================
+
+# ❌ NO SE SUBEN A GITHUB (pistas separadas pesadas):
+public/audio/04-mp3-multipistas/
+
 # Carpeta temporal de uploads
 .netlify-audio-upload/
 

@@ -1,3 +1,9 @@
+// ============================================
+// ARCHIVO: App.js - VERSIÓN COMPLETA CON RUTA MULTIPISTA
+// DESCRIPCIÓN: Componente principal de la aplicación con todas las rutas
+// CORRECCIÓN: Importación correcta del MultipistaProvider y MMultipistaEscucha
+// ============================================
+
 // ======================================================
 // IMPORTACIONES DE LIBRERÍAS EXTERNAS
 // ======================================================
@@ -28,6 +34,12 @@ import MMusicaEscucha from "./componentes/ReproductorMusica/MMusicaEscucha";
 import { MusicaProvider } from "./componentes/ReproductorMusica/MusicaContexto";
 
 // ======================================================
+// IMPORTACIONES DEL NUEVO REPRODUCTOR MULTIPISTA
+// ======================================================
+import MMultipistaEscucha from "./componentes/ReproductorMultipista/MMultipistaEscucha"; // ✅ COMPONENTE NUEVO
+import { MultipistaProvider } from "./componentes/ReproductorMultipista/MultipistaContexto";
+
+// ======================================================
 // CONTEXTOS EXISTENTES
 // ======================================================
 import { SearchProvider } from './componentes/ASearchContext';
@@ -39,21 +51,21 @@ const SONG_LIBRARIES = [
   { 
     id: 'alegondra', 
     name: 'Ale Gondra', 
-    path: '/listado-chords-alegondramusic.json', 
+    path: '/listados/listados-musica-original/listado-musica-alegondra.json', 
     basePath: '/data/01-chords-musica-original/chords-alegondramusic/',
     tipo: 'original'
   },
   { 
     id: 'almangopop', 
     name: 'Almango Pop', 
-    path: '/listado-chords-almango-pop.json', 
+    path: '/listados/listados-musica-original/listado-musica-almangopop.json', 
     basePath: '/data/01-chords-musica-original/chords-almangopop/',
     tipo: 'original'
   },
   { 
     id: 'covers-baladasespanol', 
     name: 'Baladas Español', 
-    path: '/data/02-chords-covers/listadocancionescovers-baladasespanol.json', 
+    path: '/listados/listados-musica-covers/listado-musica-baladasespanol.json', 
     basePath: '/data/02-chords-covers/cancionescovers-baladasespanol/',
     tipo: 'covers'
   },
@@ -65,7 +77,7 @@ const SONG_LIBRARIES = [
 const seccionesEjemplo = [
   [
     { tipo: "titulo", texto: "INTRO", voz: "VOZ1" },
-    { tipo: "texto", texto: "F#m-D–A–(E)-\n(RIFF 1 - A) + (RIFF 2 + A)\n1º VOZ 1      A\nSomeone told me long ago\nE\nThere's a calm before the storm, I know\nA\nAnd it's been coming for some time.", voz: "VOZ1" }
+    { tipo: "texto", texto: "F#m-D–A–(E)-\n(RIFF 1 - A) + (RIFF 2 + A)\n1º VOZ 1      A\nSomeone told me long before\nE\nThere's a calm before the storm, I know\nA\nAnd it's been coming for some time.", voz: "VOZ1" }
   ],
   [
     { tipo: "titulo", texto: "INTRO", voz: "VOZ2" },
@@ -80,60 +92,66 @@ function App() {
   return (
     <MusicaProvider>
       <SearchProvider>
-        <Router>
-          <div className="App">
-            {/* HEADER */}
-            <Header />
-            <hr className="section-divider" />
-            
-            {/* CONTENIDO PRINCIPAL */}
-            <div className="main-content">
-              <div className="content">
-                <Routes>
-                  {/* RUTA PRINCIPAL */}
-                  <Route path="/" element={<MainContent />} />
-                  
-                  {/* MÚSICA - REPRODUCTOR CON VISUALIZADOR DE ACORDES */}
-                  <Route path="/musica" element={
-                    <MMusicaEscucha 
-                      songLibraries={SONG_LIBRARIES}
-                      defaultCategory="original"
-                    />
-                  } />
-                  
-                  {/* VIDEOS - REPRODUCTOR DE VIDEO (CORREGIDO) */}
-                  <Route path="/Videos" element={<ReproductorVideo />} />
-                  
-                  {/* TEORÍA MUSICAL */}
-                  <Route path="/formateo-chords" element={<BibliotecaTeoriaMusical />} />
-                  
-                  {/* FORMATEO DE PARTITURAS */}
-                  <Route path="/chords-format" element={
-                    <FormateoPartituras
-                      titulo="Creedence - Have You Ever Seen The Rain"
-                      tono="A"
-                      secciones={seccionesEjemplo}
-                    />
-                  }/>
-                  
-                  {/* CONTACTO */}
-                  <Route path="/contacto" element={<Contacto />} />
-                  
-                  {/* AYUDA */}
-                  <Route path="/ayuda" element={<ConsultasAyuda />} />
-                  
-                  {/* RUTA COMODÍN */}
-                  <Route path="*" element={<MainContent />} />
-                </Routes>
+        {/* ✅ NUEVO: Agregar MultipistaProvider alrededor de todo */}
+        <MultipistaProvider>
+          <Router>
+            <div className="App">
+              {/* HEADER */}
+              <Header />
+              <hr className="section-divider" />
+              
+              {/* CONTENIDO PRINCIPAL */}
+              <div className="main-content">
+                <div className="content">
+                  <Routes>
+                    {/* RUTA PRINCIPAL */}
+                    <Route path="/" element={<MainContent />} />
+                    
+                    {/* MÚSICA - REPRODUCTOR CON VISUALIZADOR DE ACORDES */}
+                    <Route path="/musica" element={
+                      <MMusicaEscucha 
+                        songLibraries={SONG_LIBRARIES}
+                        defaultCategory="original"
+                      />
+                    } />
+                    
+                    {/* ✅ NUEVA RUTA: REPRODUCTOR MULTIPISTA MEJORADO */}
+                    <Route path="/multipista" element={<MMultipistaEscucha />} />
+                    
+                    {/* VIDEOS - REPRODUCTOR DE VIDEO */}
+                    <Route path="/Videos" element={<ReproductorVideo />} />
+                    
+                    {/* TEORÍA MUSICAL */}
+                    <Route path="/formateo-chords" element={<BibliotecaTeoriaMusical />} />
+                    
+                    {/* FORMATEO DE PARTITURAS */}
+                    <Route path="/chords-format" element={
+                      <FormateoPartituras
+                        titulo="Creedence - Have You Ever Seen The Rain"
+                        tono="A"
+                        secciones={seccionesEjemplo}
+                      />
+                    }/>
+                    
+                    {/* CONTACTO */}
+                    <Route path="/contacto" element={<Contacto />} />
+                    
+                    {/* AYUDA */}
+                    <Route path="/ayuda" element={<ConsultasAyuda />} />
+                    
+                    {/* RUTA COMODÍN */}
+                    <Route path="*" element={<MainContent />} />
+                  </Routes>
+                </div>
               </div>
+              
+              <hr className="section-divider" />
+              <MainPublicidadSlider />
+              <Footer />
+              <MainWhatsappIcon />
             </div>
-            
-            <hr className="section-divider" />
-            <MainPublicidadSlider />
-            <Footer />
-            <MainWhatsappIcon />
-          </div>
-        </Router>
+          </Router>
+        </MultipistaProvider>
       </SearchProvider>
     </MusicaProvider>
   );

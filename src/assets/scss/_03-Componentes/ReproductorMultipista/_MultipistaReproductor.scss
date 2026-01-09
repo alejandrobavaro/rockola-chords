@@ -1,0 +1,229 @@
+// ============================================
+// ARCHIVO: _MultipistaReproductor.scss
+// DESCRIPCIÓN: Estilos para reproductor multipista compacto
+// ============================================
+
+.reproductor-header-multipista {
+    width: 100%;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+    border-bottom: 3px solid #06D6A0;
+    padding: 12px 15px;
+    
+    .reproductor-contenido-multipista {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 15px;
+    }
+    
+    .reproductor-controls-left-multipista {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      
+      .control-btn-multipista {
+        width: 36px;
+        height: 36px;
+        border-radius: 6px;
+        border: 1px solid #555;
+        background: rgba(255, 255, 255, 0.1);
+        color: #ccc;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 1.1rem;
+        transition: all 0.2s ease;
+        
+        &:hover {
+          background: rgba(255, 255, 255, 0.15);
+          color: white;
+        }
+        
+        &:disabled {
+          opacity: 0.5;
+          cursor: not-allowed;
+        }
+        
+        &.control-play-multipista {
+          background: #06D6A0;
+          color: black;
+          border-color: #06D6A0;
+          font-size: 1.3rem;
+          
+          &:hover:not(:disabled) {
+            background: #049c73;
+          }
+        }
+      }
+    }
+    
+    .reproductor-info-centro-multipista {
+      flex: 1;
+      text-align: center;
+      
+      .info-titulo-multipista {
+        color: white;
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 4px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      
+      .info-artista-multipista {
+        color: #ccc;
+        font-size: 0.85rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        
+        .icono-multipista {
+          color: #06D6A0;
+        }
+        
+        .info-bpm-multipista {
+          color: #FFD166;
+        }
+      }
+      
+      .info-sin-cancion {
+        color: #888;
+        font-size: 0.9rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        
+        .icono-multipista {
+          font-size: 1.1rem;
+        }
+      }
+    }
+    
+    .reproductor-controls-right-multipista {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      
+      .volumen-control-multipista {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        
+        .control-btn-mini {
+          width: 32px;
+          height: 32px;
+          border-radius: 6px;
+          border: 1px solid #555;
+          background: rgba(255, 255, 255, 0.1);
+          color: #ccc;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          font-size: 1rem;
+          
+          &:hover {
+            background: rgba(255, 255, 255, 0.15);
+            color: white;
+          }
+        }
+        
+        .volumen-slider-container-mini {
+          display: none; // Ocultar en móvil
+          
+          .volumen-slider-mini {
+            width: 80px;
+            height: 4px;
+            -webkit-appearance: none;
+            background: #555;
+            border-radius: 2px;
+            
+            &::-webkit-slider-thumb {
+              -webkit-appearance: none;
+              width: 12px;
+              height: 12px;
+              border-radius: 50%;
+              background: #06D6A0;
+              cursor: pointer;
+            }
+          }
+        }
+        
+        .volumen-porcentaje-mini {
+          font-size: 0.8rem;
+          color: #ccc;
+          min-width: 35px;
+        }
+      }
+      
+      .control-download-mini {
+        width: 32px;
+        height: 32px;
+        border-radius: 6px;
+        border: 1px solid #555;
+        background: rgba(255, 255, 255, 0.1);
+        color: #ccc;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 1rem;
+        
+        &:hover:not(:disabled) {
+          background: rgba(255, 255, 255, 0.15);
+          color: white;
+        }
+        
+        &:disabled {
+          opacity: 0.5;
+          cursor: not-allowed;
+        }
+      }
+    }
+  }
+  
+  // Tablet y Desktop
+  @media (min-width: 768px) {
+    .reproductor-header-multipista {
+      .reproductor-controls-left-multipista {
+        .control-btn-multipista {
+          width: 40px;
+          height: 40px;
+          font-size: 1.2rem;
+        }
+      }
+      
+      .reproductor-info-centro-multipista {
+        .info-titulo-multipista {
+          font-size: 1.1rem;
+        }
+        
+        .info-artista-multipista {
+          font-size: 0.9rem;
+        }
+      }
+      
+      .reproductor-controls-right-multipista {
+        .volumen-control-multipista {
+          .volumen-slider-container-mini {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+  
+  // Desktop grande
+  @media (min-width: 1024px) {
+    .reproductor-header-multipista {
+      .reproductor-info-centro-multipista {
+        .info-titulo-multipista {
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
