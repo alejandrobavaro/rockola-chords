@@ -1,214 +1,411 @@
 {
-    "artista": "La Renga, Pappo, Redondos, Ratones",
-    "discografia": [
-      {
-        "album_id": "homenajes-la-renga-pappo-redondos-ratones",
-        "album_name": "HOMENAJES La Renga, Pappo, Redondos, Ratones",
-        "year": "2024",
-          "cover_image": "/img/02-logos/logo-formateo-chords2.png",
-        "genre": "Rock",
-        "songs": [
-          {
-            "id": "homenaje-la-renga-01-el-final-es-donde-parti",
-            "track_number": 1,
-            "title": "El Final es Donde Partí",
-            "artist": "La Renga",
-            "duration": "4:55",
-            "mp3_url": "/audio/la-renga-el-final-es-donde-parti.mp3",
-            "chords_url": "/chords/la-renga-el-final-es-donde-parti.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 124,
-              "tonalidad": "E Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes La Renga"
-            }
-          },
-          {
-            "id": "homenaje-la-renga-02-el-verso-de-la-sangre",
-            "track_number": 2,
-            "title": "El Verso de la Sangre",
-            "artist": "La Renga",
-            "duration": "5:20",
-            "mp3_url": "/audio/la-renga-el-verso-de-la-sangre.mp3",
-            "chords_url": "/chords/la-renga-el-verso-de-la-sangre.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 120,
-              "tonalidad": "A Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes La Renga"
-            }
-          },
-          {
-            "id": "homenaje-la-renga-03-el-rey-de-la-tristeza",
-            "track_number": 3,
-            "title": "El Rey de la Tristeza",
-            "artist": "La Renga",
-            "duration": "4:45",
-            "mp3_url": "/audio/la-renga-el-rey-de-la-tristeza.mp3",
-            "chords_url": "/chords/la-renga-el-rey-de-la-tristeza.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 118,
-              "tonalidad": "D Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes La Renga"
-            }
-          },
-          {
-            "id": "homenaje-pappo-01-al-ver-veras",
-            "track_number": 4,
-            "title": "Al Ver Verás",
-            "artist": "Pappo",
-            "duration": "3:55",
-            "mp3_url": "/audio/pappo-al-ver-veras.mp3",
-            "chords_url": "/chords/pappo-al-ver-veras.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 140,
-              "tonalidad": "E Mayor",
-              "compas": "4/4",
-              "dificultad": "Difícil",
-              "style": "Blues Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes Pappo"
-            }
-          },
-          {
-            "id": "homenaje-pappo-02-desconfio",
-            "track_number": 5,
-            "title": "Desconfío",
-            "artist": "Pappo",
-            "duration": "4:10",
-            "mp3_url": "/audio/pappo-desconfio.mp3",
-            "chords_url": "/chords/pappo-desconfio.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 132,
-              "tonalidad": "A Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Blues Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes Pappo"
-            }
-          },
-          {
-            "id": "homenaje-los-redondos-01-jijiji",
-            "track_number": 6,
-            "title": "Ji Ji Ji",
-            "artist": "Patricio Rey y sus Redonditos de Ricota",
-            "duration": "4:28",
-            "mp3_url": "/audio/redondos-jijiji.mp3",
-            "chords_url": "/chords/redondos-jijiji.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 138,
-              "tonalidad": "E Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes Los Redondos"
-            }
-          },
-          {
-            "id": "homenaje-los-redondos-02-la-bestia-pop",
-            "track_number": 7,
-            "title": "La Bestia Pop",
-            "artist": "Patricio Rey y sus Redonditos de Ricota",
-            "duration": "4:15",
-            "mp3_url": "/audio/redondos-la-bestia-pop.mp3",
-            "chords_url": "/chords/redondos-la-bestia-pop.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 136,
-              "tonalidad": "A Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock",
-              "genre": "Rock",
-              "categoria": "Homenajes Los Redondos"
-            }
-          },
-          {
-            "id": "homenaje-ratones-paranoicos-01-rock-del-pedazo",
-            "track_number": 8,
-            "title": "Rock del Pedazo",
-            "artist": "Ratones Paranoicos",
-            "duration": "3:40",
-            "mp3_url": "/audio/ratones-rock-del-pedazo.mp3",
-            "chords_url": "/chords/ratones-rock-del-pedazo.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 148,
-              "tonalidad": "E Mayor",
-              "compas": "4/4",
-              "dificultad": "Fácil",
-              "style": "Rock and Roll",
-              "genre": "Rock",
-              "categoria": "Homenajes Ratones Paranoicos"
-            }
-          },
-          {
-            "id": "homenaje-ratones-paranoicos-02-gloria",
-            "track_number": 9,
-            "title": "Gloria",
-            "artist": "Ratones Paranoicos",
-            "duration": "4:05",
-            "mp3_url": "/audio/ratones-gloria.mp3",
-            "chords_url": "/chords/ratones-gloria.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 142,
-              "tonalidad": "A Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock and Roll",
-              "genre": "Rock",
-              "categoria": "Homenajes Ratones Paranoicos"
-            }
-          },
-          {
-            "id": "homenaje-ratones-paranoicos-03-sargento-cabral",
-            "track_number": 10,
-            "title": "Sargento Cabral",
-            "artist": "Ratones Paranoicos",
-            "duration": "4:22",
-            "mp3_url": "/audio/ratones-sargento-cabral.mp3",
-            "chords_url": "/chords/ratones-sargento-cabral.json",
-            "details": {
-              "letra": "",
-              "acordes": [],
-              "bpm": 140,
-              "tonalidad": "D Mayor",
-              "compas": "4/4",
-              "dificultad": "Media",
-              "style": "Rock and Roll",
-              "genre": "Rock",
-              "categoria": "Homenajes Ratones Paranoicos"
-            }
+  "artista": "La Renga, Pappo, Redondos, Ratones",
+  "categoria": "homenajes",
+  "discografia": [
+    {
+      "album_id": "homenajes-la-renga-pappo-redondos-ratones",
+      "album_name": "HOMENAJES La Renga, Pappo, Redondos, Ratones",
+      "year": "2024",
+      "cover_image": "/img/02-logos/logo-formateo-chords2.png",
+      "genre": "Rock",
+      "songs": [
+        {
+          "id": "homenaje-la-renga-01-el-final-es-donde-parti",
+          "track_number": 1,
+          "title": "El Final es Donde Partí",
+          "artist": "La Renga",
+          "duration": "4:55",
+          "mp3_url": "/audio/la-renga-el-final-es-donde-parti.mp3",
+          "chords_url": "/chords/la-renga-el-final-es-donde-parti.json",
+          "docs_url": "/chords/la-renga-el-final-es-donde-parti.doc",
+          "images_url": "/chords/la-renga-el-final-es-donde-parti.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 124,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes La Renga"
           }
-        ]
-      }
-    ]
-  }
+        },
+        {
+          "id": "homenaje-la-renga-02-el-verso-de-la-sangre",
+          "track_number": 2,
+          "title": "El Verso de la Sangre",
+          "artist": "La Renga",
+          "duration": "5:20",
+          "mp3_url": "/audio/la-renga-el-verso-de-la-sangre.mp3",
+          "chords_url": "/chords/la-renga-el-verso-de-la-sangre.json",
+          "docs_url": "/chords/la-renga-el-verso-de-la-sangre.doc",
+          "images_url": "/chords/la-renga-el-verso-de-la-sangre.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes La Renga"
+          }
+        },
+        {
+          "id": "homenaje-la-renga-03-el-rey-de-la-tristeza",
+          "track_number": 3,
+          "title": "El Rey de la Tristeza",
+          "artist": "La Renga",
+          "duration": "4:45",
+          "mp3_url": "/audio/la-renga-el-rey-de-la-tristeza.mp3",
+          "chords_url": "/chords/la-renga-el-rey-de-la-tristeza.json",
+          "docs_url": "/chords/la-renga-el-rey-de-la-tristeza.doc",
+          "images_url": "/chords/la-renga-el-rey-de-la-tristeza.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes La Renga"
+          }
+        },
+        {
+          "id": "homenaje-la-renga-04-el-rebelde",
+          "track_number": 4,
+          "title": "El Rebelde",
+          "artist": "La Renga",
+          "duration": "4:30",
+          "mp3_url": "/audio/la-renga-el-rebelde.mp3",
+          "chords_url": "/chords/la-renga-el-rebelde.json",
+          "docs_url": "/chords/la-renga-el-rebelde.doc",
+          "images_url": "/chords/la-renga-el-rebelde.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 128,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes La Renga"
+          }
+        },
+        {
+          "id": "homenaje-pappo-01-al-ver-veras",
+          "track_number": 5,
+          "title": "Al Ver Verás",
+          "artist": "Pappo",
+          "duration": "3:55",
+          "mp3_url": "/audio/pappo-al-ver-veras.mp3",
+          "chords_url": "/chords/pappo-al-ver-veras.json",
+          "docs_url": "/chords/pappo-al-ver-veras.doc",
+          "images_url": "/chords/pappo-al-ver-veras.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 140,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Difícil",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-02-desconfio",
+          "track_number": 6,
+          "title": "Desconfío",
+          "artist": "Pappo",
+          "duration": "4:10",
+          "mp3_url": "/audio/pappo-desconfio.mp3",
+          "chords_url": "/chords/pappo-desconfio.json",
+          "docs_url": "/chords/pappo-desconfio.doc",
+          "images_url": "/chords/pappo-desconfio.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 132,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-03-blues-local",
+          "track_number": 7,
+          "title": "Blues Local",
+          "artist": "Pappo",
+          "duration": "4:05",
+          "mp3_url": "/audio/pappo-blues-local.mp3",
+          "chords_url": "/chords/pappo-blues-local.json",
+          "docs_url": "/chords/pappo-blues-local.doc",
+          "images_url": "/chords/pappo-blues-local.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 110,
+            "tonalidad": "A Menor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-04-desconfio-de-la-vida",
+          "track_number": 8,
+          "title": "Desconfío de la Vida",
+          "artist": "Pappo",
+          "duration": "4:15",
+          "mp3_url": "/audio/pappo-desconfio-de-la-vida.mp3",
+          "chords_url": "/chords/pappo-desconfio-de-la-vida.json",
+          "docs_url": "/chords/pappo-desconfio-de-la-vida.doc",
+          "images_url": "/chords/pappo-desconfio-de-la-vida.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 126,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-05-el-viejo",
+          "track_number": 9,
+          "title": "El Viejo",
+          "artist": "Pappo",
+          "duration": "3:50",
+          "mp3_url": "/audio/pappo-el-viejo.mp3",
+          "chords_url": "/chords/pappo-el-viejo.json",
+          "docs_url": "/chords/pappo-el-viejo.doc",
+          "images_url": "/chords/pappo-el-viejo.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-06-juntos-a-la-par",
+          "track_number": 10,
+          "title": "Juntos a la Par",
+          "artist": "Pappo",
+          "duration": "4:20",
+          "mp3_url": "/audio/pappo-juntos-a-la-par.mp3",
+          "chords_url": "/chords/pappo-juntos-a-la-par.json",
+          "docs_url": "/chords/pappo-juntos-a-la-par.doc",
+          "images_url": "/chords/pappo-juntos-a-la-par.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-07-rock-n-roll-y-fiebre",
+          "track_number": 11,
+          "title": "Rock n' Roll y Fiebre",
+          "artist": "Pappo",
+          "duration": "3:45",
+          "mp3_url": "/audio/pappo-rock-n-roll-y-fiebre.mp3",
+          "chords_url": "/chords/pappo-rock-n-roll-y-fiebre.json",
+          "docs_url": "/chords/pappo-rock-n-roll-y-fiebre.doc",
+          "images_url": "/chords/pappo-rock-n-roll-y-fiebre.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 145,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock and Roll",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-pappo-08-ruta-66",
+          "track_number": 12,
+          "title": "Ruta 66",
+          "artist": "Pappo",
+          "duration": "4:00",
+          "mp3_url": "/audio/pappo-ruta-66.mp3",
+          "chords_url": "/chords/pappo-ruta-66.json",
+          "docs_url": "/chords/pappo-ruta-66.doc",
+          "images_url": "/chords/pappo-ruta-66.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 130,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Blues Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Pappo"
+          }
+        },
+        {
+          "id": "homenaje-los-redondos-01-jijiji",
+          "track_number": 13,
+          "title": "Ji Ji Ji",
+          "artist": "Patricio Rey y sus Redonditos de Ricota",
+          "duration": "4:28",
+          "mp3_url": "/audio/redondos-jijiji.mp3",
+          "chords_url": "/chords/redondos-jijiji.json",
+          "docs_url": "/chords/redondos-jijiji.doc",
+          "images_url": "/chords/redondos-jijiji.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 138,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Redondos"
+          }
+        },
+        {
+          "id": "homenaje-los-redondos-02-la-bestia-pop",
+          "track_number": 14,
+          "title": "La Bestia Pop",
+          "artist": "Patricio Rey y sus Redonditos de Ricota",
+          "duration": "4:15",
+          "mp3_url": "/audio/redondos-la-bestia-pop.mp3",
+          "chords_url": "/chords/redondos-la-bestia-pop.json",
+          "docs_url": "/chords/redondos-la-bestia-pop.doc",
+          "images_url": "/chords/redondos-la-bestia-pop.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 136,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Redondos"
+          }
+        },
+        {
+          "id": "homenaje-ratones-paranoicos-01-rock-del-pedazo",
+          "track_number": 15,
+          "title": "Rock del Pedazo",
+          "artist": "Ratones Paranoicos",
+          "duration": "3:40",
+          "mp3_url": "/audio/ratones-rock-del-pedazo.mp3",
+          "chords_url": "/chords/ratones-rock-del-pedazo.json",
+          "docs_url": "/chords/ratones-rock-del-pedazo.doc",
+          "images_url": "/chords/ratones-rock-del-pedazo.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 148,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Rock and Roll",
+            "genre": "Rock",
+            "categoria": "Homenajes Ratones Paranoicos"
+          }
+        },
+        {
+          "id": "homenaje-ratones-paranoicos-02-gloria",
+          "track_number": 16,
+          "title": "Gloria",
+          "artist": "Ratones Paranoicos",
+          "duration": "4:05",
+          "mp3_url": "/audio/ratones-gloria.mp3",
+          "chords_url": "/chords/ratones-gloria.json",
+          "docs_url": "/chords/ratones-gloria.doc",
+          "images_url": "/chords/ratones-gloria.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 142,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock and Roll",
+            "genre": "Rock",
+            "categoria": "Homenajes Ratones Paranoicos"
+          }
+        },
+        {
+          "id": "homenaje-ratones-paranoicos-03-sargento-cabral",
+          "track_number": 17,
+          "title": "Sargento Cabral",
+          "artist": "Ratones Paranoicos",
+          "duration": "4:22",
+          "mp3_url": "/audio/ratones-sargento-cabral.mp3",
+          "chords_url": "/chords/ratones-sargento-cabral.json",
+          "docs_url": "/chords/ratones-sargento-cabral.doc",
+          "images_url": "/chords/ratones-sargento-cabral.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 140,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock and Roll",
+            "genre": "Rock",
+            "categoria": "Homenajes Ratones Paranoicos"
+          }
+        },
+        {
+          "id": "homenaje-ratones-paranoicos-04-rock-del-gato",
+          "track_number": 18,
+          "title": "Rock del Gato",
+          "artist": "Ratones Paranoicos",
+          "duration": "3:50",
+          "mp3_url": "/audio/ratones-paranoicos-rock-del-gato.mp3",
+          "chords_url": "/chords/ratones-paranoicos-rock-del-gato.json",
+          "docs_url": "/chords/ratones-paranoicos-rock-del-gato.doc",
+          "images_url": "/chords/ratones-paranoicos-rock-del-gato.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 144,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock and Roll",
+            "genre": "Rock",
+            "categoria": "Homenajes Ratones Paranoicos"
+          }
+        }
+      ]
+    }
+  ]
+}

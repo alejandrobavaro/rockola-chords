@@ -17,6 +17,8 @@
           "duration": "4:56",
           "mp3_url": "/audio/aerosmith-i-dont-want-to-miss-a-thing.mp3",
           "chords_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing.json",
+          "docs_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing.doc",
+          "images_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:26",
           "mp3_url": "/audio/aerosmith-dream-on.mp3",
           "chords_url": "/chords/aerosmith-dream-on.json",
+          "docs_url": "/chords/aerosmith-dream-on.doc",
+          "images_url": "/chords/aerosmith-dream-on.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "3:40",
           "mp3_url": "/audio/aerosmith-walk-this-way.mp3",
           "chords_url": "/chords/aerosmith-walk-this-way.json",
+          "docs_url": "/chords/aerosmith-walk-this-way-2.doc",
+          "images_url": "/chords/aerosmith-walk-this-way-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "5:16",
           "mp3_url": "/audio/aerosmith-crazy.mp3",
           "chords_url": "/chords/aerosmith-crazy.json",
+          "docs_url": "/chords/aerosmith-crazy-2.doc",
+          "images_url": "/chords/aerosmith-crazy-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "5:08",
           "mp3_url": "/audio/aerosmith-cryin.mp3",
           "chords_url": "/chords/aerosmith-cryin.json",
+          "docs_url": "/chords/aerosmith-cryin.doc",
+          "images_url": "/chords/aerosmith-cryin.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/aerosmith-amazing.mp3",
           "chords_url": "/chords/aerosmith-amazing.json",
+          "docs_url": "/chords/aerosmith-amazing-2.doc",
+          "images_url": "/chords/aerosmith-amazing-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "5:11",
           "mp3_url": "/audio/aerosmith-what-it-takes.mp3",
           "chords_url": "/chords/aerosmith-what-it-takes.json",
+          "docs_url": "/chords/aerosmith-what-it-takes-2.doc",
+          "images_url": "/chords/aerosmith-what-it-takes-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/aerosmith-pink.mp3",
           "chords_url": "/chords/aerosmith-pink.json",
+          "docs_url": "/chords/aerosmith-pink-2.doc",
+          "images_url": "/chords/aerosmith-pink-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "6:10",
           "mp3_url": "/audio/aerosmith-hole-in-my-soul.mp3",
           "chords_url": "/chords/aerosmith-hole-in-my-soul.json",
+          "docs_url": "/chords/aerosmith-hole-in-my-soul-2.doc",
+          "images_url": "/chords/aerosmith-hole-in-my-soul-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],

@@ -1,11 +1,12 @@
 {
   "artista": "Rockola Covers",
+  "categoria": "homenajes",
   "discografia": [
     {
       "album_id": "homenajes-internacionales-00",
       "album_name": "HOMENAJE A NIRVANA - FOO FIGHTERS - SYSTEM OF A DOWN",
       "year": "2024",
-        "cover_image": "/img/02-logos/logo-formateo-chords2.png",
+      "cover_image": "/img/02-logos/logo-formateo-chords2.png",
       "genre": "Homenajes",
       "songs": [
         {
@@ -16,6 +17,8 @@
           "duration": "5:01",
           "mp3_url": "/audio/homenajes/nirvana-smells-like-teen-spirit.mp3",
           "chords_url": "/chords/homenajes/nirvana-smells-like-teen-spirit.json",
+          "docs_url": "/chords/nirvana-smells-like-teen-spirit.doc",
+          "images_url": "/chords/nirvana-smells-like-teen-spirit.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -36,6 +39,8 @@
           "duration": "3:39",
           "mp3_url": "/audio/homenajes/nirvana-come-as-you-are.mp3",
           "chords_url": "/chords/homenajes/nirvana-come-as-you-are.json",
+          "docs_url": "/chords/nirvana-come-as-you-are.doc",
+          "images_url": "/chords/nirvana-come-as-you-are.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -56,6 +61,8 @@
           "duration": "4:17",
           "mp3_url": "/audio/homenajes/nirvana-lithium.mp3",
           "chords_url": "/chords/homenajes/nirvana-lithium.json",
+          "docs_url": "/chords/nirvana-lithium.doc",
+          "images_url": "/chords/nirvana-lithium.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -76,6 +83,8 @@
           "duration": "4:41",
           "mp3_url": "/audio/homenajes/nirvana-heart-shaped-box.mp3",
           "chords_url": "/chords/homenajes/nirvana-heart-shaped-box.json",
+          "docs_url": "/chords/nirvana-heart-shaped-box.doc",
+          "images_url": "/chords/nirvana-heart-shaped-box.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -89,13 +98,37 @@
           }
         },
         {
-          "id": "homenaje-foo-fighters-01-everlong",
+          "id": "homenaje-nirvana-05-the-man-who-sold-the-world",
           "track_number": 113,
+          "title": "The Man Who Sold the World",
+          "artist": "Nirvana",
+          "duration": "4:21",
+          "mp3_url": "/audio/homenajes/nirvana-the-man-who-sold-the-world.mp3",
+          "chords_url": "/chords/nirvana-the-man-who-sold-the-world.json",
+          "docs_url": "/chords/nirvana-the-man-who-sold-the-world.doc",
+          "images_url": "/chords/nirvana-the-man-who-sold-the-world.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 100,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Grunge",
+            "genre": "Rock",
+            "categoria": "Homenajes Nirvana"
+          }
+        },
+        {
+          "id": "homenaje-foo-fighters-01-everlong",
+          "track_number": 114,
           "title": "Everlong",
           "artist": "Foo Fighters",
           "duration": "4:10",
           "mp3_url": "/audio/homenajes/foo-fighters-everlong.mp3",
           "chords_url": "/chords/homenajes/foo-fighters-everlong.json",
+          "docs_url": "/chords/foo-fighters-everlong.doc",
+          "images_url": "/chords/foo-fighters-everlong.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -110,12 +143,14 @@
         },
         {
           "id": "homenaje-foo-fighters-02-best-of-you",
-          "track_number": 114,
+          "track_number": 115,
           "title": "Best of You",
           "artist": "Foo Fighters",
           "duration": "4:16",
           "mp3_url": "/audio/homenajes/foo-fighters-best-of-you.mp3",
           "chords_url": "/chords/homenajes/foo-fighters-best-of-you.json",
+          "docs_url": "/chords/foo-fighters-best-of-you-en-c-sharp.doc",
+          "images_url": "/chords/foo-fighters-best-of-you-en-c-sharp.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -130,12 +165,14 @@
         },
         {
           "id": "homenaje-foo-fighters-03-the-pretender",
-          "track_number": 115,
+          "track_number": 116,
           "title": "The Pretender",
           "artist": "Foo Fighters",
           "duration": "4:29",
           "mp3_url": "/audio/homenajes/foo-fighters-the-pretender.mp3",
           "chords_url": "/chords/homenajes/foo-fighters-the-pretender.json",
+          "docs_url": "/chords/foo-fighters-the-pretender.doc",
+          "images_url": "/chords/foo-fighters-the-pretender.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -150,12 +187,14 @@
         },
         {
           "id": "homenaje-foo-fighters-04-learn-to-fly",
-          "track_number": 116,
+          "track_number": 117,
           "title": "Learn to Fly",
           "artist": "Foo Fighters",
           "duration": "3:55",
           "mp3_url": "/audio/homenajes/foo-fighters-learn-to-fly.mp3",
           "chords_url": "/chords/homenajes/foo-fighters-learn-to-fly.json",
+          "docs_url": "/chords/foo-fighters-learn-to-fly.doc",
+          "images_url": "/chords/foo-fighters-learn-to-fly.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -169,13 +208,103 @@
           }
         },
         {
+          "id": "homenaje-foo-fighters-05-big-me",
+          "track_number": 118,
+          "title": "Big Me",
+          "artist": "Foo Fighters",
+          "duration": "2:13",
+          "mp3_url": "/audio/homenajes/foo-fighters-big-me.mp3",
+          "chords_url": "/chords/foo-fighters-big-me.json",
+          "docs_url": "/chords/foo-fighters-big-me.doc",
+          "images_url": "/chords/foo-fighters-big-me.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Rock Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes Foo Fighters"
+          }
+        },
+        {
+          "id": "homenaje-foo-fighters-06-my-hero",
+          "track_number": 119,
+          "title": "My Hero",
+          "artist": "Foo Fighters",
+          "duration": "4:20",
+          "mp3_url": "/audio/homenajes/foo-fighters-my-hero.mp3",
+          "chords_url": "/chords/foo-fighters-my-hero.json",
+          "docs_url": "/chords/foo-fighters-my-hero.doc",
+          "images_url": "/chords/foo-fighters-my-hero.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 132,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes Foo Fighters"
+          }
+        },
+        {
+          "id": "homenaje-foo-fighters-07-times-like-these",
+          "track_number": 120,
+          "title": "Times Like These",
+          "artist": "Foo Fighters",
+          "duration": "4:26",
+          "mp3_url": "/audio/homenajes/foo-fighters-times-like-these.mp3",
+          "chords_url": "/chords/foo-fighters-times-like-these.json",
+          "docs_url": "/chords/foo-fighters-times-like-these.doc",
+          "images_url": "/chords/foo-fighters-times-like-these.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 140,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes Foo Fighters"
+          }
+        },
+        {
+          "id": "homenaje-foo-fighters-08-walk",
+          "track_number": 121,
+          "title": "Walk",
+          "artist": "Foo Fighters",
+          "duration": "4:16",
+          "mp3_url": "/audio/homenajes/foo-fighters-walk.mp3",
+          "chords_url": "/chords/foo-fighters-walk.json",
+          "docs_url": "/chords/foo-fighters-walk.doc",
+          "images_url": "/chords/foo-fighters-walk.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 156,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes Foo Fighters"
+          }
+        },
+        {
           "id": "homenaje-system-of-a-down-01-chop-suey",
-          "track_number": 117,
+          "track_number": 122,
           "title": "Chop Suey!",
           "artist": "System of a Down",
           "duration": "3:30",
           "mp3_url": "/audio/homenajes/system-of-a-down-chop-suey.mp3",
           "chords_url": "/chords/homenajes/system-of-a-down-chop-suey.json",
+          "docs_url": "/chords/system-of-a-down-chop-suey.doc",
+          "images_url": "/chords/system-of-a-down-chop-suey.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -190,17 +319,63 @@
         },
         {
           "id": "homenaje-system-of-a-down-02-toxicity",
-          "track_number": 118,
+          "track_number": 123,
           "title": "Toxicity",
           "artist": "System of a Down",
           "duration": "3:39",
           "mp3_url": "/audio/homenajes/system-of-a-down-toxicity.mp3",
           "chords_url": "/chords/homenajes/system-of-a-down-toxicity.json",
+          "docs_url": "/chords/system-of-a-down-toxicity.doc",
+          "images_url": "/chords/system-of-a-down-toxicity.jpg",
           "details": {
             "letra": "",
             "acordes": [],
             "bpm": 136,
             "tonalidad": "Cm",
+            "compas": "4/4",
+            "dificultad": "Difícil",
+            "style": "Metal Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes System of a Down"
+          }
+        },
+        {
+          "id": "homenaje-system-of-a-down-03-b-y-o",
+          "track_number": 124,
+          "title": "B.Y.O.B.",
+          "artist": "System of a Down",
+          "duration": "4:15",
+          "mp3_url": "/audio/homenajes/system-of-a-down-b-y-o.mp3",
+          "chords_url": "/chords/system-of-a-down-b-y-o.json",
+          "docs_url": "/chords/system-of-a-down-b-y-o.doc",
+          "images_url": "/chords/system-of-a-down-b-y-o.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 142,
+            "tonalidad": "F Mayor",
+            "compas": "4/4",
+            "dificultad": "Difícil",
+            "style": "Metal Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes System of a Down"
+          }
+        },
+        {
+          "id": "homenaje-system-of-a-down-04-hypnotize",
+          "track_number": 125,
+          "title": "Hypnotize",
+          "artist": "System of a Down",
+          "duration": "3:09",
+          "mp3_url": "/audio/homenajes/system-of-a-down-hypnotize.mp3",
+          "chords_url": "/chords/system-of-a-down-hypnotize.json",
+          "docs_url": "/chords/system-of-a-down-hypnotize.doc",
+          "images_url": "/chords/system-of-a-down-hypnotize.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 138,
+            "tonalidad": "A Mayor",
             "compas": "4/4",
             "dificultad": "Difícil",
             "style": "Metal Alternativo",

@@ -13,11 +13,21 @@
           "title": "MIX CCR Bonnie Tyler",
           "artist": "Almango Pop",
           "duration": "12:30",
-          "mp3_url": "/audio/03-mp3-medleys/Intro-Ccr-Have-you-Ccr-Proud-Its-a-hearche.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/creedence-have-you-ever-seen-the-rain+creedence-proud-mary+bonnie-tyler-its-a-heartache.mp3",
           "chords_url": [
             "/chords/creedence-have-you-ever-seen-the-rain.json",
             "/chords/creedence-proud-mary.json",
             "/chords/bonnie-tyler-its-a-heartache.json"
+          ],
+          "docs_url": [
+            "/chords/creedence-have-you-ever-seen-the-rain.doc",
+            "/chords/creedence-proud-mary.doc",
+            "/chords/bonnie-tyler-its-a-heartache.doc"
+          ],
+          "images_url": [
+            "/chords/creedence-have-you-ever-seen-the-rain.jpg",
+            "/chords/creedence-proud-mary.jpg",
+            "/chords/bonnie-tyler-its-a-heartache.jpg"
           ],
           "details": {
             "letra": "Medley que incluye:\n1. Creedence - Have You Ever Seen the Rain\n2. Creedence - Proud Mary\n3. Bonnie Tyler - It's a Heartache",
@@ -34,10 +44,18 @@
           "title": "Stand by Me / Every Breath You Take",
           "artist": "Almango Pop",
           "duration": "08:45",
-          "mp3_url": "/audio/03-mp3-medleys/Beatles-Stand-by-me-Police-Every-breath-you.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/beatles-stand-by-me+police-every-breath-you-take.mp3",
           "chords_url": [
             "/chords/beatles-stand-by-me.json",
             "/chords/police-every-breath-you-take.json"
+          ],
+          "docs_url": [
+            "/chords/beatles-stand-by-me.doc",
+            "/chords/police-every-breath-you-take.doc"
+          ],
+          "images_url": [
+            "/chords/beatles-stand-by-me.jpg",
+            "/chords/police-every-breath-you-take.jpg"
           ],
           "details": {
             "letra": "Medley que incluye:\n1. The Beatles - Stand by Me\n2. The Police - Every Breath You Take",
@@ -54,10 +72,18 @@
           "title": "I Want to Break Free + Radio GaGa",
           "artist": "Almango Pop",
           "duration": "07:50",
-          "mp3_url": "/audio/03-mp3-medleys/Queen-Radio-Gaga-I-want-to-break-free.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/queen-radio-ga-ga+queen-i-want-to-break-free.mp3",
           "chords_url": [
             "/chords/queen-i-want-to-break-free.json",
             "/chords/queen-radio-ga-ga.json"
+          ],
+          "docs_url": [
+            "/chords/queen-i-want-to-break-free.doc",
+            "/chords/queen-radio-ga-ga.doc"
+          ],
+          "images_url": [
+            "/chords/queen-i-want-to-break-free.jpg",
+            "/chords/queen-radio-ga-ga.jpg"
           ],
           "details": {
             "letra": "Medley que incluye:\n1. Queen - I Want to Break Free\n2. Queen - Radio Ga Ga",
@@ -74,8 +100,16 @@
           "title": "Take on Me",
           "artist": "Almango Pop",
           "duration": "03:50",
-          "mp3_url": "/audio/03-mp3-medleys/Aha-Take-on-me.mp3",
-          "chords_url": ["/chords/a-ha-take-on-me.json"],
+          "mp3_url": "/audio/03-mp3-medleys/a-ha-take-on-me.mp3",
+          "chords_url": [
+            "/chords/a-ha-take-on-me.json"
+          ],
+          "docs_url": [
+            "/chords/a-ha-take-on-me.doc"
+          ],
+          "images_url": [
+            "/chords/a-ha-take-on-me.jpg"
+          ],
           "details": {
             "letra": "A-ha - Take on Me (versión completa)",
             "acordes": ["A", "E", "F#m", "D"],
@@ -95,6 +129,14 @@
           "chords_url": [
             "/chords/erasure-little-respect.json",
             "/chords/the-wonders-that-thing-you-do.json"
+          ],
+          "docs_url": [
+            "/chords/erasure-little-respect.doc",
+            "/chords/the-wonders-that-thing-you-do.doc"
+          ],
+          "images_url": [
+            "/chords/erasure-little-respect.jpg",
+            "/chords/the-wonders-that-thing-you-do.jpg"
           ],
           "details": {
             "letra": "Medley que incluye:\n1. Erasure - A Little Respect\n2. The Outfield - Your Love",
@@ -116,6 +158,14 @@
             "/chords/roy-orbison-pretty-woman.json",
             "/chords/the-wonders-that-thing-you-do.json"
           ],
+          "docs_url": [
+            "/chords/roy-orbison-pretty-woman.doc",
+            "/chords/the-wonders-that-thing-you-do.doc"
+          ],
+          "images_url": [
+            "/chords/roy-orbison-pretty-woman.jpg",
+            "/chords/the-wonders-that-thing-you-do.jpg"
+          ],
           "details": {
             "letra": "Medley que incluye:\n1. Roy Orbison - Pretty Woman\n2. The Wonders - That Thing You Do",
             "acordes": ["E", "A", "B", "C#m"],
@@ -135,6 +185,12 @@
           "chords_url": [
             "/chords/inxs-never-tear-us-apart.json"
           ],
+          "docs_url": [
+            "/chords/inxs-never-tear-us-apart.doc"
+          ],
+          "images_url": [
+            "/chords/inxs-never-tear-us-apart.jpg"
+          ],
           "details": {
             "letra": "INXS - Never Tear Us Apart (versión completa)",
             "acordes": ["Am", "F", "C", "G"],
@@ -142,6 +198,164 @@
             "tonalidad": "Am",
             "compas": "4/4",
             "dificultad": "Básica"
+          }
+        },
+        {
+          "id": "cover-erasure-rodsteward-inxs",
+          "track_number": 8,
+          "title": "A Little Respect / Do You Think I'm Sexy / New Sensation",
+          "artist": "Almango Pop",
+          "duration": "09:15",
+          "mp3_url": "/audio/03-mp3-medleys/erasure-little-respect+rod-stewart-do-you-think-im-sexy+inxs-new-sensation.mp3",
+          "chords_url": [
+            "/chords/erasure-little-respect.json",
+            "/chords/rod-stewart-do-you-think-im-sexy.json",
+            "/chords/inxs-new-sensation.json"
+          ],
+          "docs_url": [
+            "/chords/erasure-little-respect.doc",
+            "/chords/rod-stewart-do-you-think-im-sexy.doc",
+            "/chords/inxs-new-sensation.doc"
+          ],
+          "images_url": [
+            "/chords/erasure-little-respect.jpg",
+            "/chords/rod-stewart-do-you-think-im-sexy.jpg",
+            "/chords/inxs-new-sensation.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Erasure - A Little Respect\n2. Rod Stewart - Do You Think I'm Sexy\n3. INXS - New Sensation",
+            "acordes": ["G", "C", "D", "Em", "A"],
+            "bpm": 128,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-great-balls-walk-life-footloose",
+          "track_number": 9,
+          "title": "Great Balls of Fire / Walk of Life / Footloose",
+          "artist": "Almango Pop",
+          "duration": "10:20",
+          "mp3_url": "/audio/03-mp3-medleys/jerry-lee-lewis-great-balls-of-fire+dire-straits-walk-of-life+kenny-loggins-footloose.mp3",
+          "chords_url": [
+            "/chords/jerry-lee-lewis-great-balls-of-fire.json",
+            "/chords/dire-straits-walk-of-life.json",
+            "/chords/kenny-loggins-footloose.json"
+          ],
+          "docs_url": [
+            "/chords/jerry-lee-lewis-great-balls-of-fire.doc",
+            "/chords/dire-straits-walk-of-life.doc",
+            "/chords/kenny-loggins-footloose.doc"
+          ],
+          "images_url": [
+            "/chords/jerry-lee-lewis-great-balls-of-fire.jpg",
+            "/chords/dire-straits-walk-of-life.jpg",
+            "/chords/kenny-loggins-footloose.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Jerry Lee Lewis - Great Balls of Fire\n2. Dire Straits - Walk of Life\n3. Kenny Loggins - Footloose",
+            "acordes": ["C", "G", "F", "Am", "D"],
+            "bpm": 135,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-your-love-losing-religion-its-my-life",
+          "track_number": 10,
+          "title": "Your Love / Losing My Religion / It's My Life",
+          "artist": "Almango Pop",
+          "duration": "11:05",
+          "mp3_url": "/audio/03-mp3-medleys/the-outfield-your-love+rem-losing-my-religion+bon-jovi-its-my-life.mp3",
+          "chords_url": [
+            "/chords/the-outfield-your-love.json",
+            "/chords/rem-losing-my-religion.json",
+            "/chords/bon-jovi-its-my-life.json"
+          ],
+          "docs_url": [
+            "/chords/the-outfield-your-love.doc",
+            "/chords/rem-losing-my-religion.doc",
+            "/chords/bon-jovi-its-my-life.doc"
+          ],
+          "images_url": [
+            "/chords/the-outfield-your-love.jpg",
+            "/chords/rem-losing-my-religion.jpg",
+            "/chords/bon-jovi-its-my-life.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. The Outfield - Your Love\n2. R.E.M. - Losing My Religion\n3. Bon Jovi - It's My Life",
+            "acordes": ["Am", "G", "F", "C", "E"],
+            "bpm": 122,
+            "tonalidad": "Am",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-van-halen-inxs-kiss",
+          "track_number": 11,
+          "title": "Jump / Mistify / I Was Made for Loving You",
+          "artist": "Almango Pop",
+          "duration": "08:45",
+          "mp3_url": "/audio/03-mp3-medleys/van-halen-jump+inxs-mistify+kiss-i-was-made-for-loving-you.mp3",
+          "chords_url": [
+            "/chords/van-halen-jump.json",
+            "/chords/inxs-mistify.json",
+            "/chords/kiss-i-was-made-for-loving-you.json"
+          ],
+          "docs_url": [
+            "/chords/van-halen-jump.doc",
+            "/chords/inxs-mistify.doc",
+            "/chords/kiss-i-was-made-for-loving-you.doc"
+          ],
+          "images_url": [
+            "/chords/van-halen-jump.jpg",
+            "/chords/inxs-mistify.jpg",
+            "/chords/kiss-i-was-made-for-loving-you.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Van Halen - Jump\n2. INXS - Mistify\n3. KISS - I Was Made for Loving You",
+            "acordes": ["C", "G", "Am", "F", "D"],
+            "bpm": 130,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-pretty-woman-classics-medley",
+          "track_number": 12,
+          "title": "Pretty Woman / Barbara Ann / Golly Miss Molly / Travelin' Band",
+          "artist": "Almango Pop",
+          "duration": "09:30",
+          "mp3_url": "/audio/03-mp3-medleys/roy-orbison-pretty-woman+beach-boys+little-richard+creedence-travelin-band.mp3",
+          "chords_url": [
+            "/chords/roy-orbison-pretty-woman.json",
+            "/chords/beach-boys-barbara-ann.json",
+            "/chords/little-richard-golly-miss-molly.json",
+            "/chords/creedence-travelin-band.json"
+          ],
+          "docs_url": [
+            "/chords/roy-orbison-pretty-woman.doc",
+            "/chords/beach-boys-barbara-ann.doc",
+            "/chords/little-richard-golly-miss-molly.doc",
+            "/chords/creedence-travelin-band.doc"
+          ],
+          "images_url": [
+            "/chords/roy-orbison-pretty-woman.jpg",
+            "/chords/beach-boys-barbara-ann.jpg",
+            "/chords/little-richard-golly-miss-molly.jpg",
+            "/chords/creedence-travelin-band.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Roy Orbison - Pretty Woman\n2. Beach Boys - Barbara Ann\n3. Little Richard - Golly Miss Molly\n4. Creedence Clearwater Revival - Travelin' Band",
+            "acordes": ["E", "A", "B", "C", "G"],
+            "bpm": 125,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
           }
         }
       ]

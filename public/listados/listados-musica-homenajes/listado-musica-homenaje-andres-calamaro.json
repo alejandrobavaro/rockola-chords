@@ -17,6 +17,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/andres-calamaro-10-anos-despues.mp3",
           "chords_url": "/chords/andres-calamaro-10-anos-despues.json",
+          "docs_url": "/chords/andres-calamaro-10-anos-despues.doc",
+          "images_url": "/chords/andres-calamaro-10-anos-despues.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/andres-calamaro-alta-suciedad.mp3",
           "chords_url": "/chords/andres-calamaro-alta-suciedad.json",
+          "docs_url": "/chords/andres-calamaro-alta-suciedad.doc",
+          "images_url": "/chords/andres-calamaro-alta-suciedad.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/andres-calamaro-brindo.mp3",
           "chords_url": "/chords/andres-calamaro-brindo.json",
+          "docs_url": "/chords/andres-calamaro-brindo-2.doc",
+          "images_url": "/chords/andres-calamaro-brindo-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "3:50",
           "mp3_url": "/audio/andres-calamaro-crimenes-perfectos.mp3",
           "chords_url": "/chords/andres-calamaro-crimenes-perfectos.json",
+          "docs_url": "/chords/andres-calamaro-crimenes-perfectos-2.doc",
+          "images_url": "/chords/andres-calamaro-crimenes-perfectos-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:14",
           "mp3_url": "/audio/andres-calamaro-flaca.mp3",
           "chords_url": "/chords/andres-calamaro-flaca-en-a.json",
+          "docs_url": "/chords/andres-calamaro-flaca-en-a-2.doc",
+          "images_url": "/chords/andres-calamaro-flaca-en-a-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "3:45",
           "mp3_url": "/audio/andres-calamaro-hace-calor.mp3",
           "chords_url": "/chords/andres-calamaro-hace-calor.json",
+          "docs_url": "/chords/andres-calamaro-hace-calor-2.doc",
+          "images_url": "/chords/andres-calamaro-hace-calor-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/andres-calamaro-tuyo-siempre.mp3",
           "chords_url": "/chords/andres-calamaro-tuyo-siempre.json",
+          "docs_url": "/chords/andres-calamaro-tuyo-siempre-2.doc",
+          "images_url": "/chords/andres-calamaro-tuyo-siempre-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],

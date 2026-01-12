@@ -1,11 +1,12 @@
 {
   "artista": "Rockola Covers",
+  "categoria": "homenajes",
   "discografia": [
     {
       "album_id": "homenajes-internacionales-00",
       "album_name": "HOMENAJE A PHIL COLLINS",
       "year": "2024",
-        "cover_image": "/img/02-logos/logo-formateo-chords2.png",
+      "cover_image": "/img/02-logos/logo-formateo-chords2.png",
       "genre": "Homenajes",
       "songs": [
         {
@@ -16,6 +17,8 @@
           "duration": "5:36",
           "mp3_url": "/audio/homenajes/phil-collins-in-the-air-tonight.mp3",
           "chords_url": "/chords/homenajes/phil-collins-in-the-air-tonight.json",
+          "docs_url": "/chords/phil-collins-in-the-air-tonight.doc",
+          "images_url": "/chords/phil-collins-in-the-air-tonight.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -36,6 +39,8 @@
           "duration": "3:23",
           "mp3_url": "/audio/homenajes/phil-collins-against-all-odds.mp3",
           "chords_url": "/chords/homenajes/phil-collins-against-all-odds.json",
+          "docs_url": "/chords/phil-collins-against-all-odds.doc",
+          "images_url": "/chords/phil-collins-against-all-odds.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -56,6 +61,8 @@
           "duration": "5:22",
           "mp3_url": "/audio/homenajes/phil-collins-another-day-in-paradise.mp3",
           "chords_url": "/chords/homenajes/phil-collins-another-day-in-paradise.json",
+          "docs_url": "/chords/phil-collins-another-day-in-paradise.doc",
+          "images_url": "/chords/phil-collins-another-day-in-paradise.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -76,6 +83,8 @@
           "duration": "5:04",
           "mp3_url": "/audio/homenajes/phil-collins-easy-lover.mp3",
           "chords_url": "/chords/homenajes/phil-collins-easy-lover.json",
+          "docs_url": "/chords/phil-collins-easy-lover.doc",
+          "images_url": "/chords/phil-collins-easy-lover.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -96,6 +105,8 @@
           "duration": "2:55",
           "mp3_url": "/audio/homenajes/phil-collins-you-cant-hurry-love.mp3",
           "chords_url": "/chords/homenajes/phil-collins-you-cant-hurry-love.json",
+          "docs_url": "/chords/phil-collins-you-cant-hurry-love.doc",
+          "images_url": "/chords/phil-collins-you-cant-hurry-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -116,6 +127,8 @@
           "duration": "4:23",
           "mp3_url": "/audio/homenajes/phil-collins-sussudio.mp3",
           "chords_url": "/chords/homenajes/phil-collins-sussudio.json",
+          "docs_url": "/chords/phil-collins-sussudio.doc",
+          "images_url": "/chords/phil-collins-sussudio.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -136,6 +149,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/homenajes/phil-collins-one-more-night.mp3",
           "chords_url": "/chords/homenajes/phil-collins-one-more-night.json",
+          "docs_url": "/chords/phil-collins-one-more-night.doc",
+          "images_url": "/chords/phil-collins-one-more-night.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -156,6 +171,8 @@
           "duration": "4:06",
           "mp3_url": "/audio/homenajes/phil-collins-separate-lives.mp3",
           "chords_url": "/chords/homenajes/phil-collins-separate-lives.json",
+          "docs_url": "/chords/phil-collins-separate-lives.doc",
+          "images_url": "/chords/phil-collins-separate-lives.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -176,6 +193,8 @@
           "duration": "4:50",
           "mp3_url": "/audio/homenajes/phil-collins-something-happened.mp3",
           "chords_url": "/chords/homenajes/phil-collins-something-happened.json",
+          "docs_url": "/chords/phil-collins-something-happened.doc",
+          "images_url": "/chords/phil-collins-something-happened.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -196,6 +215,8 @@
           "duration": "4:23",
           "mp3_url": "/audio/homenajes/phil-collins-dance-into-the-light.mp3",
           "chords_url": "/chords/homenajes/phil-collins-dance-into-the-light.json",
+          "docs_url": "/chords/phil-collins-dance-into-the-light.doc",
+          "images_url": "/chords/phil-collins-dance-into-the-light.jpg",
           "details": {
             "letra": "",
             "acordes": [],

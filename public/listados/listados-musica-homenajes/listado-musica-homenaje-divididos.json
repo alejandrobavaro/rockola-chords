@@ -17,6 +17,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/divididos-la-era-de-la-boludez.mp3",
           "chords_url": "/chords/divididos-la-era-de-la-boludez.json",
+          "docs_url": "/chords/divididos-la-era-de-la-boludez.doc",
+          "images_url": "/chords/divididos-la-era-de-la-boludez.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:12",
           "mp3_url": "/audio/divididos-al-acido.mp3",
           "chords_url": "/chords/divididos-al-acido.json",
+          "docs_url": "/chords/divididos-al-acido.doc",
+          "images_url": "/chords/divididos-al-acido.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/divididos-nene-de-antes.mp3",
           "chords_url": "/chords/divididos-nene-de-antes.json",
+          "docs_url": "/chords/divididos-nene-de-antes.doc",
+          "images_url": "/chords/divididos-nene-de-antes.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/divididos-spaghetti-del-rock.mp3",
           "chords_url": "/chords/divididos-spaghetti-del-rock.json",
+          "docs_url": "/chords/divididos-spaghetti-del-rock-2.doc",
+          "images_url": "/chords/divididos-spaghetti-del-rock-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/divididos-que-tal.mp3",
           "chords_url": "/chords/divididos-que-tal.json",
+          "docs_url": "/chords/divididos-que-tal-2.doc",
+          "images_url": "/chords/divididos-que-tal-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/divididos-otro-arte-mas.mp3",
           "chords_url": "/chords/divididos-otro-arte-mas.json",
+          "docs_url": "/chords/divididos-otro-arte-mas.doc",
+          "images_url": "/chords/divididos-otro-arte-mas.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "4:32",
           "mp3_url": "/audio/divididos-avalancha.mp3",
           "chords_url": "/chords/divididos-avalancha.json",
+          "docs_url": "/chords/divididos-avalancha.doc",
+          "images_url": "/chords/divididos-avalancha.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/divididos-mirta-de-regreso.mp3",
           "chords_url": "/chords/divididos-mirta-de-regreso.json",
+          "docs_url": "/chords/divididos-mirta-de-regreso.doc",
+          "images_url": "/chords/divididos-mirta-de-regreso.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "3:40",
           "mp3_url": "/audio/divididos-gol-de-mujer.mp3",
           "chords_url": "/chords/divididos-gol-de-mujer.json",
+          "docs_url": "/chords/divididos-gol-de-mujer.doc",
+          "images_url": "/chords/divididos-gol-de-mujer.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -197,11 +215,101 @@
           "duration": "4:50",
           "mp3_url": "/audio/divididos-la-garganta.mp3",
           "chords_url": "/chords/divididos-la-garganta.json",
+          "docs_url": "/chords/divididos-la-garganta.doc",
+          "images_url": "/chords/divididos-la-garganta.jpg",
           "details": {
             "letra": "",
             "acordes": [],
             "bpm": 116,
             "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Divididos"
+          }
+        },
+        {
+          "id": "homenaje-divididos-11-cielito-lindo",
+          "track_number": 11,
+          "title": "Cielito Lindo",
+          "artist": "Divididos",
+          "duration": "3:55",
+          "mp3_url": "/audio/divididos-cielito-lindo.mp3",
+          "chords_url": "/chords/divididos-cielito-lindo.json",
+          "docs_url": "/chords/divididos-cielito-lindo-2.doc",
+          "images_url": "/chords/divididos-cielito-lindo-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Divididos"
+          }
+        },
+        {
+          "id": "homenaje-divididos-12-que-ves",
+          "track_number": 12,
+          "title": "¿Qué Ves?",
+          "artist": "Divididos",
+          "duration": "4:20",
+          "mp3_url": "/audio/divididos-que-ves.mp3",
+          "chords_url": "/chords/divididos-que-ves.json",
+          "docs_url": "/chords/divididos-que-ves-2.doc",
+          "images_url": "/chords/divididos-que-ves-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Divididos"
+          }
+        },
+        {
+          "id": "homenaje-divididos-13-sisters",
+          "track_number": 13,
+          "title": "Sisters",
+          "artist": "Divididos",
+          "duration": "4:08",
+          "mp3_url": "/audio/divididos-sisters.mp3",
+          "chords_url": "/chords/divididos-sisters.json",
+          "docs_url": "/chords/divididos-sisters-2.doc",
+          "images_url": "/chords/divididos-sisters-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 122,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Divididos"
+          }
+        },
+        {
+          "id": "homenaje-divididos-14-sobrio-a-las-pinas",
+          "track_number": 14,
+          "title": "Sobrio a las Piñas",
+          "artist": "Divididos",
+          "duration": "4:15",
+          "mp3_url": "/audio/divididos-sobrio-a-las-pinas.mp3",
+          "chords_url": "/chords/divididos-sobrio-a-las-pinas.json",
+          "docs_url": "/chords/divididos-sobrio-a-las-pinas-2.doc",
+          "images_url": "/chords/divididos-sobrio-a-las-pinas.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 124,
+            "tonalidad": "E Mayor",
             "compas": "4/4",
             "dificultad": "Media",
             "style": "Rock",

@@ -16,6 +16,8 @@
           "duration": "3:33",
           "mp3_url": "/audio/hakuna-matata.mp3",
           "chords_url": "/chords/hakuna-matata.json",
+          "docs_url": "/chords/hakuna-matata-falta.doc",
+          "images_url": "/chords/hakuna-matata-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -36,6 +38,8 @@
           "duration": "4:39",
           "mp3_url": "/audio/hallelujah.mp3",
           "chords_url": "/chords/hallelujah.json",
+          "docs_url": "/chords/hallelujah-falta.doc",
+          "images_url": "/chords/hallelujah-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -56,6 +60,8 @@
           "duration": "2:48",
           "mp3_url": "/audio/queen-flash.mp3",
           "chords_url": "/chords/queen-flash.json",
+          "docs_url": "/chords/queen-flash.doc",
+          "images_url": "/chords/queen-flash-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -76,6 +82,8 @@
           "duration": "3:12",
           "mp3_url": "/audio/villancico-noche-de-paz.mp3",
           "chords_url": "/chords/villancico-noche-de-paz.json",
+          "docs_url": "/chords/villancico-noche-de-paz.doc",
+          "images_url": "/chords/villancico-noche-de-paz.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "F", "G", "Am"],

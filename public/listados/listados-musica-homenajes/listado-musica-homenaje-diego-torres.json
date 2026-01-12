@@ -17,6 +17,8 @@
           "duration": "4:28",
           "mp3_url": "/audio/diego-torres-color-esperanza.mp3",
           "chords_url": "/chords/diego-torres-color-esperanza.json",
+          "docs_url": "/chords/diego-torres-color-esperanza.doc",
+          "images_url": "/chords/diego-torres-color-esperanza.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "3:42",
           "mp3_url": "/audio/diego-torres-guapa.mp3",
           "chords_url": "/chords/diego-torres-guapa.json",
+          "docs_url": "/chords/diego-torres-guapa.doc",
+          "images_url": "/chords/diego-torres-guapa.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/diego-torres-suenos.mp3",
           "chords_url": "/chords/diego-torres-suenos.json",
+          "docs_url": "/chords/diego-torres-suenos.doc",
+          "images_url": "/chords/diego-torres-suenos.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/diego-torres-la-ultima-noche.mp3",
           "chords_url": "/chords/diego-torres-la-ultima-noche.json",
+          "docs_url": "/chords/diego-torres-la-ultima-noche.doc",
+          "images_url": "/chords/diego-torres-la-ultima-noche.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/diego-torres-penelope.mp3",
           "chords_url": "/chords/diego-torres-penelope.json",
+          "docs_url": "/chords/diego-torres-penelope.doc",
+          "images_url": "/chords/diego-torres-penelope.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:10",
           "mp3_url": "/audio/diego-torres-mejor-que-ayer.mp3",
           "chords_url": "/chords/diego-torres-mejor-que-ayer.json",
+          "docs_url": "/chords/diego-torres-mejor-que-ayer.doc",
+          "images_url": "/chords/diego-torres-mejor-que-ayer.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "4:10",
           "mp3_url": "/audio/diego-torres-tratar-de-estar-mejor.mp3",
           "chords_url": "/chords/diego-torres-tratar-de-estar-mejor.json",
+          "docs_url": "/chords/diego-torres-tratar-de-estar-mejor.doc",
+          "images_url": "/chords/diego-torres-tratar-de-estar-mejor.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -150,13 +164,15 @@
           }
         },
         {
-          "id": "homenaje-diego-torres-08-usted-tambien",
+          "id": "homenaje-diego-torres-08-usted",
           "track_number": 8,
           "title": "Usted También",
           "artist": "Diego Torres",
           "duration": "4:05",
-          "mp3_url": "/audio/diego-torres-usted-tambien.mp3",
-          "chords_url": "/chords/diego-torres-usted-tambien.json",
+          "mp3_url": "/audio/diego-torres-usted.mp3",
+          "chords_url": "/chords/diego-torres-usted.json",
+          "docs_url": "/chords/diego-torres-usted.doc",
+          "images_url": "/chords/diego-torres-usted.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/diego-torres-que-no-me-pierda.mp3",
           "chords_url": "/chords/diego-torres-que-no-me-pierda.json",
+          "docs_url": "/chords/diego-torres-que-no-me-pierda.doc",
+          "images_url": "/chords/diego-torres-que-no-me-pierda.jpg",
           "details": {
             "letra": "",
             "acordes": [],

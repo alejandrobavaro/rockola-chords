@@ -16,6 +16,8 @@
           "duration": "4:12",
           "mp3_url": "/audio/andres-calamaro-brindo.mp3",
           "chords_url": "/chords/andres-calamaro-brindo.json",
+          "docs_url": "/chords/andres-calamaro-brindo.doc",
+          "images_url": "/chords/andres-calamaro-brindo.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -36,6 +38,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/andres-calamaro-tuyo-siempre.mp3",
           "chords_url": "/chords/andres-calamaro-tuyo-siempre.json",
+          "docs_url": "/chords/andres-calamaro-tuyo-siempre.doc",
+          "images_url": "/chords/andres-calamaro-tuyo-siempre.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -56,6 +60,8 @@
           "duration": "3:45",
           "mp3_url": "/audio/autenticos-decadentes-corazon.mp3",
           "chords_url": "/chords/autenticos-decadentes-corazon.json",
+          "docs_url": "/chords/autenticos-decadentes-corazon.doc",
+          "images_url": "/chords/autenticos-decadentes-corazon.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -76,6 +82,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/autenticos-decadentes-el-murguero.mp3",
           "chords_url": "/chords/autenticos-decadentes-el-murguero.json",
+          "docs_url": "/chords/autenticos-decadentes-el-murguero.doc",
+          "images_url": "/chords/autenticos-decadentes-el-murguero.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -96,6 +104,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/autenticos-decadentes-la-guitarra.mp3",
           "chords_url": "/chords/autenticos-decadentes-la-guitarra.json",
+          "docs_url": "/chords/autenticos-decadentes-la-guitarra.doc",
+          "images_url": "/chords/autenticos-decadentes-la-guitarra.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -116,6 +126,8 @@
           "duration": "3:28",
           "mp3_url": "/audio/bacilos-mi-primer-millon.mp3",
           "chords_url": "/chords/bacilos-mi-primer-millon.json",
+          "docs_url": "/chords/bacilos-mi-primer-millon.doc",
+          "images_url": "/chords/bacilos-mi-primer-millon.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -136,6 +148,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/bersuit-vergarabat-yo-tomo.mp3",
           "chords_url": "/chords/bersuit-vergarabat-yo-tomo.json",
+          "docs_url": "/chords/bersuit-vergarabat-yo-tomo.doc",
+          "images_url": "/chords/bersuit-vergarabat-yo-tomo.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -156,6 +170,8 @@
           "duration": "4:38",
           "mp3_url": "/audio/bomba-estereo-fuego.mp3",
           "chords_url": "/chords/bomba-estereo-fuego.json",
+          "docs_url": "/chords/bomba-estereo-fuego.doc",
+          "images_url": "/chords/bomba-estereo-fuego.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -176,6 +192,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/chayanne-provocame.mp3",
           "chords_url": "/chords/chayanne-provocame.json",
+          "docs_url": "/chords/chayanne-provocame.doc",
+          "images_url": "/chords/chayanne-provocame.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -196,6 +214,8 @@
           "duration": "3:42",
           "mp3_url": "/audio/daddy-yankee-llamada-de-emergencia.mp3",
           "chords_url": "/chords/daddy-yankee-llamada-de-emergencia.json",
+          "docs_url": "/chords/daddy-yankee-llamada-de-emergencia.doc",
+          "images_url": "/chords/daddy-yankee-llamada-de-emergencia.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -216,6 +236,8 @@
           "duration": "4:03",
           "mp3_url": "/audio/enrique-iglesias-bailando.mp3",
           "chords_url": "/chords/enrique-iglesias-bailando.json",
+          "docs_url": "/chords/enrique-iglesias-bailando.doc",
+          "images_url": "/chords/enrique-iglesias-bailando.jpg",
           "details": {
             "letra": "",
             "acordes": ["Bm", "G", "D", "A"],
@@ -236,6 +258,8 @@
           "duration": "5:20",
           "mp3_url": "/audio/fabulosos-cadillacs-matador.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-matador.json",
+          "docs_url": "/chords/fabulosos-cadillacs-matador.doc",
+          "images_url": "/chords/fabulosos-cadillacs-matador.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -256,6 +280,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/gustavo-cordera-la-bomba-loca.mp3",
           "chords_url": "/chords/gustavo-cordera-la-bomba-loca.json",
+          "docs_url": "/chords/gustavo-cordera-la-bomba-loca.doc",
+          "images_url": "/chords/gustavo-cordera-la-bomba-loca.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -276,6 +302,8 @@
           "duration": "3:26",
           "mp3_url": "/audio/juanes-a-dios-le-pido.mp3",
           "chords_url": "/chords/juanes-a-dios-le-pido.json",
+          "docs_url": "/chords/juanes-a-dios-le-pido.doc",
+          "images_url": "/chords/juanes-a-dios-le-pido.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -296,6 +324,8 @@
           "duration": "3:36",
           "mp3_url": "/audio/juanes-la-camisa-negra.mp3",
           "chords_url": "/chords/juanes-la-camisa-negra.json",
+          "docs_url": "/chords/juanes-la-camisa-negra.doc",
+          "images_url": "/chords/juanes-la-camisa-negra.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -316,6 +346,8 @@
           "duration": "3:16",
           "mp3_url": "/audio/juanes-mala-gente.mp3",
           "chords_url": "/chords/juanes-mala-gente.json",
+          "docs_url": "/chords/juanes-mala-gente.doc",
+          "images_url": "/chords/juanes-mala-gente.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -336,6 +368,8 @@
           "duration": "3:42",
           "mp3_url": "/audio/kapanga-el-mono-relojero.mp3",
           "chords_url": "/chords/kapanga-el-mono-relojero.json",
+          "docs_url": "/chords/kapanga-el-mono-relojero.doc",
+          "images_url": "/chords/kapanga-el-mono-relojero.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -356,6 +390,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/kapanga-me-mata.mp3",
           "chords_url": "/chords/kapanga-me-mata.json",
+          "docs_url": "/chords/kapanga-me-mata.doc",
+          "images_url": "/chords/kapanga-me-mata.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -376,6 +412,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/la-mosca-nos-volvimos-a-ilusionar.mp3",
           "chords_url": "/chords/la-mosca-nos-volvimos-a-ilusionar.json",
+          "docs_url": "/chords/la-mosca-nos-volvimos-a-ilusionar.doc",
+          "images_url": "/chords/la-mosca-nos-volvimos-a-ilusionar.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -396,6 +434,8 @@
           "duration": "4:12",
           "mp3_url": "/audio/los-del-rio-macarena.mp3",
           "chords_url": "/chords/los-del-rio-macarena.json",
+          "docs_url": "/chords/los-del-rio-macarena.doc",
+          "images_url": "/chords/los-del-rio-macarena.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -416,6 +456,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/los-pericos-torito.mp3",
           "chords_url": "/chords/los-pericos-torito.json",
+          "docs_url": "/chords/los-pericos-torito.doc",
+          "images_url": "/chords/los-pericos-torito.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "G", "Bm"],
@@ -436,6 +478,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/los-piojos-como-ali.mp3",
           "chords_url": "/chords/los-piojos-como-ali.json",
+          "docs_url": "/chords/los-piojos-como-ali.doc",
+          "images_url": "/chords/los-piojos-como-ali.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -456,6 +500,8 @@
           "duration": "3:12",
           "mp3_url": "/audio/luis-miguel-ahora-te-puedes-marchar.mp3",
           "chords_url": "/chords/luis-miguel-ahora-te-puedes-marchar.json",
+          "docs_url": "/chords/luis-miguel-ahora-te-puedes-marchar.doc",
+          "images_url": "/chords/luis-miguel-ahora-te-puedes-marchar.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -476,6 +522,8 @@
           "duration": "3:00",
           "mp3_url": "/audio/luis-miguel-la-chica-del-bikini-azul.mp3",
           "chords_url": "/chords/luis-miguel-la-chica-del-bikini-azul.json",
+          "docs_url": "/chords/luis-miguel-la-chica-del-bikini-azul.doc",
+          "images_url": "/chords/luis-miguel-la-chica-del-bikini-azul.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -496,6 +544,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/marc-anthony-vivir-mi-vida.mp3",
           "chords_url": "/chords/marc-anthony-vivir-mi-vida.json",
+          "docs_url": "/chords/marc-anthony-vivir-mi-vida.doc",
+          "images_url": "/chords/marc-anthony-vivir-mi-vida.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -516,6 +566,8 @@
           "duration": "4:40",
           "mp3_url": "/audio/pericos-home-sweet-home.mp3",
           "chords_url": "/chords/pericos-home-sweet-home.json",
+          "docs_url": "/chords/pericos-home-sweet-home.doc",
+          "images_url": "/chords/pericos-home-sweet-home.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -536,6 +588,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/pericos-nada-que-perder.mp3",
           "chords_url": "/chords/pericos-nada-que-perder.json",
+          "docs_url": "/chords/pericos-nada-que-perder.doc",
+          "images_url": "/chords/pericos-nada-que-perder.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "G", "Bm"],
@@ -556,6 +610,8 @@
           "duration": "4:55",
           "mp3_url": "/audio/pericos-waiting-for-you-love.mp3",
           "chords_url": "/chords/pericos-waiting-for-you-love.json",
+          "docs_url": "/chords/pericos-waiting-for-you-love.doc",
+          "images_url": "/chords/pericos-waiting-for-you-love.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -576,6 +632,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/rafaga-mentirosa.mp3",
           "chords_url": "/chords/rafaga-mentirosa.json",
+          "docs_url": "/chords/rafaga-mentirosa.doc",
+          "images_url": "/chords/rafaga-mentirosa.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -596,6 +654,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/rafaga-una-cerveza.mp3",
           "chords_url": "/chords/rafaga-una-cerveza.json",
+          "docs_url": "/chords/rafaga-una-cerveza.doc",
+          "images_url": "/chords/rafaga-una-cerveza.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -616,6 +676,8 @@
           "duration": "3:58",
           "mp3_url": "/audio/ricky-martin-adios.mp3",
           "chords_url": "/chords/ricky-martin-adios.json",
+          "docs_url": "/chords/ricky-martin-adios.doc",
+          "images_url": "/chords/ricky-martin-adios.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -636,6 +698,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/ricky-martin-dame-mas.mp3",
           "chords_url": "/chords/ricky-martin-dame-mas.json",
+          "docs_url": "/chords/ricky-martin-dame-mas.doc",
+          "images_url": "/chords/ricky-martin-dame-mas.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -656,6 +720,8 @@
           "duration": "4:28",
           "mp3_url": "/audio/ricky-martin-dime-que-me-quieres.mp3",
           "chords_url": "/chords/ricky-martin-dime-que-me-quieres.json",
+          "docs_url": "/chords/ricky-martin-dime-que-me-quieres.doc",
+          "images_url": "/chords/ricky-martin-dime-que-me-quieres.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -676,6 +742,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/ricky-martin-la-bomba.mp3",
           "chords_url": "/chords/ricky-martin-la-bomba.json",
+          "docs_url": "/chords/ricky-martin-la-bomba.doc",
+          "images_url": "/chords/ricky-martin-la-bomba.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -696,6 +764,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/ricky-martin-la-copa-de-la-vida.mp3",
           "chords_url": "/chords/ricky-martin-la-copa-de-la-vida.json",
+          "docs_url": "/chords/ricky-martin-la-copa-de-la-vida.doc",
+          "images_url": "/chords/ricky-martin-la-copa-de-la-vida.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -716,6 +786,8 @@
           "duration": "3:32",
           "mp3_url": "/audio/ricky-martin-la-mordidita.mp3",
           "chords_url": "/chords/ricky-martin-la-mordidita.json",
+          "docs_url": "/chords/ricky-martin-la-mordidita.doc",
+          "images_url": "/chords/ricky-martin-la-mordidita.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -736,6 +808,8 @@
           "duration": "4:03",
           "mp3_url": "/audio/ricky-martin-livin-la-vida-loca.mp3",
           "chords_url": "/chords/ricky-martin-livin-la-vida-loca.json",
+          "docs_url": "/chords/ricky-martin-livin-la-vida-loca.doc",
+          "images_url": "/chords/ricky-martin-livin-la-vida-loca.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -756,6 +830,8 @@
           "duration": "5:20",
           "mp3_url": "/audio/ricky-martin-lola-unplugged.mp3",
           "chords_url": "/chords/ricky-martin-lola-unplugged.json",
+          "docs_url": "/chords/ricky-martin-lola-unplugged.doc",
+          "images_url": "/chords/ricky-martin-lola-unplugged.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -776,6 +852,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/ricky-martin-maria.mp3",
           "chords_url": "/chords/ricky-martin-maria.json",
+          "docs_url": "/chords/ricky-martin-maria.doc",
+          "images_url": "/chords/ricky-martin-maria.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -796,6 +874,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/ricky-martin-mas.mp3",
           "chords_url": "/chords/ricky-martin-mas.json",
+          "docs_url": "/chords/ricky-martin-mas.doc",
+          "images_url": "/chords/ricky-martin-mas.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -816,6 +896,8 @@
           "duration": "3:40",
           "mp3_url": "/audio/ricky-martin-pegate.mp3",
           "chords_url": "/chords/ricky-martin-pegate.json",
+          "docs_url": "/chords/ricky-martin-pegate.doc",
+          "images_url": "/chords/ricky-martin-pegate.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -836,6 +918,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/ricky-martin-por-arriba-por-abajo.mp3",
           "chords_url": "/chords/ricky-martin-por-arriba-por-abajo.json",
+          "docs_url": "/chords/ricky-martin-por-arriba-por-abajo.doc",
+          "images_url": "/chords/ricky-martin-por-arriba-por-abajo.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -856,6 +940,8 @@
           "duration": "3:52",
           "mp3_url": "/audio/ricky-martin-que-mas-da.mp3",
           "chords_url": "/chords/ricky-martin-que-mas-da.json",
+          "docs_url": "/chords/ricky-martin-que-mas-da.doc",
+          "images_url": "/chords/ricky-martin-que-mas-da.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -876,6 +962,8 @@
           "duration": "3:12",
           "mp3_url": "/audio/ricky-martin-shake-your-bon-bon.mp3",
           "chords_url": "/chords/ricky-martin-shake-your-bon-bon.json",
+          "docs_url": "/chords/ricky-martin-shake-your-bon-bon.doc",
+          "images_url": "/chords/ricky-martin-shake-your-bon-bon.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -896,6 +984,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/ricky-martin-vente-paca.mp3",
           "chords_url": "/chords/ricky-martin-vente-paca.json",
+          "docs_url": "/chords/ricky-martin-vente-paca.doc",
+          "images_url": "/chords/ricky-martin-vente-paca.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -916,6 +1006,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/vilma-palma-e-vampiros-la-pachanga.mp3",
           "chords_url": "/chords/vilma-palma-e-vampiros-la-pachanga.json",
+          "docs_url": "/chords/vilma-palma-e-vampiros-la-pachanga.doc",
+          "images_url": "/chords/vilma-palma-e-vampiros-la-pachanga.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],

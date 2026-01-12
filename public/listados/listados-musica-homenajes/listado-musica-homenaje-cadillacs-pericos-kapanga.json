@@ -17,6 +17,8 @@
           "duration": "3:45",
           "mp3_url": "/audio/fabulosos-cadillacs-demasiada-presion.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-demasiada-presion.json",
+          "docs_url": "/chords/fabulosos-cadillacs-demasiada-presion.doc",
+          "images_url": "/chords/fabulosos-cadillacs-demasiada-presion.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/fabulosos-cadillacs-leon-santillan.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-leon-santillan.json",
+          "docs_url": "/chords/fabulosos-cadillacs-leon-santillan.doc",
+          "images_url": "/chords/fabulosos-cadillacs-leon-santillan.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/fabulosos-cadillacs-mal-bicho.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-mal-bicho.json",
+          "docs_url": "/chords/fabulosos-cadillacs-mal-bicho.doc",
+          "images_url": "/chords/fabulosos-cadillacs-mal-bicho.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/fabulosos-cadillacs-matador.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-matador.json",
+          "docs_url": "/chords/fabulosos-cadillacs-matador.doc",
+          "images_url": "/chords/fabulosos-cadillacs-matador.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/fabulosos-cadillacs-vasos-vacios.mp3",
           "chords_url": "/chords/fabulosos-cadillacs-vasos-vacios.json",
+          "docs_url": "/chords/fabulosos-cadillacs-vasos-vacios.doc",
+          "images_url": "/chords/fabulosos-cadillacs-vasos-vacios.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:10",
           "mp3_url": "/audio/pericos-home-sweet-home.mp3",
           "chords_url": "/chords/pericos-home-sweet-home.json",
+          "docs_url": "/chords/pericos-home-sweet-home.doc",
+          "images_url": "/chords/pericos-home-sweet-home.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/pericos-nada-que-perder.mp3",
           "chords_url": "/chords/pericos-nada-que-perder.json",
+          "docs_url": "/chords/pericos-nada-que-perder.doc",
+          "images_url": "/chords/pericos-nada-que-perder.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/pericos-torito.mp3",
           "chords_url": "/chords/pericos-torito.json",
+          "docs_url": "/chords/pericos-torito.doc",
+          "images_url": "/chords/pericos-torito.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/pericos-waiting-for-you-love.mp3",
           "chords_url": "/chords/pericos-waiting-for-you-love.json",
+          "docs_url": "/chords/pericos-waiting-for-you-love.doc",
+          "images_url": "/chords/pericos-waiting-for-you-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -190,13 +208,59 @@
           }
         },
         {
-          "id": "homenaje-kapanga-10-el-mono-relojero",
+          "id": "homenaje-pericos-10-mucha-experiencia",
           "track_number": 10,
+          "title": "Mucha Experiencia",
+          "artist": "Los Pericos",
+          "duration": "4:00",
+          "mp3_url": "/audio/pericos-mucha-experiencia.mp3",
+          "chords_url": "/chords/pericos-mucha-experiencia.json",
+          "docs_url": "/chords/pericos-mucha-experiencia.doc",
+          "images_url": "/chords/pericos-mucha-experiencia.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 98,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Reggae",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Pericos"
+          }
+        },
+        {
+          "id": "homenaje-pericos-11-parate-y-mira",
+          "track_number": 11,
+          "title": "Parate y Mira",
+          "artist": "Los Pericos",
+          "duration": "4:15",
+          "mp3_url": "/audio/pericos-parate-y-mira.mp3",
+          "chords_url": "/chords/pericos-parate-y-mira.json",
+          "docs_url": "/chords/pericos-parate-y-mira.doc",
+          "images_url": "/chords/pericos-parate-y-mira.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 102,
+            "tonalidad": "F Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Reggae",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Pericos"
+          }
+        },
+        {
+          "id": "homenaje-kapanga-12-el-mono-relojero",
+          "track_number": 12,
           "title": "El Mono Relojero",
           "artist": "Kapanga",
           "duration": "3:40",
           "mp3_url": "/audio/kapanga-el-mono-relojero.mp3",
           "chords_url": "/chords/kapanga-el-mono-relojero.json",
+          "docs_url": "/chords/kapanga-el-mono-relojero.doc",
+          "images_url": "/chords/kapanga-el-mono-relojero.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -210,13 +274,15 @@
           }
         },
         {
-          "id": "homenaje-kapanga-11-me-mata",
-          "track_number": 11,
+          "id": "homenaje-kapanga-13-me-mata",
+          "track_number": 13,
           "title": "Me Mata",
           "artist": "Kapanga",
           "duration": "3:28",
           "mp3_url": "/audio/kapanga-me-mata.mp3",
           "chords_url": "/chords/kapanga-me-mata.json",
+          "docs_url": "/chords/kapanga-me-mata.doc",
+          "images_url": "/chords/kapanga-me-mata.jpg",
           "details": {
             "letra": "",
             "acordes": [],

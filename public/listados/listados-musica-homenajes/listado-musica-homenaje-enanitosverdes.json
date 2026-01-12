@@ -17,6 +17,8 @@
           "duration": "4:40",
           "mp3_url": "/audio/enanitos-verdes-lamento-boliviano.mp3",
           "chords_url": "/chords/enanitos-verdes-lamento-boliviano.json",
+          "docs_url": "/chords/enanitos-verdes-lamento-boliviano.doc",
+          "images_url": "/chords/enanitos-verdes-lamento-boliviano.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:12",
           "mp3_url": "/audio/enanitos-verdes-por-el-resto.mp3",
           "chords_url": "/chords/enanitos-verdes-por-el-resto.json",
+          "docs_url": "/chords/enanitos-verdes-por-el-resto.doc",
+          "images_url": "/chords/enanitos-verdes-por-el-resto.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/enanitos-verdes-la-muralla-verde.mp3",
           "chords_url": "/chords/enanitos-verdes-la-muralla-verde.json",
+          "docs_url": "/chords/enanitos-verdes-la-muralla-verde.doc",
+          "images_url": "/chords/enanitos-verdes-la-muralla-verde.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/enanitos-verdes-te-vi-en-un-tren.mp3",
           "chords_url": "/chords/enanitos-verdes-te-vi-en-un-tren.json",
+          "docs_url": "/chords/enanitos-verdes-te-vi-en-un-tren.doc",
+          "images_url": "/chords/enanitos-verdes-te-vi-en-un-tren.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:32",
           "mp3_url": "/audio/enanitos-verdes-amanecer-en-ti.mp3",
           "chords_url": "/chords/enanitos-verdes-amanecer-en-ti.json",
+          "docs_url": "/chords/enanitos-verdes-amanecer-en-ti.doc",
+          "images_url": "/chords/enanitos-verdes-amanecer-en-ti.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/enanitos-verdes-guitarras-blancas.mp3",
           "chords_url": "/chords/enanitos-verdes-guitarras-blancas.json",
+          "docs_url": "/chords/enanitos-verdes-guitarras-blancas.doc",
+          "images_url": "/chords/enanitos-verdes-guitarras-blancas.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/enanitos-verdes-el-extrano-de-pelo-largo.mp3",
           "chords_url": "/chords/enanitos-verdes-el-extrano-de-pelo-largo.json",
+          "docs_url": "/chords/enanitos-verdes-el-extrano-de-pelo-largo.doc",
+          "images_url": "/chords/enanitos-verdes-el-extrano-de-pelo-largo.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/enanitos-verdes-mariposas.mp3",
           "chords_url": "/chords/enanitos-verdes-mariposas.json",
+          "docs_url": "/chords/enanitos-verdes-mariposas.doc",
+          "images_url": "/chords/enanitos-verdes-mariposas.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/enanitos-verdes-yo-te-vi.mp3",
           "chords_url": "/chords/enanitos-verdes-yo-te-vi.json",
+          "docs_url": "/chords/enanitos-verdes-yo-te-vi.doc",
+          "images_url": "/chords/enanitos-verdes-yo-te-vi.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -197,6 +215,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/enanitos-verdes-mi-primer-dia-sin-ti.mp3",
           "chords_url": "/chords/enanitos-verdes-mi-primer-dia-sin-ti.json",
+          "docs_url": "/chords/enanitos-verdes-mi-primer-dia-sin-ti.doc",
+          "images_url": "/chords/enanitos-verdes-mi-primer-dia-sin-ti.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -205,6 +225,94 @@
             "compas": "4/4",
             "dificultad": "Media",
             "style": "Balada Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Enanitos Verdes"
+          }
+        },
+        {
+          "id": "homenaje-enanitos-verdes-11-amigos",
+          "track_number": 11,
+          "title": "Amigos",
+          "artist": "Enanitos Verdes",
+          "duration": "4:18",
+          "mp3_url": "/audio/enanitos-verdes-amigos.mp3",
+          "chords_url": "/chords/enanitos-verdes-amigos.json",
+          "docs_url": "/chords/enanitos-verdes-amigos.doc",
+          "images_url": "/chords/enanitos-verdes-amigos.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 116,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Enanitos Verdes"
+          }
+        },
+        {
+          "id": "homenaje-enanitos-verdes-12-eterna-soledad",
+          "track_number": 12,
+          "title": "Eterna Soledad",
+          "artist": "Enanitos Verdes",
+          "duration": "4:25",
+          "mp3_url": "/audio/enanitos-verdes-eterna-soledad.mp3",
+          "chords_url": "/chords/enanitos-verdes-eterna-soledad.json",
+          "docs_url": "/chords/enanitos-verdes-eterna-soledad.doc",
+          "images_url": "/chords/enanitos-verdes-eterna-soledad.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 110,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Enanitos Verdes"
+          }
+        },
+        {
+          "id": "homenaje-enanitos-verdes-13-igual-que-ayer",
+          "track_number": 13,
+          "title": "Igual que Ayer",
+          "artist": "Enanitos Verdes",
+          "duration": "4:10",
+          "mp3_url": "/audio/enanitos-verdes-igual-que-ayer.mp3",
+          "chords_url": "/chords/enanitos-verdes-igual-que-ayer.json",
+          "docs_url": "/chords/enanitos-verdes-igual-que-ayer.doc",
+          "images_url": "/chords/enanitos-verdes-igual-que-ayer.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Enanitos Verdes"
+          }
+        },
+        {
+          "id": "homenaje-enanitos-verdes-14-tu-carcel",
+          "track_number": 14,
+          "title": "Tu Cárcel",
+          "artist": "Enanitos Verdes",
+          "duration": "3:52",
+          "mp3_url": "/audio/enanitos-verdes-tu-carcel.mp3",
+          "chords_url": "/chords/enanitos-verdes-tu-carcel.json",
+          "docs_url": "/chords/enanitos-verdes-tu-carcel.doc",
+          "images_url": "/chords/enanitos-verdes-tu-carcel.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
             "genre": "Rock",
             "categoria": "Homenajes Enanitos Verdes"
           }

@@ -1,5 +1,6 @@
 {
   "artista": "Rockola Covers",
+  "categoria": "homenajes",
   "discografia": [
     {
       "album_id": "homenajes-internacionales-00",
@@ -16,6 +17,8 @@
           "duration": "4:54",
           "mp3_url": "/audio/michael-jackson-billie-jean.mp3",
           "chords_url": "/chords/michael-jackson-billie-jean.json",
+          "docs_url": "/chords/michael-jackson-billie-jean-en-f-sharp-m.doc",
+          "images_url": "/chords/michael-jackson-billie-jean-en-f-sharp-m.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#m", "E", "D", "A"],
@@ -36,6 +39,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/michael-jackson-beat-it.mp3",
           "chords_url": "/chords/michael-jackson-beat-it.json",
+          "docs_url": "/chords/michael-jackson-beat-it.doc",
+          "images_url": "/chords/michael-jackson-beat-it.jpg",
           "details": {
             "letra": "",
             "acordes": ["Ebm", "Bb", "Ab", "Gb"],
@@ -56,6 +61,8 @@
           "duration": "5:57",
           "mp3_url": "/audio/michael-jackson-thriller.mp3",
           "chords_url": "/chords/michael-jackson-thriller.json",
+          "docs_url": "/chords/michael-jackson-thriller.doc",
+          "images_url": "/chords/michael-jackson-thriller.jpg",
           "details": {
             "letra": "",
             "acordes": ["C#m", "E", "B", "A"],
@@ -76,6 +83,8 @@
           "duration": "4:16",
           "mp3_url": "/audio/michael-jackson-black-or-white.mp3",
           "chords_url": "/chords/michael-jackson-black-or-white.json",
+          "docs_url": "/chords/michael-jackson-black-or-white.doc",
+          "images_url": "/chords/michael-jackson-black-or-white.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -96,6 +105,8 @@
           "duration": "4:17",
           "mp3_url": "/audio/michael-jackson-smooth-criminal.mp3",
           "chords_url": "/chords/michael-jackson-smooth-criminal.json",
+          "docs_url": "/chords/michael-jackson-smooth-criminal.doc",
+          "images_url": "/chords/michael-jackson-smooth-criminal.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Am", "Bb", "C"],
@@ -116,6 +127,8 @@
           "duration": "5:19",
           "mp3_url": "/audio/michael-jackson-man-in-the-mirror.mp3",
           "chords_url": "/chords/michael-jackson-man-in-the-mirror.json",
+          "docs_url": "/chords/michael-jackson-man-in-the-mirror.doc",
+          "images_url": "/chords/michael-jackson-man-in-the-mirror.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -136,6 +149,8 @@
           "duration": "4:58",
           "mp3_url": "/audio/michael-jackson-the-way-you-make-me-feel.mp3",
           "chords_url": "/chords/michael-jackson-the-way-you-make-me-feel.json",
+          "docs_url": "/chords/michael-jackson-the-way-you-make-me-feel.doc",
+          "images_url": "/chords/michael-jackson-the-way-you-make-me-feel.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Am"],
@@ -156,6 +171,8 @@
           "duration": "6:25",
           "mp3_url": "/audio/michael-jackson-heal-the-world.mp3",
           "chords_url": "/chords/michael-jackson-heal-the-world.json",
+          "docs_url": "/chords/michael-jackson-heal-the-world.doc",
+          "images_url": "/chords/michael-jackson-heal-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "G", "A", "Bm"],
@@ -176,6 +193,8 @@
           "duration": "4:52",
           "mp3_url": "/audio/michael-jackson-dirty-diana.mp3",
           "chords_url": "/chords/michael-jackson-dirty-diana.json",
+          "docs_url": "/chords/michael-jackson-dirty-diana.doc",
+          "images_url": "/chords/michael-jackson-dirty-diana.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -196,6 +215,8 @@
           "duration": "5:45",
           "mp3_url": "/audio/michael-jackson-you-are-not-alone.mp3",
           "chords_url": "/chords/michael-jackson-you-are-not-alone.json",
+          "docs_url": "/chords/michael-jackson-you-are-not-alone.doc",
+          "images_url": "/chords/michael-jackson-you-are-not-alone.jpg",
           "details": {
             "letra": "",
             "acordes": ["Bb", "Eb", "F", "Gm"],
@@ -216,6 +237,8 @@
           "duration": "7:08",
           "mp3_url": "/audio/michael-jackson-we-are-the-world.mp3",
           "chords_url": "/chords/michael-jackson-we-are-the-world.json",
+          "docs_url": "/chords/michael-jackson-we-are-the-world.doc",
+          "images_url": "/chords/michael-jackson-we-are-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],

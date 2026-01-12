@@ -16,6 +16,8 @@
           "duration": "",
           "mp3_url": "/audio/la-renga-el-rebelde.mp3",
           "chords_url": "/chords/la-renga-el-rebelde.json",
+          "docs_url": "/chords/la-renga-el-rebelde.doc",
+          "images_url": "/chords/la-renga-el-rebelde.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -36,6 +38,8 @@
           "duration": "",
           "mp3_url": "/audio/los-lobos-la-bamba.mp3",
           "chords_url": "/chords/los-lobos-la-bamba.json",
+          "docs_url": "/chords/los-lobos-la-bamba.doc",
+          "images_url": "/chords/los-lobos-la-bamba.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -56,6 +60,8 @@
           "duration": "",
           "mp3_url": "/audio/pappo-rock-n-roll-y-fiebre.mp3",
           "chords_url": "/chords/pappo-rock-n-roll-y-fiebre.json",
+          "docs_url": "/chords/pappo-rock-n-roll-y-fiebre.doc",
+          "images_url": "/chords/pappo-rock-n-roll-y-fiebre.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -76,6 +82,8 @@
           "duration": "",
           "mp3_url": "/audio/pappo-ruta-66.mp3",
           "chords_url": "/chords/pappo-ruta-66.json",
+          "docs_url": "/chords/pappo-ruta-66.doc",
+          "images_url": "/chords/pappo-ruta-66.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -96,6 +104,8 @@
           "duration": "",
           "mp3_url": "/audio/ratones-paranoicos-rock-del-gato.mp3",
           "chords_url": "/chords/ratones-paranoicos-rock-del-gato.json",
+          "docs_url": "/chords/ratones-paranoicos-rock-del-gato.doc",
+          "images_url": "/chords/ratones-paranoicos-rock-del-gato.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -109,13 +119,15 @@
           }
         },
         {
-          "id": "seru-giran-popotitos-e",
+          "id": "seru-giran-popotitos",
           "track_number": 6,
           "title": "Popotitos e",
           "artist": "Serú Girán",
           "duration": "",
           "mp3_url": "/audio/seru-giran-popotitos-e.mp3",
           "chords_url": "/chords/seru-giran-popotitos-e.json",
+          "docs_url": "/chords/seru-giran-popotitos.json",
+          "images_url": "",
           "details": {
             "letra": "",
             "acordes": [],
@@ -136,6 +148,8 @@
           "duration": "",
           "mp3_url": "/audio/viejas-locas-me-gustas-mucho.mp3",
           "chords_url": "/chords/viejas-locas-me-gustas-mucho.json",
+          "docs_url": "/chords/viejas-locas-me-gustas-mucho.doc",
+          "images_url": "/chords/viejas-locas-me-gustas-mucho.jpg",
           "details": {
             "letra": "",
             "acordes": [],

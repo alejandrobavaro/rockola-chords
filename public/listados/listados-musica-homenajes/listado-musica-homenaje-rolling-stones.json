@@ -1,21 +1,24 @@
 {
   "artista": "Rockola Covers",
+  "categoria": "homenajes",
   "discografia": [
     {
       "album_id": "homenajes-internacionales-00",
-      "album_name": "HOMENAJE A ROLLINGS STONES",
+      "album_name": "HOMENAJE A THE ROLLING STONES",
       "year": "2024",
-        "cover_image": "/img/02-logos/logo-formateo-chords2.png",
+      "cover_image": "/img/02-logos/logo-formateo-chords2.png",
       "genre": "Homenajes",
       "songs": [
         {
           "id": "homenaje-rolling-stones-01-satisfaction",
-          "track_number": 169,
+          "track_number": 205,
           "title": "(I Can't Get No) Satisfaction",
           "artist": "The Rolling Stones",
           "duration": "3:44",
           "mp3_url": "/audio/homenajes/rolling-stones-satisfaction.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-satisfaction.json",
+          "docs_url": "/chords/rolling-stones-i-cant-get-no-satisfaction.doc",
+          "images_url": "/chords/rolling-stones-i-cant-get-no-satisfaction.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -30,12 +33,14 @@
         },
         {
           "id": "homenaje-rolling-stones-02-paint-it-black",
-          "track_number": 170,
+          "track_number": 206,
           "title": "Paint It Black",
           "artist": "The Rolling Stones",
           "duration": "3:22",
           "mp3_url": "/audio/homenajes/rolling-stones-paint-it-black.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-paint-it-black.json",
+          "docs_url": "/chords/rolling-stones-paint-it-black.doc",
+          "images_url": "/chords/rolling-stones-paint-it-black.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -50,12 +55,14 @@
         },
         {
           "id": "homenaje-rolling-stones-03-angie",
-          "track_number": 171,
+          "track_number": 207,
           "title": "Angie",
           "artist": "The Rolling Stones",
           "duration": "4:31",
           "mp3_url": "/audio/homenajes/rolling-stones-angie.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-angie.json",
+          "docs_url": "/chords/rolling-stones-angie.doc",
+          "images_url": "/chords/rolling-stones-angie.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -70,12 +77,14 @@
         },
         {
           "id": "homenaje-rolling-stones-04-start-me-up",
-          "track_number": 172,
+          "track_number": 208,
           "title": "Start Me Up",
           "artist": "The Rolling Stones",
           "duration": "3:33",
           "mp3_url": "/audio/homenajes/rolling-stones-start-me-up.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-start-me-up.json",
+          "docs_url": "/chords/rolling-stones-start-me-up.doc",
+          "images_url": "/chords/rolling-stones-start-me-up.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -90,12 +99,14 @@
         },
         {
           "id": "homenaje-rolling-stones-05-sympathy-for-the-devil",
-          "track_number": 173,
+          "track_number": 209,
           "title": "Sympathy for the Devil",
           "artist": "The Rolling Stones",
           "duration": "6:18",
           "mp3_url": "/audio/homenajes/rolling-stones-sympathy-for-the-devil.mp3",
-          "chords_url": "/chords/homenajes/rolling-stones-sympathy-for-the-devil.json",
+          "chords_url": "/chords/homenajes/rolling-stones-sympathy-for-the-devils.json",
+          "docs_url": "/chords/rolling-stones-sympathy-for-the-devil.doc",
+          "images_url": "/chords/rolling-stones-sympathy-for-the-devil.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -110,12 +121,14 @@
         },
         {
           "id": "homenaje-rolling-stones-06-gimme-shelter",
-          "track_number": 174,
+          "track_number": 210,
           "title": "Gimme Shelter",
           "artist": "The Rolling Stones",
           "duration": "4:31",
           "mp3_url": "/audio/homenajes/rolling-stones-gimme-shelter.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-gimme-shelter.json",
+          "docs_url": "/chords/rolling-stones-gimme-shelter.doc",
+          "images_url": "/chords/rolling-stones-gimme-shelter.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -130,12 +143,14 @@
         },
         {
           "id": "homenaje-rolling-stones-07-beast-of-burden",
-          "track_number": 175,
+          "track_number": 211,
           "title": "Beast of Burden",
           "artist": "The Rolling Stones",
           "duration": "4:24",
           "mp3_url": "/audio/homenajes/rolling-stones-beast-of-burden.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-beast-of-burden.json",
+          "docs_url": "/chords/rolling-stones-beast-of-burden.doc",
+          "images_url": "/chords/rolling-stones-beast-of-burden.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -150,12 +165,14 @@
         },
         {
           "id": "homenaje-rolling-stones-08-wild-horses",
-          "track_number": 176,
+          "track_number": 212,
           "title": "Wild Horses",
           "artist": "The Rolling Stones",
           "duration": "5:42",
           "mp3_url": "/audio/homenajes/rolling-stones-wild-horses.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-wild-horses.json",
+          "docs_url": "/chords/rolling-stones-wild-horses.doc",
+          "images_url": "/chords/rolling-stones-wild-horses.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -170,12 +187,14 @@
         },
         {
           "id": "homenaje-rolling-stones-09-its-only-rock-n-roll",
-          "track_number": 177,
+          "track_number": 213,
           "title": "It's Only Rock 'n Roll (But I Like It)",
           "artist": "The Rolling Stones",
           "duration": "5:07",
           "mp3_url": "/audio/homenajes/rolling-stones-its-only-rock-n-roll.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-its-only-rock-n-roll.json",
+          "docs_url": "/chords/rolling-stones-its-only-rock-n-roll.doc",
+          "images_url": "/chords/rolling-stones-its-only-rock-n-roll.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -190,12 +209,14 @@
         },
         {
           "id": "homenaje-rolling-stones-10-miss-you",
-          "track_number": 178,
+          "track_number": 214,
           "title": "Miss You",
           "artist": "The Rolling Stones",
           "duration": "4:48",
           "mp3_url": "/audio/homenajes/rolling-stones-miss-you.mp3",
           "chords_url": "/chords/homenajes/rolling-stones-miss-you.json",
+          "docs_url": "/chords/rolling-stones-miss-you.doc",
+          "images_url": "/chords/rolling-stones-miss-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -204,6 +225,94 @@
             "compas": "4/4",
             "dificultad": "Media",
             "style": "Disco Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes The Rolling Stones"
+          }
+        },
+        {
+          "id": "homenaje-rolling-stones-11-anybody-seen-my-baby",
+          "track_number": 215,
+          "title": "Anybody Seen My Baby?",
+          "artist": "The Rolling Stones",
+          "duration": "4:31",
+          "mp3_url": "/audio/homenajes/rolling-stones-anybody-seen-my-baby.mp3",
+          "chords_url": "/chords/rolling-stones-anybody-seen-my-baby.json",
+          "docs_url": "/chords/rolling-stones-anybody-seen-my-baby.doc",
+          "images_url": "/chords/rolling-stones-anybody-seen-my-baby.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 104,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes The Rolling Stones"
+          }
+        },
+        {
+          "id": "homenaje-rolling-stones-12-brown-sugar",
+          "track_number": 216,
+          "title": "Brown Sugar",
+          "artist": "The Rolling Stones",
+          "duration": "3:50",
+          "mp3_url": "/audio/homenajes/rolling-stones-brown-sugar.mp3",
+          "chords_url": "/chords/rolling-stones-brown-sugar.json",
+          "docs_url": "/chords/rolling-stones-brown-sugar.doc",
+          "images_url": "/chords/rolling-stones-brown-sugar.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 136,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes The Rolling Stones"
+          }
+        },
+        {
+          "id": "homenaje-rolling-stones-13-dead-flowers",
+          "track_number": 217,
+          "title": "Dead Flowers",
+          "artist": "The Rolling Stones",
+          "duration": "4:05",
+          "mp3_url": "/audio/homenajes/rolling-stones-dead-flowers.mp3",
+          "chords_url": "/chords/rolling-stones-dead-flowers.json",
+          "docs_url": "/chords/rolling-stones-dead-flowers.doc",
+          "images_url": "/chords/rolling-stones-dead-flowers.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 92,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Country Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes The Rolling Stones"
+          }
+        },
+        {
+          "id": "homenaje-rolling-stones-14-saint-of-me",
+          "track_number": 218,
+          "title": "Saint of Me",
+          "artist": "The Rolling Stones",
+          "duration": "4:11",
+          "mp3_url": "/audio/homenajes/rolling-stones-saint-of-me.mp3",
+          "chords_url": "/chords/rolling-stones-saint-of-me.json",
+          "docs_url": "/chords/rolling-stones-saint-of-me.doc",
+          "images_url": "/chords/rolling-stones-saint-of-me.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
             "genre": "Rock",
             "categoria": "Homenajes The Rolling Stones"
           }

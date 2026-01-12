@@ -16,6 +16,8 @@
           "duration": "",
           "mp3_url": "/audio/10cc-im-not-in-love.mp3",
           "chords_url": "/chords/10cc-im-not-in-love.json",
+          "docs_url": "/chords/10cc-im-not-in-love.doc",
+          "images_url": "/chords/10cc-im-not-in-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -36,6 +38,8 @@
           "duration": "",
           "mp3_url": "/audio/aerosmith-crazy.mp3",
           "chords_url": "/chords/aerosmith-crazy.json",
+          "docs_url": "/chords/aerosmith-crazy-2.doc",
+          "images_url": "/chords/aerosmith-crazy-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -56,6 +60,8 @@
           "duration": "",
           "mp3_url": "/audio/aerosmith-cryin.mp3",
           "chords_url": "/chords/aerosmith-cryin.json",
+          "docs_url": "/chords/aerosmith-cryin.doc",
+          "images_url": "/chords/aerosmith-cryin.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -76,6 +82,8 @@
           "duration": "",
           "mp3_url": "/audio/aerosmith-pink.mp3",
           "chords_url": "/chords/aerosmith-pink.json",
+          "docs_url": "/chords/aerosmith-pink-2.doc",
+          "images_url": "/chords/aerosmith-pink-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -96,6 +104,8 @@
           "duration": "",
           "mp3_url": "/audio/aerosmith-what-it-takes.mp3",
           "chords_url": "/chords/aerosmith-what-it-takes.json",
+          "docs_url": "/chords/aerosmith-what-it-takes-2.doc",
+          "images_url": "/chords/aerosmith-what-it-takes-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -116,6 +126,8 @@
           "duration": "",
           "mp3_url": "/audio/alanis-morissette-ironic.mp3",
           "chords_url": "/chords/alanis-morissette-ironic.json",
+          "docs_url": "/chords/alanis-morissette-ironic.doc",
+          "images_url": "/chords/alanis-morissette-ironic.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -136,6 +148,8 @@
           "duration": "",
           "mp3_url": "/audio/alphaville-forever-young.mp3",
           "chords_url": "/chords/alphaville-forever-young.json",
+          "docs_url": "/chords/alphaville-forever-young.doc",
+          "images_url": "/chords/alphaville-forever-young.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -156,6 +170,8 @@
           "duration": "",
           "mp3_url": "/audio/ayla-flash-and-the-pan.mp3",
           "chords_url": "/chords/ayla-flash-and-the-pan.json",
+          "docs_url": "/chords/ayla-flash-and-the-pan.doc",
+          "images_url": "/chords/ayla-flash-and-the-pan.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -176,6 +192,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-a-hard-days-night.mp3",
           "chords_url": "/chords/beatles-a-hard-days-night.json",
+          "docs_url": "/chords/beatles-a-hard-days-night.doc",
+          "images_url": "/chords/beatles-a-hard-days-night.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -196,6 +214,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-all-my-loving.mp3",
           "chords_url": "/chords/beatles-all-my-loving.json",
+          "docs_url": "/chords/beatles-all-my-loving.doc",
+          "images_url": "/chords/beatles-all-my-loving.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -216,6 +236,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-come-together.mp3",
           "chords_url": "/chords/beatles-come-together.json",
+          "docs_url": "/chords/beatles-come-together.doc",
+          "images_url": "/chords/beatles-come-together.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -236,6 +258,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-help.mp3",
           "chords_url": "/chords/beatles-help.json",
+          "docs_url": "/chords/beatles-help.doc",
+          "images_url": "/chords/beatles-help.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -256,6 +280,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-here-comes-the-sun.mp3",
           "chords_url": "/chords/beatles-here-comes-the-sun.json",
+          "docs_url": "/chords/beatles-here-comes-the-sun.doc",
+          "images_url": "/chords/beatles-here-comes-the-sun.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -276,6 +302,8 @@
           "duration": "",
           "mp3_url": "/audio/beatles-love-me-do.mp3",
           "chords_url": "/chords/beatles-love-me-do.json",
+          "docs_url": "/chords/beatles-love-me-do.doc",
+          "images_url": "/chords/beatles-love-me-do.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -296,6 +324,8 @@
           "duration": "",
           "mp3_url": "/audio/bill-medley-the-time-of-my-life.mp3",
           "chords_url": "/chords/bill-medley-the-time-of-my-life.json",
+          "docs_url": "/chords/bill-medley-the-time-of-my-life.doc",
+          "images_url": "/chords/bill-medley-the-time-of-my-life.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -316,6 +346,8 @@
           "duration": "",
           "mp3_url": "/audio/bill-withers-aint-no-sunshine.mp3",
           "chords_url": "/chords/bill-withers-aint-no-sunshine.json",
+          "docs_url": "/chords/bill-withers-aint-no-sunshine.doc",
+          "images_url": "/chords/bill-withers-aint-no-sunshine.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -336,6 +368,8 @@
           "duration": "",
           "mp3_url": "/audio/billy-idol-eyes-without-a-face.mp3",
           "chords_url": "/chords/billy-idol-eyes-without-a-face.json",
+          "docs_url": "/chords/billy-idol-eyes-without-a-face.doc",
+          "images_url": "/chords/billy-idol-eyes-without-a-face.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -356,6 +390,8 @@
           "duration": "",
           "mp3_url": "/audio/billy-joel-piano-man.mp3",
           "chords_url": "/chords/billy-joel-piano-man.json",
+          "docs_url": "/chords/billy-joel-piano-man.doc",
+          "images_url": "/chords/billy-joel-piano-man.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -376,6 +412,8 @@
           "duration": "",
           "mp3_url": "/audio/blind-melon-no-rain.mp3",
           "chords_url": "/chords/blind-melon-no-rain.json",
+          "docs_url": "/chords/blind-melon-no-rain.doc",
+          "images_url": "/chords/blind-melon-no-rain.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -396,6 +434,8 @@
           "duration": "",
           "mp3_url": "/audio/bon-jovi-midnight-in-chelsea.mp3",
           "chords_url": "/chords/bon-jovi-midnight-in-chelsea.json",
+          "docs_url": "/chords/bon-jovi-midnight-in-chelsea.doc",
+          "images_url": "/chords/bon-jovi-midnight-in-chelsea.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -416,6 +456,8 @@
           "duration": "",
           "mp3_url": "/audio/bon-jovi-someday-ill-be-saturday-night.mp3",
           "chords_url": "/chords/bon-jovi-someday-ill-be-saturday-night.json",
+          "docs_url": "/chords/bon-jovi-someday-ill-be-saturday-night.doc",
+          "images_url": "/chords/bon-jovi-someday-ill-be-saturday-night.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -436,6 +478,8 @@
           "duration": "",
           "mp3_url": "/audio/bon-jovi-something-for-the-pain.mp3",
           "chords_url": "/chords/bon-jovi-something-for-the-pain.json",
+          "docs_url": "/chords/bon-jovi-something-for-the-pain.doc",
+          "images_url": "/chords/bon-jovi-something-for-the-pain.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -456,6 +500,8 @@
           "duration": "",
           "mp3_url": "/audio/bryan-adams-summer-of-69.mp3",
           "chords_url": "/chords/bryan-adams-summer-of-69.json",
+          "docs_url": "/chords/bryan-adams-summer-of-69.doc",
+          "images_url": "/chords/bryan-adams-summer-of-69.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -476,6 +522,8 @@
           "duration": "",
           "mp3_url": "/audio/bryan-adams-when-youre-gone.mp3",
           "chords_url": "/chords/bryan-adams-when-youre-gone.json",
+          "docs_url": "/chords/bryan-adams-when-youre-gone.doc",
+          "images_url": "/chords/bryan-adams-when-youre-gone.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -496,6 +544,8 @@
           "duration": "",
           "mp3_url": "/audio/cake-i-will-survive.mp3",
           "chords_url": "/chords/cake-i-will-survive.json",
+          "docs_url": "/chords/cake-i-will-survive.doc",
+          "images_url": "/chords/cake-i-will-survive.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -516,6 +566,8 @@
           "duration": "",
           "mp3_url": "/audio/chris-isaak-wicked-game.mp3",
           "chords_url": "/chords/chris-isaak-wicked-game.json",
+          "docs_url": "/chords/chris-isaak-wicked-game.doc",
+          "images_url": "/chords/chris-isaak-wicked-game.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -536,6 +588,8 @@
           "duration": "",
           "mp3_url": "/audio/cyndi-lauper-time-after-time.mp3",
           "chords_url": "/chords/cyndi-lauper-time-after-time.json",
+          "docs_url": "/chords/cyndi-lauper-time-after-time.doc",
+          "images_url": "/chords/cyndi-lauper-time-after-time.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -556,6 +610,8 @@
           "duration": "",
           "mp3_url": "/audio/david-bowie-heroes.mp3",
           "chords_url": "/chords/david-bowie-heroes.json",
+          "docs_url": "/chords/david-bowie-heroes.doc",
+          "images_url": "/chords/david-bowie-heroes.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -576,6 +632,8 @@
           "duration": "",
           "mp3_url": "/audio/duran-duran-ordinary-world.mp3",
           "chords_url": "/chords/duran-duran-ordinary-world.json",
+          "docs_url": "/chords/duran-duran-ordinary-world.doc",
+          "images_url": "/chords/duran-duran-ordinary-world.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -596,6 +654,8 @@
           "duration": "",
           "mp3_url": "/audio/eagles-hotel-california.mp3",
           "chords_url": "/chords/eagles-hotel-california.json",
+          "docs_url": "/chords/eagles-hotel-california.doc",
+          "images_url": "/chords/eagles-hotel-california.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -616,6 +676,8 @@
           "duration": "",
           "mp3_url": "/audio/elton-john-i-dont-wanna-go-on-with-you-like-that.mp3",
           "chords_url": "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.json",
+          "docs_url": "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.doc",
+          "images_url": "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -636,6 +698,8 @@
           "duration": "",
           "mp3_url": "/audio/elton-john-rocket-man.mp3",
           "chords_url": "/chords/elton-john-rocket-man.json",
+          "docs_url": "/chords/elton-john-rocket-man.doc",
+          "images_url": "/chords/elton-john-rocket-man.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -656,6 +720,8 @@
           "duration": "",
           "mp3_url": "/audio/elton-john-sacrifice.mp3",
           "chords_url": "/chords/elton-john-sacrifice.json",
+          "docs_url": "/chords/elton-john-sacrifice.doc",
+          "images_url": "/chords/elton-john-sacrifice.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -676,6 +742,8 @@
           "duration": "",
           "mp3_url": "/audio/elton-john-the-one.mp3",
           "chords_url": "/chords/elton-john-the-one.json",
+          "docs_url": "/chords/elton-john-the-one.doc",
+          "images_url": "/chords/elton-john-the-one.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -696,6 +764,8 @@
           "duration": "",
           "mp3_url": "/audio/foo-fighters-big-me.mp3",
           "chords_url": "/chords/foo-fighters-big-me.json",
+          "docs_url": "/chords/foo-fighters-big-me.doc",
+          "images_url": "/chords/foo-fighters-big-me.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -716,6 +786,8 @@
           "duration": "",
           "mp3_url": "/audio/foo-fighters-learn-to-fly.mp3",
           "chords_url": "/chords/foo-fighters-learn-to-fly.json",
+          "docs_url": "/chords/foo-fighters-learn-to-fly.doc",
+          "images_url": "/chords/foo-fighters-learn-to-fly.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -736,6 +808,8 @@
           "duration": "",
           "mp3_url": "/audio/foo-fighters-times-like-these.mp3",
           "chords_url": "/chords/foo-fighters-times-like-these.json",
+          "docs_url": "/chords/foo-fighters-times-like-these.doc",
+          "images_url": "/chords/foo-fighters-times-like-these.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -756,6 +830,8 @@
           "duration": "",
           "mp3_url": "/audio/four-non-blondes-whats-going-on.mp3",
           "chords_url": "/chords/four-non-blondes-whats-going-on.json",
+          "docs_url": "/chords/four-non-blondes-whats-going-on.doc",
+          "images_url": "/chords/four-non-blondes-whats-going-on.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -776,6 +852,8 @@
           "duration": "",
           "mp3_url": "/audio/fugees-killing-me-softly.mp3",
           "chords_url": "/chords/fugees-killing-me-softly.json",
+          "docs_url": "/chords/fugees-killing-me-softly.doc",
+          "images_url": "/chords/fugees-killing-me-softly.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -796,6 +874,8 @@
           "duration": "",
           "mp3_url": "/audio/george-harrison-my-sweet-lord.mp3",
           "chords_url": "/chords/george-harrison-my-sweet-lord.json",
+          "docs_url": "/chords/george-harrison-my-sweet-lord.doc",
+          "images_url": "/chords/george-harrison-my-sweet-lord.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -816,6 +896,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-21-guns.mp3",
           "chords_url": "/chords/green-day-21-guns.json",
+          "docs_url": "/chords/green-day-21-guns-2.doc",
+          "images_url": "/chords/green-day-21-guns-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -836,6 +918,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-boulevard-of-broken-dreams.mp3",
           "chords_url": "/chords/green-day-boulevard-of-broken-dreams.json",
+          "docs_url": "/chords/green-day-boulevard-of-broken-dreams.doc",
+          "images_url": "/chords/green-day-boulevard-of-broken-dreams.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -856,6 +940,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-she.mp3",
           "chords_url": "/chords/green-day-she.json",
+          "docs_url": "/chords/green-day-she.doc",
+          "images_url": "/chords/green-day-she.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -876,6 +962,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-time-of-your-life.mp3",
           "chords_url": "/chords/green-day-time-of-your-life.json",
+          "docs_url": "/chords/green-day-time-of-your-life.doc",
+          "images_url": "/chords/green-day-time-of-your-life.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -896,6 +984,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-wake-me-up-when-september-ends.mp3",
           "chords_url": "/chords/green-day-wake-me-up-when-september-ends.json",
+          "docs_url": "/chords/green-day-wake-me-up-when-september-ends.doc",
+          "images_url": "/chords/green-day-wake-me-up-when-september-ends.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -916,6 +1006,8 @@
           "duration": "",
           "mp3_url": "/audio/green-day-when-i-come-around.mp3",
           "chords_url": "/chords/green-day-when-i-come-around.json",
+          "docs_url": "/chords/green-day-when-i-come-around.doc",
+          "images_url": "/chords/green-day-when-i-come-around.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -936,6 +1028,8 @@
           "duration": "",
           "mp3_url": "/audio/hoobastank-the-reason.mp3",
           "chords_url": "/chords/hoobastank-the-reason.json",
+          "docs_url": "/chords/hoobastank-the-reason.doc",
+          "images_url": "/chords/hoobastank-the-reason.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -956,6 +1050,8 @@
           "duration": "",
           "mp3_url": "/audio/jason-mraz-im-yours.mp3",
           "chords_url": "/chords/jason-mraz-im-yours.json",
+          "docs_url": "/chords/jason-mraz-im-yours.doc",
+          "images_url": "/chords/jason-mraz-im-yours.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -976,6 +1072,8 @@
           "duration": "",
           "mp3_url": "/audio/john-farnham-you-are-the-voice.mp3",
           "chords_url": "/chords/john-farnham-you-are-the-voice.json",
+          "docs_url": "/chords/john-farnham-you-are-the-voice.doc",
+          "images_url": "/chords/john-farnham-you-are-the-voice.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -996,6 +1094,8 @@
           "duration": "",
           "mp3_url": "/audio/keane-somewhere-only-we-know.mp3",
           "chords_url": "/chords/keane-somewhere-only-we-know.json",
+          "docs_url": "/chords/keane-somewhere-only-we-know.doc",
+          "images_url": "/chords/keane-somewhere-only-we-know.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1016,6 +1116,8 @@
           "duration": "",
           "mp3_url": "/audio/midnight-oil-beds-are-burning.mp3",
           "chords_url": "/chords/midnight-oil-beds-are-burning.json",
+          "docs_url": "/chords/midnight-oil-beds-are-burning.doc",
+          "images_url": "/chords/midnight-oil-beds-are-burning.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1036,6 +1138,8 @@
           "duration": "",
           "mp3_url": "/audio/mr-big-to-be-with-you.mp3",
           "chords_url": "/chords/mr-big-to-be-with-you.json",
+          "docs_url": "/chords/mr-big-to-be-with-you.doc",
+          "images_url": "/chords/mr-big-to-be-with-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1056,6 +1160,8 @@
           "duration": "",
           "mp3_url": "/audio/new-radicals-you-get-what-you-give.mp3",
           "chords_url": "/chords/new-radicals-you-get-what-you-give.json",
+          "docs_url": "/chords/new-radicals-you-get-what-you-give.doc",
+          "images_url": "/chords/new-radicals-you-get-what-you-give.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1076,6 +1182,8 @@
           "duration": "",
           "mp3_url": "/audio/oasis-champagne-supernova.mp3",
           "chords_url": "/chords/oasis-champagne-supernova.json",
+          "docs_url": "/chords/oasis-champagne-supernova.doc",
+          "images_url": "/chords/oasis-champagne-supernova.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1096,6 +1204,8 @@
           "duration": "",
           "mp3_url": "/audio/oasis-dont-look-back-in-anger.mp3",
           "chords_url": "/chords/oasis-dont-look-back-in-anger.json",
+          "docs_url": "/chords/oasis-dont-look-back-in-anger.doc",
+          "images_url": "/chords/oasis-dont-look-back-in-anger.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1116,6 +1226,8 @@
           "duration": "",
           "mp3_url": "/audio/oasis-little-by-little.mp3",
           "chords_url": "/chords/oasis-little-by-little.json",
+          "docs_url": "/chords/oasis-little-by-little.doc",
+          "images_url": "/chords/oasis-little-by-little.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1136,6 +1248,8 @@
           "duration": "",
           "mp3_url": "/audio/oasis-stand-by-me.mp3",
           "chords_url": "/chords/oasis-stand-by-me.json",
+          "docs_url": "/chords/oasis-stand-by-me.doc",
+          "images_url": "/chords/oasis-stand-by-me.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1156,6 +1270,8 @@
           "duration": "",
           "mp3_url": "/audio/oasis-wonderwall.mp3",
           "chords_url": "/chords/oasis-wonderwall.json",
+          "docs_url": "/chords/oasis-wonderwall.doc",
+          "images_url": "/chords/oasis-wonderwall.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1176,6 +1292,8 @@
           "duration": "",
           "mp3_url": "/audio/phil-collins-another-day-in-paradise.mp3",
           "chords_url": "/chords/phil-collins-another-day-in-paradise.json",
+          "docs_url": "/chords/phil-collins-another-day-in-paradise.doc",
+          "images_url": "/chords/phil-collins-another-day-in-paradise.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1196,6 +1314,8 @@
           "duration": "",
           "mp3_url": "/audio/pink-floyd-wish-you-were-here.mp3",
           "chords_url": "/chords/pink-floyd-wish-you-were-here.json",
+          "docs_url": "/chords/pink-floyd-wish-you-were-here.doc",
+          "images_url": "/chords/pink-floyd-wish-you-were-here.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1216,6 +1336,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-a-kind-of-magic.mp3",
           "chords_url": "/chords/queen-a-kind-of-magic.json",
+          "docs_url": "/chords/queen-a-kind-of-magic.doc",
+          "images_url": "/chords/queen-a-kind-of-magic.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1236,6 +1358,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-bicycle-race.mp3",
           "chords_url": "/chords/queen-bicycle-race.json",
+          "docs_url": "/chords/queen-bicycle-race.doc",
+          "images_url": "/chords/queen-bicycle-race.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1256,6 +1380,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-dont-stop-me-now.mp3",
           "chords_url": "/chords/queen-dont-stop-me-now.json",
+          "docs_url": "/chords/queen-dont-stop-me-now.doc",
+          "images_url": "/chords/queen-dont-stop-me-now.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1276,6 +1402,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-fat-bottomed-girls.mp3",
           "chords_url": "/chords/queen-fat-bottomed-girls.json",
+          "docs_url": "/chords/queen-fat-bottomed-girls.doc",
+          "images_url": "/chords/queen-fat-bottomed-girls.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1296,6 +1424,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-friends-will-be-friends.mp3",
           "chords_url": "/chords/queen-friends-will-be-friends.json",
+          "docs_url": "/chords/queen-friends-will-be-friends.doc",
+          "images_url": "/chords/queen-friends-will-be-friends.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1316,6 +1446,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-play-the-game.mp3",
           "chords_url": "/chords/queen-play-the-game.json",
+          "docs_url": "/chords/queen-play-the-game.doc",
+          "images_url": "/chords/queen-play-the-game.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1336,6 +1468,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-somebody-to-love.mp3",
           "chords_url": "/chords/queen-somebody-to-love.json",
+          "docs_url": "/chords/queen-somebody-to-love.doc",
+          "images_url": "/chords/queen-somebody-to-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1356,6 +1490,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-spread-your-wings.mp3",
           "chords_url": "/chords/queen-spread-your-wings.json",
+          "docs_url": "/chords/queen-spread-your-wings.doc",
+          "images_url": "/chords/queen-spread-your-wings.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1376,6 +1512,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-under-pressure.mp3",
           "chords_url": "/chords/queen-under-pressure.json",
+          "docs_url": "/chords/queen-under-pressure.doc",
+          "images_url": "/chords/queen-under-pressure.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1396,6 +1534,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-we-are-the-champions.mp3",
           "chords_url": "/chords/queen-we-are-the-champions.json",
+          "docs_url": "/chords/queen-we-are-the-champions.doc",
+          "images_url": "/chords/queen-we-are-the-champions.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1416,6 +1556,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-you-dont-fool-me.mp3",
           "chords_url": "/chords/queen-you-dont-fool-me.json",
+          "docs_url": "/chords/queen-you-dont-fool-me.doc",
+          "images_url": "/chords/queen-you-dont-fool-me.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1436,6 +1578,8 @@
           "duration": "",
           "mp3_url": "/audio/queen-youre-my-best-friend.mp3",
           "chords_url": "/chords/queen-youre-my-best-friend.json",
+          "docs_url": "/chords/queen-youre-my-best-friend.doc",
+          "images_url": "/chords/queen-youre-my-best-friend.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1456,6 +1600,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-aeroplane.mp3",
           "chords_url": "/chords/redhotchillipeppers-aeroplane.json",
+          "docs_url": "/chords/redhotchillipeppers-aeroplane.doc",
+          "images_url": "/chords/redhotchillipeppers-aeroplane.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1476,6 +1622,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-around-the-world.mp3",
           "chords_url": "/chords/redhotchillipeppers-around-the-world.json",
+          "docs_url": "/chords/redhotchillipeppers-around-the-world.doc",
+          "images_url": "/chords/redhotchillipeppers-around-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1496,6 +1644,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-californication.mp3",
           "chords_url": "/chords/redhotchillipeppers-californication.json",
+          "docs_url": "/chords/redhotchillipeppers-californication.doc",
+          "images_url": "/chords/redhotchillipeppers-californication.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1516,6 +1666,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-otherside.mp3",
           "chords_url": "/chords/redhotchillipeppers-otherside.json",
+          "docs_url": "/chords/redhotchillipeppers-otherside.doc",
+          "images_url": "/chords/redhotchillipeppers-otherside.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1536,6 +1688,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-scar-tissue.mp3",
           "chords_url": "/chords/redhotchillipeppers-scar-tissue.json",
+          "docs_url": "/chords/redhotchillipeppers-scar-tissue.doc",
+          "images_url": "/chords/redhotchillipeppers-scar-tissue.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1556,6 +1710,8 @@
           "duration": "",
           "mp3_url": "/audio/redhotchillipeppers-under-the-bridge.mp3",
           "chords_url": "/chords/redhotchillipeppers-under-the-bridge.json",
+          "docs_url": "/chords/redhotchillipeppers-under-the-bridge.doc",
+          "images_url": "/chords/redhotchillipeppers-under-the-bridge.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1576,6 +1732,8 @@
           "duration": "",
           "mp3_url": "/audio/rem-losing-my-religion.mp3",
           "chords_url": "/chords/rem-losing-my-religion.json",
+          "docs_url": "/chords/rem-losing-my-religion.doc",
+          "images_url": "/chords/rem-losing-my-religion.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1596,6 +1754,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-come-undone.mp3",
           "chords_url": "/chords/robbie-williams-come-undone.json",
+          "docs_url": "/chords/robbie-williams-come-undone.doc",
+          "images_url": "/chords/robbie-williams-come-undone.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1616,6 +1776,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-feel.mp3",
           "chords_url": "/chords/robbie-williams-feel.json",
+          "docs_url": "/chords/robbie-williams-feel.doc",
+          "images_url": "/chords/robbie-williams-feel.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1636,6 +1798,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-let-me-entertain-you.mp3",
           "chords_url": "/chords/robbie-williams-let-me-entertain-you.json",
+          "docs_url": "/chords/robbie-williams-let-me-entertain-you.doc",
+          "images_url": "/chords/robbie-williams-let-me-entertain-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1656,6 +1820,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-misunderstood.mp3",
           "chords_url": "/chords/robbie-williams-misunderstood.json",
+          "docs_url": "/chords/robbie-williams-misunderstood.doc",
+          "images_url": "/chords/robbie-williams-misunderstood.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1676,6 +1842,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-sin-sin-sin.mp3",
           "chords_url": "/chords/robbie-williams-sin-sin-sin.json",
+          "docs_url": "/chords/robbie-williams-sin-sin-sin.doc",
+          "images_url": "/chords/robbie-williams-sin-sin-sin.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1696,6 +1864,8 @@
           "duration": "",
           "mp3_url": "/audio/robbie-williams-something-beautiful.mp3",
           "chords_url": "/chords/robbie-williams-something-beautiful.json",
+          "docs_url": "/chords/robbie-williams-something-beautiful.doc",
+          "images_url": "/chords/robbie-williams-something-beautiful.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1716,6 +1886,8 @@
           "duration": "",
           "mp3_url": "/audio/rod-stewart-forever-young.mp3",
           "chords_url": "/chords/rod-stewart-forever-young.json",
+          "docs_url": "/chords/rod-stewart-forever-young.doc",
+          "images_url": "/chords/rod-stewart-forever-young.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1736,6 +1908,8 @@
           "duration": "",
           "mp3_url": "/audio/rod-stewart-my-heart-cant-tell-you-no.mp3",
           "chords_url": "/chords/rod-stewart-my-heart-cant-tell-you-no.json",
+          "docs_url": "/chords/rod-stewart-my-heart-cant-tell-you-no.doc",
+          "images_url": "/chords/rod-stewart-my-heart-cant-tell-you-no.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1756,6 +1930,8 @@
           "duration": "",
           "mp3_url": "/audio/rolling-stones-anybody-seen-my-baby.mp3",
           "chords_url": "/chords/rolling-stones-anybody-seen-my-baby.json",
+          "docs_url": "/chords/rolling-stones-anybody-seen-my-baby.doc",
+          "images_url": "/chords/rolling-stones-anybody-seen-my-baby.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1776,6 +1952,8 @@
           "duration": "",
           "mp3_url": "/audio/rolling-stones-sympathy-for-the-devil.mp3",
           "chords_url": "/chords/rolling-stones-sympathy-for-the-devil.json",
+          "docs_url": "/chords/rolling-stones-sympathy-for-the-devil.doc",
+          "images_url": "/chords/rolling-stones-sympathy-for-the-devil.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1796,6 +1974,8 @@
           "duration": "",
           "mp3_url": "/audio/roxette-big-love.mp3",
           "chords_url": "/chords/roxette-big-love.json",
+          "docs_url": "/chords/roxette-big-love.doc",
+          "images_url": "/chords/roxette-big-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1816,6 +1996,8 @@
           "duration": "",
           "mp3_url": "/audio/roxette-joyride.mp3",
           "chords_url": "/chords/roxette-joyride.json",
+          "docs_url": "/chords/roxette-joyride.doc",
+          "images_url": "/chords/roxette-joyride.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1836,6 +2018,8 @@
           "duration": "",
           "mp3_url": "/audio/roxette-june-afternoon.mp3",
           "chords_url": "/chords/roxette-june-afternoon.json",
+          "docs_url": "/chords/roxette-june-afternoon.doc",
+          "images_url": "/chords/roxette-june-afternoon.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1856,6 +2040,8 @@
           "duration": "",
           "mp3_url": "/audio/roxette-sleeping-in-my-car.mp3",
           "chords_url": "/chords/roxette-sleeping-in-my-car.json",
+          "docs_url": "/chords/roxette-sleeping-in-my-car.doc",
+          "images_url": "/chords/roxette-sleeping-in-my-car.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1876,6 +2062,8 @@
           "duration": "",
           "mp3_url": "/audio/roxette-the-look.mp3",
           "chords_url": "/chords/roxette-the-look.json",
+          "docs_url": "/chords/roxette-the-look.doc",
+          "images_url": "/chords/roxette-the-look.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1896,6 +2084,8 @@
           "duration": "",
           "mp3_url": "/audio/the-cure-friday-im-in-love.mp3",
           "chords_url": "/chords/the-cure-friday-im-in-love.json",
+          "docs_url": "/chords/the-cure-friday-im-in-love.doc",
+          "images_url": "/chords/the-cure-friday-im-in-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1916,6 +2106,8 @@
           "duration": "",
           "mp3_url": "/audio/the-outfield-your-love.mp3",
           "chords_url": "/chords/the-outfield-your-love.json",
+          "docs_url": "/chords/the-outfield-your-love.doc",
+          "images_url": "/chords/the-outfield-your-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1936,6 +2128,8 @@
           "duration": "",
           "mp3_url": "/audio/tina-turner-simply-the-best.mp3",
           "chords_url": "/chords/tina-turner-simply-the-best.json",
+          "docs_url": "/chords/tina-turner-simply-the-best.doc",
+          "images_url": "/chords/tina-turner-simply-the-best.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1956,6 +2150,8 @@
           "duration": "",
           "mp3_url": "/audio/train-hey-soul-sister.mp3",
           "chords_url": "/chords/train-hey-soul-sister.json",
+          "docs_url": "/chords/train-hey-soul-sister.doc",
+          "images_url": "/chords/train-hey-soul-sister.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1976,6 +2172,8 @@
           "duration": "",
           "mp3_url": "/audio/u2-with-or-without-you.mp3",
           "chords_url": "/chords/u2-with-or-without-you.json",
+          "docs_url": "/chords/u2-with-or-without-you.doc",
+          "images_url": "/chords/u2-with-or-without-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -1996,6 +2194,8 @@
           "duration": "",
           "mp3_url": "/audio/van-halen-cant-stop-loving-you.mp3",
           "chords_url": "/chords/van-halen-cant-stop-loving-you.json",
+          "docs_url": "/chords/van-halen-cant-stop-loving-you.doc",
+          "images_url": "/chords/van-halen-cant-stop-loving-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -2016,6 +2216,8 @@
           "duration": "",
           "mp3_url": "/audio/van-halen-jump.mp3",
           "chords_url": "/chords/van-halen-jump.json",
+          "docs_url": "/chords/van-halen-jump.doc",
+          "images_url": "/chords/van-halen-jump.jpg",
           "details": {
             "letra": "",
             "acordes": [],

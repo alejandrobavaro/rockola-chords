@@ -17,6 +17,8 @@
           "duration": "2:46",
           "mp3_url": "/audio/creedence-down-on-the-corner.mp3",
           "chords_url": "/chords/creedence-down-on-the-corner.json",
+          "docs_url": "/chords/creedence-down-on-the-corner.doc",
+          "images_url": "/chords/creedence-down-on-the-corner.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "2:21",
           "mp3_url": "/audio/creedence-bad-moon-rising.mp3",
           "chords_url": "/chords/creedence-bad-moon-rising.json",
+          "docs_url": "/chords/creedence-bad-moon-rising-2.doc",
+          "images_url": "/chords/creedence-bad-moon-rising-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "2:40",
           "mp3_url": "/audio/creedence-have-you-ever-seen-the-rain.mp3",
           "chords_url": "/chords/creedence-have-you-ever-seen-the-rain.json",
+          "docs_url": "/chords/creedence-have-you-ever-seen-the-rain-2.doc",
+          "images_url": "/chords/creedence-have-you-ever-seen-the-rain-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "3:07",
           "mp3_url": "/audio/creedence-proud-mary.mp3",
           "chords_url": "/chords/creedence-proud-mary.json",
+          "docs_url": "/chords/creedence-proud-mary-en-d-2.doc",
+          "images_url": "/chords/creedence-proud-mary-en-d-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "2:20",
           "mp3_url": "/audio/creedence-fortunate-son.mp3",
           "chords_url": "/chords/creedence-fortunate-son.json",
+          "docs_url": "/chords/creedence-fortunate-son-2.doc",
+          "images_url": "/chords/creedence-fortunate-son-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:36",
           "mp3_url": "/audio/creedence-suzie-q.mp3",
           "chords_url": "/chords/creedence-suzie-q.json",
+          "docs_url": "/chords/creedence-suzie-q.doc",
+          "images_url": "/chords/creedence-suzie-q.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "2:07",
           "mp3_url": "/audio/creedence-travelin-band.mp3",
           "chords_url": "/chords/creedence-travelin-band.json",
+          "docs_url": "/chords/creedence-travelin-band.doc",
+          "images_url": "/chords/creedence-travelin-band.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -144,6 +158,116 @@
             "tonalidad": "A Mayor",
             "compas": "4/4",
             "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Creedence Clearwater Revival"
+          }
+        },
+        {
+          "id": "homenaje-ccr-08-green-river",
+          "track_number": 8,
+          "title": "Green River",
+          "artist": "Creedence Clearwater Revival",
+          "duration": "2:35",
+          "mp3_url": "/audio/creedence-green-river.mp3",
+          "chords_url": "/chords/creedence-green-river-2.json",
+          "docs_url": "/chords/creedence-green-river-2.doc",
+          "images_url": "/chords/creedence-green-river-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Creedence Clearwater Revival"
+          }
+        },
+        {
+          "id": "homenaje-ccr-09-hey-tonight",
+          "track_number": 9,
+          "title": "Hey Tonight",
+          "artist": "Creedence Clearwater Revival",
+          "duration": "2:43",
+          "mp3_url": "/audio/creedence-hey-tonight.mp3",
+          "chords_url": "/chords/creedence-hey-tonight-2.json",
+          "docs_url": "/chords/creedence-hey-tonight-2.doc",
+          "images_url": "/chords/creedence-hey-tonight-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 128,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Creedence Clearwater Revival"
+          }
+        },
+        {
+          "id": "homenaje-ccr-10-i-put-a-spell-on-you",
+          "track_number": 10,
+          "title": "I Put a Spell on You",
+          "artist": "Creedence Clearwater Revival",
+          "duration": "4:31",
+          "mp3_url": "/audio/creedence-i-put-a-spell-on-you.mp3",
+          "chords_url": "/chords/creedence-i-put-a-spell-on-you-2.json",
+          "docs_url": "/chords/creedence-i-put-a-spell-on-you-2.doc",
+          "images_url": "/chords/creedence-i-put-a-spell-on-you-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 92,
+            "tonalidad": "G menor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Creedence Clearwater Revival"
+          }
+        },
+        {
+          "id": "homenaje-ccr-11-long-as-i-can-see-the-light",
+          "track_number": 11,
+          "title": "Long As I Can See the Light",
+          "artist": "Creedence Clearwater Revival",
+          "duration": "3:33",
+          "mp3_url": "/audio/creedence-long-as-i-can-see-the-light.mp3",
+          "chords_url": "/chords/creedence-long-as-i-can-see-the-light-2.json",
+          "docs_url": "/chords/creedence-long-as-i-can-see-the-light-2.doc",
+          "images_url": "/chords/creedence-long-as-i-can-see-the-light-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 85,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Creedence Clearwater Revival"
+          }
+        },
+        {
+          "id": "homenaje-ccr-12-who-will-stop-the-rain",
+          "track_number": 12,
+          "title": "Who'll Stop the Rain",
+          "artist": "Creedence Clearwater Revival",
+          "duration": "2:28",
+          "mp3_url": "/audio/creedence-who-will-stop-the-rain.mp3",
+          "chords_url": "/chords/creedence-who-will-stop-the-rain-2.json",
+          "docs_url": "/chords/creedence-who-will-stop-the-rain-2.doc",
+          "images_url": "/chords/creedence-who-will-stop-the-rain-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 116,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Fácil",
             "style": "Rock",
             "genre": "Rock",
             "categoria": "Homenajes Creedence Clearwater Revival"

@@ -16,6 +16,8 @@
           "duration": "3:51",
           "mp3_url": "/audio/abba-dancing-queen.mp3",
           "chords_url": "/chords/abba-dancing-queen.json",
+          "docs_url": "/chords/abba-dancing-queen.doc",
+          "images_url": "/chords/abba-dancing-queen.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -36,6 +38,8 @@
           "duration": "4:52",
           "mp3_url": "/audio/abba-gimme-a-man-after-midnight.mp3",
           "chords_url": "/chords/abba-gimme-a-man-after-midnight.json",
+          "docs_url": "/chords/abba-gimme-a-man-after-midnight.doc",
+          "images_url": "/chords/abba-gimme-a-man-after-midnight.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "E"],
@@ -56,6 +60,8 @@
           "duration": "4:44",
           "mp3_url": "/audio/backstreetboys-everybody.mp3",
           "chords_url": "/chords/backstreetboys-everybody.json",
+          "docs_url": "/chords/backstreetboys-everybody.doc",
+          "images_url": "/chords/backstreetboys-everybody.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -76,6 +82,8 @@
           "duration": "4:45",
           "mp3_url": "/audio/bee-gees-stayin-alive.mp3",
           "chords_url": "/chords/bee-gees-stayin-alive.json",
+          "docs_url": "/chords/bee-gees-stayin-alive.doc",
+          "images_url": "/chords/bee-gees-stayin-alive.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#m", "E", "D", "A"],
@@ -96,6 +104,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/bee-gees-you-should-be-dancing.mp3",
           "chords_url": "/chords/bee-gees-you-should-be-dancing.json",
+          "docs_url": "/chords/bee-gees-you-should-be-dancing.doc",
+          "images_url": "/chords/bee-gees-you-should-be-dancing.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "F#m"],
@@ -116,6 +126,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/daft-punk-get-lucky.mp3",
           "chords_url": "/chords/daft-punk-get-lucky.json",
+          "docs_url": "/chords/daft-punk-get-lucky-2.doc",
+          "images_url": "/chords/daft-punk-get-lucky-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#m", "D", "A", "E"],
@@ -136,6 +148,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/david-guetta-titanium.mp3",
           "chords_url": "/chords/david-guetta-titanium.json",
+          "docs_url": "/chords/david-guetta-titanium-2.doc",
+          "images_url": "/chords/david-guetta-titanium-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -156,6 +170,8 @@
           "duration": "3:42",
           "mp3_url": "/audio/depeche-mode-i-just-cant-get-enough.mp3",
           "chords_url": "/chords/depeche-mode-i-just-cant-get-enough.json",
+          "docs_url": "/chords/depeche-mode-i-just-cant-get-enough.doc",
+          "images_url": "/chords/depeche-mode-i-just-cant-get-enough.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "F", "G", "Am"],
@@ -176,6 +192,8 @@
           "duration": "5:14",
           "mp3_url": "/audio/donna-summer-hot-stuff.mp3",
           "chords_url": "/chords/donna-summer-hot-stuff.json",
+          "docs_url": "/chords/donna-summer-hot-stuff.doc",
+          "images_url": "/chords/donna-summer-hot-stuff-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -196,6 +214,8 @@
           "duration": "4:31",
           "mp3_url": "/audio/electric-light-orchestra-last-train-to-london.mp3",
           "chords_url": "/chords/electric-light-orchestra-last-train-to-london.json",
+          "docs_url": "/chords/electric-light-orchestra-last-train-to-london.doc",
+          "images_url": "/chords/electric-light-orchestra-last-train-to-london.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -216,6 +236,8 @@
           "duration": "3:36",
           "mp3_url": "/audio/eurythmics-sweet-dreams.mp3",
           "chords_url": "/chords/eurythmics-sweet-dreams.json",
+          "docs_url": "/chords/eurythmics-sweet-dreams.doc",
+          "images_url": "/chords/eurythmics-sweet-dreams.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -236,6 +258,8 @@
           "duration": "5:40",
           "mp3_url": "/audio/gorillaz-clint-eastwood.mp3",
           "chords_url": "/chords/gorillaz-clint-eastwood.json",
+          "docs_url": "/chords/gorillaz-clint-eastwood-2.doc",
+          "images_url": "/chords/gorillaz-clint-eastwood-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["Gm", "Eb", "F", "Bb"],
@@ -256,6 +280,8 @@
           "duration": "2:49",
           "mp3_url": "/audio/grease-youre-the-one-that-i-want.mp3",
           "chords_url": "/chords/grease-youre-the-one-that-i-want.json",
+          "docs_url": "/chords/grease-youre-the-one-that-i-want.doc",
+          "images_url": "/chords/grease-youre-the-one-that-i-want-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -276,6 +302,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/haddaway-what-is-love.mp3",
           "chords_url": "/chords/haddaway-what-is-love.json",
+          "docs_url": "/chords/haddaway-what-is-love.doc",
+          "images_url": "/chords/haddaway-what-is-love.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -296,6 +324,8 @@
           "duration": "4:30",
           "mp3_url": "/audio/inxs-mistify.mp3",
           "chords_url": "/chords/inxs-mistify.json",
+          "docs_url": "/chords/inxs-mistify.doc",
+          "images_url": "/chords/inxs-mistify.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -316,6 +346,8 @@
           "duration": "3:01",
           "mp3_url": "/audio/inxs-need-you-tonight.mp3",
           "chords_url": "/chords/inxs-need-you-tonight.json",
+          "docs_url": "/chords/inxs-need-you-tonight.doc",
+          "images_url": "/chords/inxs-need-you-tonight.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -336,6 +368,8 @@
           "duration": "3:40",
           "mp3_url": "/audio/inxs-new-sensation.mp3",
           "chords_url": "/chords/inxs-new-sensation.json",
+          "docs_url": "/chords/inxs-new-sensation.doc",
+          "images_url": "/chords/inxs-new-sensation.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "F#m"],
@@ -356,6 +390,8 @@
           "duration": "3:52",
           "mp3_url": "/audio/inxs-suicide-blonde.mp3",
           "chords_url": "/chords/inxs-suicide-blonde.json",
+          "docs_url": "/chords/inxs-suicide-blonde-falta.doc",
+          "images_url": "/chords/inxs-suicide-blonde-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -376,6 +412,8 @@
           "duration": "4:31",
           "mp3_url": "/audio/kiss-i-was-made-for-loving-you.mp3",
           "chords_url": "/chords/kiss-i-was-made-for-loving-you.json",
+          "docs_url": "/chords/kiss-i-was-made-for-loving-you-2.doc",
+          "images_url": "/chords/kiss-i-was-made-for-loving-you-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -396,6 +434,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/kool-the-gang-celebrate.mp3",
           "chords_url": "/chords/kool-the-gang-celebrate.json",
+          "docs_url": "/chords/kool-the-gang-celebrate.doc",
+          "images_url": "/chords/kool-the-gang-celebrate-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["F", "Bb", "C", "Gm"],
@@ -416,6 +456,8 @@
           "duration": "4:02",
           "mp3_url": "/audio/lenny-kravitz-it-aint-over-til-its-over.mp3",
           "chords_url": "/chords/lenny-kravitz-it-aint-over-til-its-over.json",
+          "docs_url": "/chords/lenny-kravitz-it-aint-over-til-its-over-falta.doc",
+          "images_url": "/chords/lenny-kravitz-it-aint-over-til-its-over-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -436,6 +478,8 @@
           "duration": "7:52",
           "mp3_url": "/audio/lipps-inc-funkytown.mp3",
           "chords_url": "/chords/lipps-inc-funkytown.json",
+          "docs_url": "/chords/lipps-inc-funkytown.doc",
+          "images_url": "/chords/lipps-inc-funkytown.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "F", "G", "Am"],
@@ -456,6 +500,8 @@
           "duration": "4:54",
           "mp3_url": "/audio/michael-jackson-billie-jean.mp3",
           "chords_url": "/chords/michael-jackson-billie-jean.json",
+          "docs_url": "/chords/michael-jackson-billie-jean-en-f-sharp-m.doc",
+          "images_url": "/chords/michael-jackson-billie-jean-en-f-sharp-m.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#m", "E", "D", "A"],
@@ -476,6 +522,8 @@
           "duration": "5:57",
           "mp3_url": "/audio/michael-jackson-thriller.mp3",
           "chords_url": "/chords/michael-jackson-thriller.json",
+          "docs_url": "/chords/michael-jackson-thriller.doc",
+          "images_url": "/chords/michael-jackson-thriller.jpg",
           "details": {
             "letra": "",
             "acordes": ["Gm", "Eb", "F", "Bb"],
@@ -496,6 +544,8 @@
           "duration": "3:35",
           "mp3_url": "/audio/queen-another-one-bites-the-dust.mp3",
           "chords_url": "/chords/queen-another-one-bites-the-dust.json",
+          "docs_url": "/chords/queen-another-one-bites-the-dust-2.doc",
+          "images_url": "/chords/queen-another-one-bites-the-dust-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -516,6 +566,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/queen-breakthru.mp3",
           "chords_url": "/chords/queen-breakthru.json",
+          "docs_url": "/chords/queen-breakthru.doc",
+          "images_url": "/chords/queen-breakthru-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -536,6 +588,8 @@
           "duration": "4:02",
           "mp3_url": "/audio/robbie-williams-lovelight.mp3",
           "chords_url": "/chords/robbie-williams-lovelight.json",
+          "docs_url": "/chords/robbie-williams-lovelight-falta.doc",
+          "images_url": "/chords/robbie-williams-lovelight-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -556,6 +610,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/robbie-williams-rock-dj.mp3",
           "chords_url": "/chords/robbie-williams-rock-dj.json",
+          "docs_url": "/chords/robbie-williams-rock-dj.doc",
+          "images_url": "/chords/robbie-williams-rock-dj.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -576,6 +632,8 @@
           "duration": "5:24",
           "mp3_url": "/audio/rod-stewart-do-you-think-im-sexy.mp3",
           "chords_url": "/chords/rod-stewart-do-you-think-im-sexy.json",
+          "docs_url": "/chords/rod-stewart-do-you-think-im-sexy.doc",
+          "images_url": "/chords/rod-stewart-do-you-think-im-sexy.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -596,6 +654,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/rolling-stones-miss-you.mp3",
           "chords_url": "/chords/rolling-stones-miss-you.json",
+          "docs_url": "/chords/rolling-stones-miss-you.doc",
+          "images_url": "/chords/rolling-stones-miss-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -616,6 +676,8 @@
           "duration": "4:47",
           "mp3_url": "/audio/village-people-ymca.mp3",
           "chords_url": "/chords/village-people-ymca.json",
+          "docs_url": "/chords/village-people-ymca.doc",
+          "images_url": "/chords/village-people-ymca.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -636,6 +698,8 @@
           "duration": "3:52",
           "mp3_url": "/audio/white-stripes-seven-nation-army.mp3",
           "chords_url": "/chords/white-stripes-seven-nation-army.json",
+          "docs_url": "/chords/white-stripes-seven-nation-army.doc",
+          "images_url": "/chords/white-stripes-seven-nation-army.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "G", "A", "C"],

@@ -17,6 +17,8 @@
           "duration": "3:22",
           "mp3_url": "/audio/charly-garcia-demoliendo-hoteles.mp3",
           "chords_url": "/chords/charly-garcia-demoliendo-hoteles.json",
+          "docs_url": "/chords/charly-garcia-demoliendo-hoteles-2.doc",
+          "images_url": "/chords/charly-garcia-demoliendo-hoteles-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/charly-garcia-rezo-por-vos.mp3",
           "chords_url": "/chords/charly-garcia-rezo-por-vos.json",
+          "docs_url": "/chords/charly-garcia-rezo-por-vos-2.doc",
+          "images_url": "/chords/charly-garcia-rezo-por-vos-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:40",
           "mp3_url": "/audio/charly-garcia-cerca-de-la-revolucion.mp3",
           "chords_url": "/chords/charly-garcia-cerca-de-la-revolucion.json",
+          "docs_url": "/chords/charly-garcia-cerca-de-la-revolucion-2.doc",
+          "images_url": "/chords/charly-garcia-cerca-de-la-revolucion-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -70,13 +76,59 @@
           }
         },
         {
-          "id": "homenaje-fito-paez-01-11-y-6",
+          "id": "homenaje-charly-garcia-04-cancion-para-mi-muerte",
           "track_number": 4,
+          "title": "Canción para Mi Muerte",
+          "artist": "Charly García",
+          "duration": "4:25",
+          "mp3_url": "/audio/charly-garcia-cancion-para-mi-muerte.mp3",
+          "chords_url": "/chords/charly-garcia-cancion-para-mi-muerte.json",
+          "docs_url": "/chords/charly-garcia-cancion-para-mi-muerte-2.doc",
+          "images_url": "/chords/charly-garcia-cancion-para-mi-muerte-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 92,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Charly García"
+          }
+        },
+        {
+          "id": "homenaje-charly-garcia-05-seminare",
+          "track_number": 5,
+          "title": "Seminare",
+          "artist": "Charly García",
+          "duration": "3:48",
+          "mp3_url": "/audio/charly-garcia-seminare.mp3",
+          "chords_url": "/chords/charly-garcia-seminare.json",
+          "docs_url": "/chords/charly-garcia-seminare.doc",
+          "images_url": "/chords/charly-garcia-seminare.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Charly García"
+          }
+        },
+        {
+          "id": "homenaje-fito-paez-01-11-y-6",
+          "track_number": 6,
           "title": "11 y 6",
           "artist": "Fito Páez",
           "duration": "3:28",
           "mp3_url": "/audio/fito-paez-11-y-6.mp3",
           "chords_url": "/chords/fito-paez-11-y-6.json",
+          "docs_url": "/chords/fito-paez-11-y-6.doc",
+          "images_url": "/chords/fito-paez-11-y-6.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -91,12 +143,14 @@
         },
         {
           "id": "homenaje-fito-paez-02-el-amor-despues-del-amor",
-          "track_number": 5,
+          "track_number": 7,
           "title": "El Amor Después del Amor",
           "artist": "Fito Páez",
           "duration": "5:10",
           "mp3_url": "/audio/fito-paez-el-amor-despues-del-amor.mp3",
           "chords_url": "/chords/fito-paez-el-amor-despues-del-amor.json",
+          "docs_url": "/chords/fito-paez-el-amor-despues-del-amor.doc",
+          "images_url": "/chords/fito-paez-el-amor-despues-del-amor.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -111,12 +165,14 @@
         },
         {
           "id": "homenaje-fito-paez-03-y-dale-alegria-a-mi-corazon",
-          "track_number": 6,
+          "track_number": 8,
           "title": "Y Dale Alegría a Mi Corazón",
           "artist": "Fito Páez",
           "duration": "4:15",
           "mp3_url": "/audio/fito-paez-y-dale-alegria-a-mi-corazon.mp3",
           "chords_url": "/chords/fito-paez-y-dale-alegria-a-mi-corazon.json",
+          "docs_url": "/chords/fito-paez-y-dale-alegria-a-mi-corazon.doc",
+          "images_url": "/chords/fito-paez-y-dale-alegria-a-mi-corazon.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -130,13 +186,81 @@
           }
         },
         {
+          "id": "homenaje-fito-paez-04-a-rodar-mi-vida",
+          "track_number": 9,
+          "title": "A Rodar Mi Vida",
+          "artist": "Fito Páez",
+          "duration": "4:32",
+          "mp3_url": "/audio/fito-paez-a-rodar-mi-vida.mp3",
+          "chords_url": "/chords/fito-paez-a-rodar-mi-vida.json",
+          "docs_url": "/chords/fito-paez-a-rodar-mi-vida.doc",
+          "images_url": "/chords/fito-paez-a-rodar-mi-vida.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 116,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Fito Páez"
+          }
+        },
+        {
+          "id": "homenaje-fito-paez-05-circo-beat",
+          "track_number": 10,
+          "title": "Circo Beat",
+          "artist": "Fito Páez",
+          "duration": "4:18",
+          "mp3_url": "/audio/fito-paez-circo-beat.mp3",
+          "chords_url": "/chords/fito-paez-circo-beat.json",
+          "docs_url": "/chords/fito-paez-circo-beat.doc",
+          "images_url": "/chords/fito-paez-circo-beat.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Fito Páez"
+          }
+        },
+        {
+          "id": "homenaje-fito-paez-06-petalo-de-sal",
+          "track_number": 11,
+          "title": "Pétalo de Sal",
+          "artist": "Fito Páez",
+          "duration": "4:05",
+          "mp3_url": "/audio/fito-paez-petalo-de-sal.mp3",
+          "chords_url": "/chords/fito-paez-petalo-de-sal.json",
+          "docs_url": "/chords/fito-paez-petalo-de-sal.doc",
+          "images_url": "/chords/fito-paez-petalo-de-sal.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 98,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Balada",
+            "genre": "Rock",
+            "categoria": "Homenajes Fito Páez"
+          }
+        },
+        {
           "id": "homenaje-luis-alberto-spinetta-01-muchacha-ojos-de-papel",
-          "track_number": 7,
+          "track_number": 12,
           "title": "Muchacha (Ojos de Papel)",
           "artist": "Luis Alberto Spinetta",
           "duration": "3:08",
           "mp3_url": "/audio/spinetta-muchacha-ojos-de-papel.mp3",
           "chords_url": "/chords/spinetta-muchacha-ojos-de-papel.json",
+          "docs_url": "/chords/spinetta-muchacha-ojos-de-papel.doc",
+          "images_url": "/chords/spinetta-muchacha-ojos-de-papel.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -151,12 +275,14 @@
         },
         {
           "id": "homenaje-luis-alberto-spinetta-02-barro-tal-vez",
-          "track_number": 8,
+          "track_number": 13,
           "title": "Barro Tal Vez",
           "artist": "Luis Alberto Spinetta",
           "duration": "4:22",
           "mp3_url": "/audio/spinetta-barro-tal-vez.mp3",
           "chords_url": "/chords/spinetta-barro-tal-vez.json",
+          "docs_url": "/chords/spinetta-barro-tal-vez.doc",
+          "images_url": "/chords/spinetta-barro-tal-vez.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -171,12 +297,14 @@
         },
         {
           "id": "homenaje-luis-alberto-spinetta-03-aguas-claras",
-          "track_number": 9,
+          "track_number": 14,
           "title": "Aguas Claras",
           "artist": "Luis Alberto Spinetta",
           "duration": "4:05",
           "mp3_url": "/audio/spinetta-aguas-claras.mp3",
           "chords_url": "/chords/spinetta-aguas-claras.json",
+          "docs_url": "/chords/spinetta-aguas-claras.doc",
+          "images_url": "/chords/spinetta-aguas-claras.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -191,12 +319,14 @@
         },
         {
           "id": "homenaje-luis-alberto-spinetta-04-esta-sembrada-mi-tierra",
-          "track_number": 10,
+          "track_number": 15,
           "title": "Esta Sembrada Mi Tierra",
           "artist": "Luis Alberto Spinetta",
           "duration": "4:18",
           "mp3_url": "/audio/spinetta-esta-sembrada-mi-tierra.mp3",
           "chords_url": "/chords/spinetta-esta-sembrada-mi-tierra.json",
+          "docs_url": "/chords/spinetta-esta-sembrada-mi-tierra.doc",
+          "images_url": "/chords/spinetta-esta-sembrada-mi-tierra.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -207,6 +337,50 @@
             "style": "Rock",
             "genre": "Rock",
             "categoria": "Homenajes Luis Alberto Spinetta"
+          }
+        },
+        {
+          "id": "homenaje-luis-alberto-spinetta-05-seguir-viviendo-sin-tu-amor",
+          "track_number": 16,
+          "title": "Seguir Viviendo Sin Tu Amor",
+          "artist": "Luis Alberto Spinetta",
+          "duration": "4:25",
+          "mp3_url": "/audio/spinetta-seguir-viviendo-sin-tu-amor.mp3",
+          "chords_url": "/chords/spinetta-seguir-viviendo-sin-tu-amor.json",
+          "docs_url": "/chords/spinetta-seguir-viviendo-sin-tu-amor.doc",
+          "images_url": "/chords/spinetta-seguir-viviendo-sin-tu-amor.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 102,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Luis Alberto Spinetta"
+          }
+        },
+        {
+          "id": "homenaje-seri-giran-01-popotitos",
+          "track_number": 17,
+          "title": "Popotitos",
+          "artist": "Serú Girán",
+          "duration": "3:55",
+          "mp3_url": "/audio/seru-giran-popotitos.mp3",
+          "chords_url": "/chords/seru-giran-popotitos.json",
+          "docs_url": "/chords/seru-giran-popotitos.doc",
+          "images_url": "/chords/seru-giran-popotitos.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 124,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Serú Girán"
           }
         }
       ]

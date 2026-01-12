@@ -16,6 +16,8 @@
           "duration": "",
           "mp3_url": "/audio/bob-marley-could-you-be-loved.mp3",
           "chords_url": "/chords/bob-marley-could-you-be-loved.json",
+          "docs_url": "/chords/bob-marley-could-you-be-loved.doc",
+          "images_url": "/chords/bob-marley-could-you-be-loved.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -36,6 +38,8 @@
           "duration": "",
           "mp3_url": "/audio/bob-marley-is-this-love.mp3",
           "chords_url": "/chords/bob-marley-is-this-love.json",
+          "docs_url": "/chords/bob-marley-is-this-love.doc",
+          "images_url": "/chords/bob-marley-is-this-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -56,6 +60,8 @@
           "duration": "",
           "mp3_url": "/audio/bob-marley-no-woman-no-cry.mp3",
           "chords_url": "/chords/bob-marley-no-woman-no-cry.json",
+          "docs_url": "/chords/bob-marley-no-woman-no-cry.doc",
+          "images_url": "/chords/bob-marley-no-woman-no-cry.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -76,6 +82,8 @@
           "duration": "",
           "mp3_url": "/audio/bob-marley-three-little-birds.mp3",
           "chords_url": "/chords/bob-marley-three-little-birds.json",
+          "docs_url": "/chords/bob-marley-three-little-birds.doc",
+          "images_url": "/chords/bob-marley-three-little-birds.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -96,6 +104,8 @@
           "duration": "",
           "mp3_url": "/audio/sublime-santeria.mp3",
           "chords_url": "/chords/sublime-santeria.json",
+          "docs_url": "/chords/sublime-santeria.doc",
+          "images_url": "/chords/sublime-santeria.jpg",
           "details": {
             "letra": "",
             "acordes": [],

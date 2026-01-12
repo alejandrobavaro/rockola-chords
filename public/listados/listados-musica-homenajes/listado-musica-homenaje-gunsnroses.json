@@ -17,6 +17,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/gunsnroses-sweet-child-o-mine.mp3",
           "chords_url": "/chords/gunsnroses-sweet-child-o-mine.json",
+          "docs_url": "/chords/guns-n-roses-sweet-child-o-mine.doc",
+          "images_url": "/chords/guns-n-roses-sweet-child-o-mine.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:31",
           "mp3_url": "/audio/gunsnroses-welcome-to-the-jungle.mp3",
           "chords_url": "/chords/gunsnroses-welcome-to-the-jungle.json",
+          "docs_url": "/chords/guns-n-roses-welcome-to-the-jungle-2.doc",
+          "images_url": "/chords/guns-n-roses-welcome-to-the-jungle-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "8:57",
           "mp3_url": "/audio/gunsnroses-november-rain.mp3",
           "chords_url": "/chords/gunsnroses-november-rain.json",
+          "docs_url": "/chords/guns-n-roses-november-rain-2.doc",
+          "images_url": "/chords/guns-n-roses-november-rain-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "6:46",
           "mp3_url": "/audio/gunsnroses-paradise-city.mp3",
           "chords_url": "/chords/gunsnroses-paradise-city.json",
+          "docs_url": "/chords/guns-n-roses-paradise-city-2.doc",
+          "images_url": "/chords/guns-n-roses-paradise-city-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:44",
           "mp3_url": "/audio/gunsnroses-dont-cry.mp3",
           "chords_url": "/chords/gunsnroses-dont-cry.json",
+          "docs_url": "/chords/guns-n-roses-dont-cry.doc",
+          "images_url": "/chords/guns-n-roses-dont-cry.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "7:42",
           "mp3_url": "/audio/gunsnroses-civil-war.mp3",
           "chords_url": "/chords/gunsnroses-civil-war.json",
+          "docs_url": "/chords/guns-n-roses-civil-war.doc",
+          "images_url": "/chords/guns-n-roses-civil-war.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "5:36",
           "mp3_url": "/audio/gunsnroses-knockin-on-heavens-door.mp3",
           "chords_url": "/chords/gunsnroses-knockin-on-heavens-door.json",
+          "docs_url": "/chords/guns-n-roses-knockin-on-heavens-door-2.doc",
+          "images_url": "/chords/guns-n-roses-knockin-on-heavens-door-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "5:43",
           "mp3_url": "/audio/gunsnroses-you-could-be-mine.mp3",
           "chords_url": "/chords/gunsnroses-you-could-be-mine.json",
+          "docs_url": "/chords/guns-n-roses-you-could-be-mine-2.doc",
+          "images_url": "/chords/guns-n-roses-you-could-be-mine-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "3:04",
           "mp3_url": "/audio/gunsnroses-live-and-let-die.mp3",
           "chords_url": "/chords/gunsnroses-live-and-let-die.json",
+          "docs_url": "/chords/guns-n-roses-live-and-let-die-2.doc",
+          "images_url": "/chords/guns-n-roses-live-and-let-die-2.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -197,6 +215,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/gunsnroses-patience.mp3",
           "chords_url": "/chords/gunsnroses-patience.json",
+          "docs_url": "/chords/guns-n-roses-patience.doc",
+          "images_url": "/chords/guns-n-roses-patience.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -205,6 +225,72 @@
             "compas": "4/4",
             "dificultad": "Fácil",
             "style": "Acústico",
+            "genre": "Rock",
+            "categoria": "Homenajes Guns N' Roses"
+          }
+        },
+        {
+          "id": "homenaje-gunsnroses-11-yesterdays",
+          "track_number": 11,
+          "title": "Yesterdays",
+          "artist": "Guns N' Roses",
+          "duration": "3:16",
+          "mp3_url": "/audio/gunsnroses-yesterdays.mp3",
+          "chords_url": "/chords/gunsnroses-yesterdays.json",
+          "docs_url": "/chords/guns-n-roses-yesterdays-2.doc",
+          "images_url": "/chords/guns-n-roses-yesterdays-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Hard Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Guns N' Roses"
+          }
+        },
+        {
+          "id": "homenaje-gunsnroses-12-since-i-dont-have-you",
+          "track_number": 12,
+          "title": "Since I Don't Have You",
+          "artist": "Guns N' Roses",
+          "duration": "4:20",
+          "mp3_url": "/audio/gunsnroses-since-i-dont-have-you.mp3",
+          "chords_url": "/chords/gunsnroses-since-i-dont-have-you.json",
+          "docs_url": "/chords/guns-n-roses-since-i-dont-have-you-2.doc",
+          "images_url": "/chords/guns-n-roses-since-i-dont-have-you-2.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 68,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Balada",
+            "genre": "Rock",
+            "categoria": "Homenajes Guns N' Roses"
+          }
+        },
+        {
+          "id": "homenaje-gunsnroses-13-used-to-love-her",
+          "track_number": 13,
+          "title": "Used to Love Her",
+          "artist": "Guns N' Roses",
+          "duration": "3:13",
+          "mp3_url": "/audio/gunsnroses-used-to-love-her.mp3",
+          "chords_url": "/chords/gunsnroses-used-to-love-her.json",
+          "docs_url": "/chords/guns-n-roses-used-to-love-her.doc",
+          "images_url": "/chords/guns-n-roses-used-to-love-her.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 126,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Hard Rock",
             "genre": "Rock",
             "categoria": "Homenajes Guns N' Roses"
           }

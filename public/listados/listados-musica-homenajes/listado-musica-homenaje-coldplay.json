@@ -17,6 +17,8 @@
           "duration": "4:29",
           "mp3_url": "/audio/coldplay-yellow.mp3",
           "chords_url": "/chords/coldplay-yellow.json",
+          "docs_url": "/chords/coldplay-yellow.doc",
+          "images_url": "/chords/coldplay-yellow.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "5:09",
           "mp3_url": "/audio/coldplay-the-scientist.mp3",
           "chords_url": "/chords/coldplay-the-scientist.json",
+          "docs_url": "/chords/coldplay-the-scientist-en-c-sharp-m.doc",
+          "images_url": "/chords/coldplay-the-scientist-en-c-sharp-m.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "5:07",
           "mp3_url": "/audio/coldplay-clocks.mp3",
           "chords_url": "/chords/coldplay-clocks.json",
+          "docs_url": "/chords/coldplay-clocks.doc",
+          "images_url": "/chords/coldplay-clocks.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "4:55",
           "mp3_url": "/audio/coldplay-fix-you.mp3",
           "chords_url": "/chords/coldplay-fix-you.json",
+          "docs_url": "/chords/coldplay-fix-you.doc",
+          "images_url": "/chords/coldplay-fix-you.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:01",
           "mp3_url": "/audio/coldplay-viva-la-vida.mp3",
           "chords_url": "/chords/coldplay-viva-la-vida.json",
+          "docs_url": "/chords/coldplay-viva-la-vida.doc",
+          "images_url": "/chords/coldplay-viva-la-vida.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "4:38",
           "mp3_url": "/audio/coldplay-paradise.mp3",
           "chords_url": "/chords/coldplay-paradise.json",
+          "docs_url": "/chords/coldplay-paradise.doc",
+          "images_url": "/chords/coldplay-paradise.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "4:23",
           "mp3_url": "/audio/coldplay-adventure-of-a-lifetime.mp3",
           "chords_url": "/chords/coldplay-adventure-of-a-lifetime.json",
+          "docs_url": "/chords/coldplay-adventure-of-a-lifetime.doc",
+          "images_url": "/chords/coldplay-adventure-of-a-lifetime.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/coldplay-hymn-for-the-weekend.mp3",
           "chords_url": "/chords/coldplay-hymn-for-the-weekend.json",
+          "docs_url": "/chords/coldplay-hymn-for-the-weekend.doc",
+          "images_url": "/chords/coldplay-hymn-for-the-weekend.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "4:27",
           "mp3_url": "/audio/coldplay-a-sky-full-of-stars.mp3",
           "chords_url": "/chords/coldplay-a-sky-full-of-stars.json",
+          "docs_url": "/chords/coldplay-a-sky-full-of-stars.doc",
+          "images_url": "/chords/coldplay-a-sky-full-of-stars.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -197,6 +215,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/coldplay-in-my-place.mp3",
           "chords_url": "/chords/coldplay-in-my-place.json",
+          "docs_url": "/chords/coldplay-in-my-place.doc",
+          "images_url": "/chords/coldplay-in-my-place.jpg",
           "details": {
             "letra": "",
             "acordes": [],

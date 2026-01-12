@@ -17,6 +17,8 @@
           "duration": "3:01",
           "mp3_url": "/audio/inxs-need-you-tonight.mp3",
           "chords_url": "/chords/inxs-need-you-tonight.json",
+          "docs_url": "/chords/inxs-need-you-tonight.doc",
+          "images_url": "/chords/inxs-need-you-tonight.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "3:40",
           "mp3_url": "/audio/inxs-new-sensation.mp3",
           "chords_url": "/chords/inxs-new-sensation.json",
+          "docs_url": "/chords/inxs-new-sensation.doc",
+          "images_url": "/chords/inxs-new-sensation.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "3:28",
           "mp3_url": "/audio/inxs-beautiful-girl.mp3",
           "chords_url": "/chords/inxs-beautiful-girl.json",
+          "docs_url": "/chords/inxs-beautiful-girl.doc",
+          "images_url": "/chords/inxs-beautiful-girl.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "3:18",
           "mp3_url": "/audio/inxs-mystify.mp3",
           "chords_url": "/chords/inxs-mystify.json",
+          "docs_url": "/chords/inxs-mystify.doc",
+          "images_url": "/chords/inxs-mystify.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "3:05",
           "mp3_url": "/audio/inxs-never-tear-us-apart.mp3",
           "chords_url": "/chords/inxs-never-tear-us-apart.json",
+          "docs_url": "/chords/inxs-never-tear-us-apart.doc",
+          "images_url": "/chords/inxs-never-tear-us-apart.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -117,6 +127,8 @@
           "duration": "3:52",
           "mp3_url": "/audio/inxs-suicide-blonde.mp3",
           "chords_url": "/chords/inxs-suicide-blonde.json",
+          "docs_url": "/chords/inxs-suicide-blonde.doc",
+          "images_url": "/chords/inxs-suicide-blonde.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -137,6 +149,8 @@
           "duration": "3:14",
           "mp3_url": "/audio/inxs-kick.mp3",
           "chords_url": "/chords/inxs-kick.json",
+          "docs_url": "/chords/inxs-kick.doc",
+          "images_url": "/chords/inxs-kick.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -157,6 +171,8 @@
           "duration": "4:10",
           "mp3_url": "/audio/inxs-disappear.mp3",
           "chords_url": "/chords/inxs-disappear.json",
+          "docs_url": "/chords/inxs-disappear.doc",
+          "images_url": "/chords/inxs-disappear.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -177,6 +193,8 @@
           "duration": "3:36",
           "mp3_url": "/audio/inxs-what-you-need.mp3",
           "chords_url": "/chords/inxs-what-you-need.json",
+          "docs_url": "/chords/inxs-what-you-need.doc",
+          "images_url": "/chords/inxs-what-you-need.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -197,11 +215,57 @@
           "duration": "3:51",
           "mp3_url": "/audio/inxs-bitter-tears.mp3",
           "chords_url": "/chords/inxs-bitter-tears.json",
+          "docs_url": "/chords/inxs-bitter-tears.doc",
+          "images_url": "/chords/inxs-bitter-tears.jpg",
           "details": {
             "letra": "",
             "acordes": [],
             "bpm": 118,
             "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes INXS"
+          }
+        },
+        {
+          "id": "homenaje-inxs-11-dont-lose-your-head",
+          "track_number": 11,
+          "title": "Don't Lose Your Head",
+          "artist": "INXS",
+          "duration": "3:20",
+          "mp3_url": "/audio/inxs-dont-lose-your-head.mp3",
+          "chords_url": "/chords/inxs-dont-lose-your-head.json",
+          "docs_url": "/chords/inxs-dont-lose-your-head.doc",
+          "images_url": "/chords/inxs-dont-lose-your-head.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 110,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes INXS"
+          }
+        },
+        {
+          "id": "homenaje-inxs-12-elegantly-wasted",
+          "track_number": 12,
+          "title": "Elegantly Wasted",
+          "artist": "INXS",
+          "duration": "3:33",
+          "mp3_url": "/audio/inxs-elegantly-wasted.mp3",
+          "chords_url": "/chords/inxs-elegantly-wasted.json",
+          "docs_url": "/chords/inxs-elegantly-wasted.doc",
+          "images_url": "/chords/inxs-elegantly-wasted.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "E Mayor",
             "compas": "4/4",
             "dificultad": "Media",
             "style": "Rock",

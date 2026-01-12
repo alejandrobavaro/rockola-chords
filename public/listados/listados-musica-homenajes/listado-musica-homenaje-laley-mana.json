@@ -17,6 +17,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/la-ley-el-duelo.mp3",
           "chords_url": "/chords/la-ley-el-duelo.json",
+          "docs_url": "/chords/la-ley-el-duelo.doc",
+          "images_url": "/chords/la-ley-el-duelo.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -37,6 +39,8 @@
           "duration": "4:08",
           "mp3_url": "/audio/la-ley-intentare.mp3",
           "chords_url": "/chords/la-ley-intentare.json",
+          "docs_url": "/chords/la-ley-intentare.doc",
+          "images_url": "/chords/la-ley-intentare.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -57,6 +61,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/la-ley-mentira.mp3",
           "chords_url": "/chords/la-ley-mentira.json",
+          "docs_url": "/chords/la-ley-mentira.doc",
+          "images_url": "/chords/la-ley-mentira.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -77,6 +83,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/la-ley-aqui.mp3",
           "chords_url": "/chords/la-ley-aqui.json",
+          "docs_url": "/chords/la-ley-aqui.doc",
+          "images_url": "/chords/la-ley-aqui.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -97,6 +105,8 @@
           "duration": "4:28",
           "mp3_url": "/audio/la-ley-fuera-de-mi.mp3",
           "chords_url": "/chords/la-ley-fuera-de-mi.json",
+          "docs_url": "/chords/la-ley-fuera-de-mi.doc",
+          "images_url": "/chords/la-ley-fuera-de-mi.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -110,13 +120,37 @@
           }
         },
         {
-          "id": "homenaje-mana-01-rayando-el-sol",
+          "id": "homenaje-la-ley-06-sin-dolor-no-te-haces-feliz",
           "track_number": 6,
+          "title": "Sin Dolor No Te Haces Feliz",
+          "artist": "La Ley",
+          "duration": "4:10",
+          "mp3_url": "/audio/la-ley-sin-dolor-no-te-haces-feliz.mp3",
+          "chords_url": "/chords/la-ley-sin-dolor-no-te-haces-feliz.json",
+          "docs_url": "/chords/la-ley-sin-dolor-no-te-haces-feliz.doc",
+          "images_url": "/chords/la-ley-sin-dolor-no-te-haces-feliz.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 122,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Alternativo",
+            "genre": "Rock",
+            "categoria": "Homenajes La Ley"
+          }
+        },
+        {
+          "id": "homenaje-mana-01-rayando-el-sol",
+          "track_number": 7,
           "title": "Rayando el Sol",
           "artist": "Mana",
           "duration": "4:10",
           "mp3_url": "/audio/mana-rayando-el-sol.mp3",
           "chords_url": "/chords/mana-rayando-el-sol.json",
+          "docs_url": "/chords/mana-rayando-el-sol.doc",
+          "images_url": "/chords/mana-rayando-el-sol.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -131,12 +165,14 @@
         },
         {
           "id": "homenaje-mana-02-clavado-en-un-bar",
-          "track_number": 7,
+          "track_number": 8,
           "title": "Clavado en un Bar",
           "artist": "Mana",
           "duration": "5:10",
           "mp3_url": "/audio/mana-clavado-en-un-bar.mp3",
           "chords_url": "/chords/mana-clavado-en-un-bar.json",
+          "docs_url": "/chords/mana-clavado-en-un-bar.doc",
+          "images_url": "/chords/mana-clavado-en-un-bar.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -151,12 +187,14 @@
         },
         {
           "id": "homenaje-mana-03-en-el-muelle-de-san-blas",
-          "track_number": 8,
+          "track_number": 9,
           "title": "En el Muelle de San Blas",
           "artist": "Mana",
           "duration": "5:52",
           "mp3_url": "/audio/mana-en-el-muelle-de-san-blas.mp3",
           "chords_url": "/chords/mana-en-el-muelle-de-san-blas.json",
+          "docs_url": "/chords/mana-en-el-muelle-de-san-blas.doc",
+          "images_url": "/chords/mana-en-el-muelle-de-san-blas.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -171,12 +209,14 @@
         },
         {
           "id": "homenaje-mana-04-labios-compartidos",
-          "track_number": 9,
+          "track_number": 10,
           "title": "Labios Compartidos",
           "artist": "Mana",
           "duration": "4:00",
           "mp3_url": "/audio/mana-labios-compartidos.mp3",
           "chords_url": "/chords/mana-labios-compartidos.json",
+          "docs_url": "/chords/mana-labios-compartidos.doc",
+          "images_url": "/chords/mana-labios-compartidos.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -191,12 +231,14 @@
         },
         {
           "id": "homenaje-mana-05-mariposa-trachiconera",
-          "track_number": 10,
+          "track_number": 11,
           "title": "Mariposa Traicionera",
           "artist": "Mana",
           "duration": "4:24",
           "mp3_url": "/audio/mana-mariposa-trachiconera.mp3",
           "chords_url": "/chords/mana-mariposa-trachiconera.json",
+          "docs_url": "/chords/mana-mariposa-trachiconera.doc",
+          "images_url": "/chords/mana-mariposa-trachiconera.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -205,6 +247,138 @@
             "compas": "4/4",
             "dificultad": "Media",
             "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-06-baila-morena",
+          "track_number": 12,
+          "title": "Baila Morena",
+          "artist": "Mana",
+          "duration": "4:30",
+          "mp3_url": "/audio/mana-baila-morena.mp3",
+          "chords_url": "/chords/mana-baila-morena.json",
+          "docs_url": "/chords/mana-baila-morena.doc",
+          "images_url": "/chords/mana-baila-morena.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-07-corazon-espinado",
+          "track_number": 13,
+          "title": "Corazón Espinado",
+          "artist": "Mana",
+          "duration": "4:15",
+          "mp3_url": "/audio/mana-corazon-espinado.mp3",
+          "chords_url": "/chords/mana-corazon-espinado.json",
+          "docs_url": "/chords/mana-corazon-espinado.doc",
+          "images_url": "/chords/mana-corazon-espinado.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 110,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-08-dejame-entrar",
+          "track_number": 14,
+          "title": "Déjame Entrar",
+          "artist": "Mana",
+          "duration": "4:20",
+          "mp3_url": "/audio/mana-dejame-entrar.mp3",
+          "chords_url": "/chords/mana-dejame-entrar.json",
+          "docs_url": "/chords/mana-dejame-entrar.doc",
+          "images_url": "/chords/mana-dejame-entrar.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 116,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-09-oye-mi-amor",
+          "track_number": 15,
+          "title": "Oye Mi Amor",
+          "artist": "Mana",
+          "duration": "4:05",
+          "mp3_url": "/audio/mana-oye-mi-amor.mp3",
+          "chords_url": "/chords/mana-oye-mi-amor.json",
+          "docs_url": "/chords/mana-oye-mi-amor.doc",
+          "images_url": "/chords/mana-oye-mi-amor.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 124,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-10-te-solte-la-rienda",
+          "track_number": 16,
+          "title": "Te Solté La Rienda",
+          "artist": "Mana",
+          "duration": "3:45",
+          "mp3_url": "/audio/mana-te-solte-la-rienda.mp3",
+          "chords_url": "/chords/mana-te-solte-la-rienda.json",
+          "docs_url": "/chords/mana-te-solte-la-rienda.doc",
+          "images_url": "/chords/mana-te-solte-la-rienda.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 100,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock Latino",
+            "genre": "Rock",
+            "categoria": "Homenajes Mana"
+          }
+        },
+        {
+          "id": "homenaje-mana-11-vivir-sin-aire",
+          "track_number": 17,
+          "title": "Vivir Sin Aire",
+          "artist": "Mana",
+          "duration": "4:50",
+          "mp3_url": "/audio/mana-vivir-sin-aire.mp3",
+          "chords_url": "/chords/mana-vivir-sin-aire.json",
+          "docs_url": "/chords/mana-vivir-sin-aire.doc",
+          "images_url": "/chords/mana-vivir-sin-aire.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 92,
+            "tonalidad": "F Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Balada Rock",
             "genre": "Rock",
             "categoria": "Homenajes Mana"
           }

@@ -16,6 +16,8 @@
           "duration": "4:16",
           "mp3_url": "/audio/acdc-back-in-black.mp3",
           "chords_url": "/chords/acdc-back-in-black.json",
+          "docs_url": "/chords/acdc-back-in-black.doc",
+          "images_url": "/chords/acdc-back-in-black.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "D", "A", "G"],
@@ -36,6 +38,8 @@
           "duration": "5:12",
           "mp3_url": "/audio/acdc-hells-bells.mp3",
           "chords_url": "/chords/acdc-hells-bells.json",
+          "docs_url": "/chords/acdc-hells-bells.doc",
+          "images_url": "/chords/acdc-hells-bells.jpg",
           "details": {
             "letra": "",
             "acordes": ["B", "E", "F#", "G#"],
@@ -56,6 +60,8 @@
           "duration": "3:28",
           "mp3_url": "/audio/acdc-highway-to-hell.mp3",
           "chords_url": "/chords/acdc-highway-to-hell.json",
+          "docs_url": "/chords/acdc-highway-to-hell.doc",
+          "images_url": "/chords/acdc-highway-to-hell.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "G"],
@@ -76,6 +82,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/acdc-rock-n-roll-train.mp3",
           "chords_url": "/chords/acdc-rock-n-roll-train.json",
+          "docs_url": "/chords/acdc-rock-n-roll-train.doc",
+          "images_url": "/chords/acdc-rock-n-roll-train.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -96,6 +104,8 @@
           "duration": "5:18",
           "mp3_url": "/audio/acdc-shoot-to-thrill.mp3",
           "chords_url": "/chords/acdc-shoot-to-thrill.json",
+          "docs_url": "/chords/acdc-shoot-to-thrill.doc",
+          "images_url": "/chords/acdc-shoot-to-thrill.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -116,6 +126,8 @@
           "duration": "3:35",
           "mp3_url": "/audio/acdc-stiff-upper-lip.mp3",
           "chords_url": "/chords/acdc-stiff-upper-lip.json",
+          "docs_url": "/chords/acdc-stiff-upper-lip.doc",
+          "images_url": "/chords/acdc-stiff-upper-lip.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "G"],
@@ -136,6 +148,8 @@
           "duration": "4:53",
           "mp3_url": "/audio/acdc-thunderstruck.mp3",
           "chords_url": "/chords/acdc-thunderstruck.json",
+          "docs_url": "/chords/acdc-thunderstruck.doc",
+          "images_url": "/chords/acdc-thunderstruck.jpg",
           "details": {
             "letra": "",
             "acordes": ["B", "E", "F#", "G#m"],
@@ -156,6 +170,8 @@
           "duration": "5:36",
           "mp3_url": "/audio/acdc-whole-lotta-rosie.mp3",
           "chords_url": "/chords/acdc-whole-lotta-rosie.json",
+          "docs_url": "/chords/acdc-whole-lotta-rosie.doc",
+          "images_url": "/chords/acdc-whole-lotta-rosie.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "G", "D", "E"],
@@ -176,6 +192,8 @@
           "duration": "3:32",
           "mp3_url": "/audio/acdc-you-shook-me-all-night-long.mp3",
           "chords_url": "/chords/acdc-you-shook-me-all-night-long.json",
+          "docs_url": "/chords/acdc-you-shook-me-all-night-long.doc",
+          "images_url": "/chords/acdc-you-shook-me-all-night-long.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -196,6 +214,8 @@
           "duration": "2:02",
           "mp3_url": "/audio/blur-song-2.mp3",
           "chords_url": "/chords/blur-song-2.json",
+          "docs_url": "/chords/blur-song-2.doc",
+          "images_url": "/chords/blur-song-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "G", "D", "E"],
@@ -216,6 +236,8 @@
           "duration": "3:45",
           "mp3_url": "/audio/bon-jovi-its-my-life.mp3",
           "chords_url": "/chords/bon-jovi-its-my-life.json",
+          "docs_url": "/chords/bon-jovi-its-my-life.doc",
+          "images_url": "/chords/bon-jovi-its-my-life.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -236,6 +258,8 @@
           "duration": "5:46",
           "mp3_url": "/audio/bon-jovi-keep-the-faith.mp3",
           "chords_url": "/chords/bon-jovi-keep-the-faith.json",
+          "docs_url": "/chords/bon-jovi-keep-the-faith.doc",
+          "images_url": "/chords/bon-jovi-keep-the-faith.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -256,6 +280,8 @@
           "duration": "4:11",
           "mp3_url": "/audio/bon-jovi-livin-on-a-prayer.mp3",
           "chords_url": "/chords/bon-jovi-livin-on-a-prayer.json",
+          "docs_url": "/chords/bon-jovi-livin-on-a-prayer.doc",
+          "images_url": "/chords/bon-jovi-livin-on-a-prayer.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -276,6 +302,8 @@
           "duration": "5:09",
           "mp3_url": "/audio/bon-jovi-wanted-dead-or-alive.mp3",
           "chords_url": "/chords/bon-jovi-wanted-dead-or-alive.json",
+          "docs_url": "/chords/bon-jovi-wanted-dead-or-alive.doc",
+          "images_url": "/chords/bon-jovi-wanted-dead-or-alive.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "G", "D", "C"],
@@ -296,6 +324,8 @@
           "duration": "5:07",
           "mp3_url": "/audio/cranberries-zombie.mp3",
           "chords_url": "/chords/cranberries-zombie.json",
+          "docs_url": "/chords/cranberries-zombie.doc",
+          "images_url": "/chords/cranberries-zombie.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -316,6 +346,8 @@
           "duration": "4:54",
           "mp3_url": "/audio/def-leppard-pour-some-sugar-on-me.mp3",
           "chords_url": "/chords/def-leppard-pour-some-sugar-on-me.json",
+          "docs_url": "/chords/def-leppard-pour-some-sugar-on-me.doc",
+          "images_url": "/chords/def-leppard-pour-some-sugar-on-me.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -336,6 +368,8 @@
           "duration": "8:26",
           "mp3_url": "/audio/dire-straits-money-for-nothing.mp3",
           "chords_url": "/chords/dire-straits-money-for-nothing.json",
+          "docs_url": "/chords/dire-straits-money-for-nothing.doc",
+          "images_url": "/chords/dire-straits-money-for-nothing.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "C", "Bb", "F"],
@@ -356,6 +390,8 @@
           "duration": "4:16",
           "mp3_url": "/audio/foo-fighters-best-of-you.mp3",
           "chords_url": "/chords/foo-fighters-best-of-you.json",
+          "docs_url": "/chords/foo-fighters-best-of-you.doc",
+          "images_url": "/chords/foo-fighters-best-of-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "E", "F#m", "D"],
@@ -376,6 +412,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/foo-fighters-my-hero.mp3",
           "chords_url": "/chords/foo-fighters-my-hero.json",
+          "docs_url": "/chords/foo-fighters-my-hero.doc",
+          "images_url": "/chords/foo-fighters-my-hero.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -396,6 +434,8 @@
           "duration": "4:16",
           "mp3_url": "/audio/foo-fighters-walk.mp3",
           "chords_url": "/chords/foo-fighters-walk.json",
+          "docs_url": "/chords/foo-fighters-walk.doc",
+          "images_url": "/chords/foo-fighters-walk.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -416,6 +456,8 @@
           "duration": "2:54",
           "mp3_url": "/audio/green-day-american-idiot.mp3",
           "chords_url": "/chords/green-day-american-idiot.json",
+          "docs_url": "/chords/green-day-american-idiot.doc",
+          "images_url": "/chords/green-day-american-idiot.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#", "B", "C#", "D#m"],
@@ -436,6 +478,8 @@
           "duration": "3:03",
           "mp3_url": "/audio/green-day-basket-case.mp3",
           "chords_url": "/chords/green-day-basket-case.json",
+          "docs_url": "/chords/green-day-basket-case.doc",
+          "images_url": "/chords/green-day-basket-case.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "G", "C", "D"],
@@ -456,6 +500,8 @@
           "duration": "7:42",
           "mp3_url": "/audio/guns-n-roses-civil-war.mp3",
           "chords_url": "/chords/guns-n-roses-civil-war.json",
+          "docs_url": "/chords/guns-n-roses-civil-war.doc",
+          "images_url": "/chords/guns-n-roses-civil-war.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "F", "Am"],
@@ -476,6 +522,8 @@
           "duration": "5:36",
           "mp3_url": "/audio/guns-n-roses-knockin-on-heavens-door.mp3",
           "chords_url": "/chords/guns-n-roses-knockin-on-heavens-door.json",
+          "docs_url": "/chords/guns-n-roses-knockin-on-heavens-door.doc",
+          "images_url": "/chords/guns-n-roses-knockin-on-heavens-door.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Am"],
@@ -496,6 +544,8 @@
           "duration": "3:04",
           "mp3_url": "/audio/guns-n-roses-live-and-let-die.mp3",
           "chords_url": "/chords/guns-n-roses-live-and-let-die.json",
+          "docs_url": "/chords/guns-n-roses-live-and-let-die.doc",
+          "images_url": "/chords/guns-n-roses-live-and-let-die.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -516,6 +566,8 @@
           "duration": "6:46",
           "mp3_url": "/audio/guns-n-roses-paradise-city.mp3",
           "chords_url": "/chords/guns-n-roses-paradise-city.json",
+          "docs_url": "/chords/guns-n-roses-paradise-city.doc",
+          "images_url": "/chords/guns-n-roses-paradise-city.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -536,6 +588,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/guns-n-roses-sweet-child-o-mine.mp3",
           "chords_url": "/chords/guns-n-roses-sweet-child-o-mine.json",
+          "docs_url": "/chords/guns-n-roses-sweet-child-o-mine.doc",
+          "images_url": "/chords/guns-n-roses-sweet-child-o-mine.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "C", "G", "Em"],
@@ -556,6 +610,8 @@
           "duration": "4:32",
           "mp3_url": "/audio/guns-n-roses-welcome-to-the-jungle.mp3",
           "chords_url": "/chords/guns-n-roses-welcome-to-the-jungle.json",
+          "docs_url": "/chords/guns-n-roses-welcome-to-the-jungle.doc",
+          "images_url": "/chords/guns-n-roses-welcome-to-the-jungle.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "D", "A", "C"],
@@ -576,6 +632,8 @@
           "duration": "3:16",
           "mp3_url": "/audio/guns-n-roses-yesterdays.mp3",
           "chords_url": "/chords/guns-n-roses-yesterdays.json",
+          "docs_url": "/chords/guns-n-roses-yesterdays.doc",
+          "images_url": "/chords/guns-n-roses-yesterdays.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -596,6 +654,8 @@
           "duration": "5:48",
           "mp3_url": "/audio/guns-n-roses-you-could-be-mine.mp3",
           "chords_url": "/chords/guns-n-roses-you-could-be-mine.json",
+          "docs_url": "/chords/guns-n-roses-you-could-be-mine.doc",
+          "images_url": "/chords/guns-n-roses-you-could-be-mine.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -616,6 +676,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/inxs-dont-lose-your-head.mp3",
           "chords_url": "/chords/inxs-dont-lose-your-head.json",
+          "docs_url": "/chords/inxs-dont-lose-your-head.doc",
+          "images_url": "/chords/inxs-dont-lose-your-head.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -636,6 +698,8 @@
           "duration": "4:33",
           "mp3_url": "/audio/inxs-elegantly-wasted.mp3",
           "chords_url": "/chords/inxs-elegantly-wasted.json",
+          "docs_url": "/chords/inxs-elegantly-wasted.doc",
+          "images_url": "/chords/inxs-elegantly-wasted.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -656,6 +720,8 @@
           "duration": "3:58",
           "mp3_url": "/audio/lenny-kravitz-always-on-the-run.mp3",
           "chords_url": "/chords/lenny-kravitz-always-on-the-run.json",
+          "docs_url": "/chords/lenny-kravitz-always-on-the-run.doc",
+          "images_url": "/chords/lenny-kravitz-always-on-the-run.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -676,6 +742,8 @@
           "duration": "4:21",
           "mp3_url": "/audio/lenny-kravitz-american-woman.mp3",
           "chords_url": "/chords/lenny-kravitz-american-woman.json",
+          "docs_url": "/chords/lenny-kravitz-american-woman.doc",
+          "images_url": "/chords/lenny-kravitz-american-woman.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "G"],
@@ -696,6 +764,8 @@
           "duration": "3:32",
           "mp3_url": "/audio/lenny-kravitz-are-you-gonna-go-my-way.mp3",
           "chords_url": "/chords/lenny-kravitz-are-you-gonna-go-my-way.json",
+          "docs_url": "/chords/lenny-kravitz-are-you-gonna-go-my-way.doc",
+          "images_url": "/chords/lenny-kravitz-are-you-gonna-go-my-way.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "G", "D"],
@@ -716,6 +786,8 @@
           "duration": "3:42",
           "mp3_url": "/audio/lenny-kravitz-fly-away.mp3",
           "chords_url": "/chords/lenny-kravitz-fly-away.json",
+          "docs_url": "/chords/lenny-kravitz-fly-away.doc",
+          "images_url": "/chords/lenny-kravitz-fly-away.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -736,6 +808,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/michael-jackson-beat-it.mp3",
           "chords_url": "/chords/michael-jackson-beat-it.json",
+          "docs_url": "/chords/michael-jackson-beat-it.doc",
+          "images_url": "/chords/michael-jackson-beat-it.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "G", "D", "C"],
@@ -756,6 +830,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/michael-jackson-smooth-criminal.mp3",
           "chords_url": "/chords/michael-jackson-smooth-criminal.json",
+          "docs_url": "/chords/michael-jackson-smooth-criminal.doc",
+          "images_url": "/chords/michael-jackson-smooth-criminal.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -776,6 +852,8 @@
           "duration": "3:33",
           "mp3_url": "/audio/mick-jagger-god-gave-me-everything.mp3",
           "chords_url": "/chords/mick-jagger-god-gave-me-everything.json",
+          "docs_url": "/chords/mick-jagger-god-gave-me-everything.doc",
+          "images_url": "/chords/mick-jagger-god-gave-me-everything.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -796,6 +874,8 @@
           "duration": "4:21",
           "mp3_url": "/audio/nirvana-the-man-who-sold-the-world.mp3",
           "chords_url": "/chords/nirvana-the-man-who-sold-the-world.json",
+          "docs_url": "/chords/nirvana-the-man-who-sold-the-world.doc",
+          "images_url": "/chords/nirvana-the-man-who-sold-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "G", "D", "C"],
@@ -816,6 +896,8 @@
           "duration": "9:20",
           "mp3_url": "/audio/oasis-all-around-the-world.mp3",
           "chords_url": "/chords/oasis-all-around-the-world.json",
+          "docs_url": "/chords/oasis-all-around-the-world.doc",
+          "images_url": "/chords/oasis-all-around-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -836,6 +918,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/oasis-dont-go-away.mp3",
           "chords_url": "/chords/oasis-dont-go-away.json",
+          "docs_url": "/chords/oasis-dont-go-away.doc",
+          "images_url": "/chords/oasis-dont-go-away.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -856,6 +940,8 @@
           "duration": "7:43",
           "mp3_url": "/audio/oasis-dyou-know-what-i-mean.mp3",
           "chords_url": "/chords/oasis-dyou-know-what-i-mean.json",
+          "docs_url": "/chords/oasis-dyou-know-what-i-mean.doc",
+          "images_url": "/chords/oasis-dyou-know-what-i-mean.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "F#m"],
@@ -876,6 +962,8 @@
           "duration": "4:36",
           "mp3_url": "/audio/oasis-live-forever.mp3",
           "chords_url": "/chords/oasis-live-forever.json",
+          "docs_url": "/chords/oasis-live-forever.doc",
+          "images_url": "/chords/oasis-live-forever.jpg",
           "details": {
             "letra": "",
             "acordes": ["F#m", "A", "E", "D"],
@@ -896,6 +984,8 @@
           "duration": "4:43",
           "mp3_url": "/audio/oasis-supersonic.mp3",
           "chords_url": "/chords/oasis-supersonic.json",
+          "docs_url": "/chords/oasis-supersonic.doc",
+          "images_url": "/chords/oasis-supersonic.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "G", "D"],
@@ -916,6 +1006,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/offspring-defy-you.mp3",
           "chords_url": "/chords/offspring-defy-you.json",
+          "docs_url": "/chords/offspring-defy-you.doc",
+          "images_url": "/chords/offspring-defy-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "G", "C", "D"],
@@ -936,6 +1028,8 @@
           "duration": "3:08",
           "mp3_url": "/audio/offspring-pretty-fly-for-a-white-guy.mp3",
           "chords_url": "/chords/offspring-pretty-fly-for-a-white-guy.json",
+          "docs_url": "/chords/offspring-pretty-fly-for-a-white-guy.doc",
+          "images_url": "/chords/offspring-pretty-fly-for-a-white-guy.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -956,6 +1050,8 @@
           "duration": "3:00",
           "mp3_url": "/audio/offspring-the-kids-arent-alright.mp3",
           "chords_url": "/chords/offspring-the-kids-arent-alright.json",
+          "docs_url": "/chords/offspring-the-kids-arent-alright.doc",
+          "images_url": "/chords/offspring-the-kids-arent-alright.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -976,6 +1072,8 @@
           "duration": "3:23",
           "mp3_url": "/audio/offspring-want-you-bad.mp3",
           "chords_url": "/chords/offspring-want-you-bad.json",
+          "docs_url": "/chords/offspring-want-you-bad.doc",
+          "images_url": "/chords/offspring-want-you-bad.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -996,6 +1094,8 @@
           "duration": "2:52",
           "mp3_url": "/audio/offspring-why-dont-you-get-a-job.mp3",
           "chords_url": "/chords/offspring-why-dont-you-get-a-job.json",
+          "docs_url": "/chords/offspring-why-dont-you-get-a-job.doc",
+          "images_url": "/chords/offspring-why-dont-you-get-a-job.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -1016,6 +1116,8 @@
           "duration": "3:31",
           "mp3_url": "/audio/puff-daddy-come-with-me.mp3",
           "chords_url": "/chords/puff-daddy-come-with-me.json",
+          "docs_url": "/chords/puff-daddy-come-with-me.doc",
+          "images_url": "/chords/puff-daddy-come-with-me.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1036,6 +1138,8 @@
           "duration": "4:28",
           "mp3_url": "/audio/queen-hammer-to-fall.mp3",
           "chords_url": "/chords/queen-hammer-to-fall.json",
+          "docs_url": "/chords/queen-hammer-to-fall.doc",
+          "images_url": "/chords/queen-hammer-to-fall.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -1056,6 +1160,8 @@
           "duration": "4:41",
           "mp3_url": "/audio/queen-i-want-it-all.mp3",
           "chords_url": "/chords/queen-i-want-it-all.json",
+          "docs_url": "/chords/queen-i-want-it-all.doc",
+          "images_url": "/chords/queen-i-want-it-all.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -1076,6 +1182,8 @@
           "duration": "6:31",
           "mp3_url": "/audio/queen-innuendo.mp3",
           "chords_url": "/chords/queen-innuendo.json",
+          "docs_url": "/chords/queen-innuendo.doc",
+          "images_url": "/chords/queen-innuendo.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1096,6 +1204,8 @@
           "duration": "5:11",
           "mp3_url": "/audio/queen-one-vision.mp3",
           "chords_url": "/chords/queen-one-vision.json",
+          "docs_url": "/chords/queen-one-vision.doc",
+          "images_url": "/chords/queen-one-vision.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "F#m"],
@@ -1116,6 +1226,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/queen-tie-your-mother-down.mp3",
           "chords_url": "/chords/queen-tie-your-mother-down.json",
+          "docs_url": "/chords/queen-tie-your-mother-down.doc",
+          "images_url": "/chords/queen-tie-your-mother-down.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -1136,6 +1248,8 @@
           "duration": "2:02",
           "mp3_url": "/audio/queen-we-will-rock-you.mp3",
           "chords_url": "/chords/queen-we-will-rock-you.json",
+          "docs_url": "/chords/queen-we-will-rock-you.doc",
+          "images_url": "/chords/queen-we-will-rock-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "D", "E", "G"],
@@ -1156,6 +1270,8 @@
           "duration": "3:58",
           "mp3_url": "/audio/radiohead-creep.mp3",
           "chords_url": "/chords/radiohead-creep.json",
+          "docs_url": "/chords/radiohead-creep.doc",
+          "images_url": "/chords/radiohead-creep.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "B", "C", "Cm"],
@@ -1176,6 +1292,8 @@
           "duration": "3:37",
           "mp3_url": "/audio/redhotchillipeppers-by-the-way.mp3",
           "chords_url": "/chords/redhotchillipeppers-by-the-way.json",
+          "docs_url": "/chords/redhotchillipeppers-by-the-way.doc",
+          "images_url": "/chords/redhotchillipeppers-by-the-way.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -1196,6 +1314,8 @@
           "duration": "5:09",
           "mp3_url": "/audio/robbie-williams-no-regrets.mp3",
           "chords_url": "/chords/robbie-williams-no-regrets.json",
+          "docs_url": "/chords/robbie-williams-no-regrets.doc",
+          "images_url": "/chords/robbie-williams-no-regrets.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1216,6 +1336,8 @@
           "duration": "4:11",
           "mp3_url": "/audio/rolling-stones-saint-of-me.mp3",
           "chords_url": "/chords/rolling-stones-saint-of-me.json",
+          "docs_url": "/chords/rolling-stones-saint-of-me.doc",
+          "images_url": "/chords/rolling-stones-saint-of-me.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -1236,6 +1358,8 @@
           "duration": "4:05",
           "mp3_url": "/audio/survivor-eye-of-the-tiger.mp3",
           "chords_url": "/chords/survivor-eye-of-the-tiger.json",
+          "docs_url": "/chords/survivor-eye-of-the-tiger.doc",
+          "images_url": "/chords/survivor-eye-of-the-tiger.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -1256,6 +1380,8 @@
           "duration": "3:09",
           "mp3_url": "/audio/system-of-a-down-hypnotize.mp3",
           "chords_url": "/chords/system-of-a-down-hypnotize.json",
+          "docs_url": "/chords/system-of-a-down-hypnotize.doc",
+          "images_url": "/chords/system-of-a-down-hypnotize.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Bb", "F", "C"],
@@ -1276,6 +1402,8 @@
           "duration": "3:39",
           "mp3_url": "/audio/system-of-a-down-toxicity.mp3",
           "chords_url": "/chords/system-of-a-down-toxicity.json",
+          "docs_url": "/chords/system-of-a-down-toxicity.doc",
+          "images_url": "/chords/system-of-a-down-toxicity.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],

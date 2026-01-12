@@ -16,6 +16,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/aerosmith-amazing.mp3",
           "chords_url": "/chords/aerosmith-amazing.json",
+          "docs_url": "/chords/aerosmith-amazing-2.doc",
+          "images_url": "/chords/aerosmith-amazing-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -36,6 +38,8 @@
           "duration": "5:10",
           "mp3_url": "/audio/aerosmith-hole-in-my-soul.mp3",
           "chords_url": "/chords/aerosmith-hole-in-my-soul.json",
+          "docs_url": "/chords/aerosmith-hole-in-my-soul-2.doc",
+          "images_url": "/chords/aerosmith-hole-in-my-soul-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -56,6 +60,8 @@
           "duration": "4:58",
           "mp3_url": "/audio/aerosmith-i-dont-want-to-miss-a-thing.mp3",
           "chords_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing.json",
+          "docs_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing.doc",
+          "images_url": "/chords/aerosmith-i-dont-want-to-miss-a-thing-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -76,6 +82,8 @@
           "duration": "5:30",
           "mp3_url": "/audio/air-supply-total-eclipse-of-the-heart.mp3",
           "chords_url": "/chords/air-supply-total-eclipse-of-the-heart.json",
+          "docs_url": "/chords/air-supply-total-eclipse-of-the-heart.doc",
+          "images_url": "/chords/air-supply-total-eclipse-of-the-heart-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -96,6 +104,8 @@
           "duration": "4:45",
           "mp3_url": "/audio/annie-lennox-no-more-i-love-yous.mp3",
           "chords_url": "/chords/annie-lennox-no-more-i-love-yous.json",
+          "docs_url": "/chords/annie-lennox-no-more-i-love-yous-2.doc",
+          "images_url": "/chords/annie-lennox-no-more-i-love-yous-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -116,6 +126,8 @@
           "duration": "4:53",
           "mp3_url": "/audio/annie-lennox-why.mp3",
           "chords_url": "/chords/annie-lennox-why.json",
+          "docs_url": "/chords/annie-lennox-why-2.doc",
+          "images_url": "/chords/annie-lennox-why-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Bb", "F", "C"],
@@ -136,6 +148,8 @@
           "duration": "3:33",
           "mp3_url": "/audio/backstreet-boys-i-want-it-that-way.mp3",
           "chords_url": "/chords/backstreet-boys-i-want-it-that-way.json",
+          "docs_url": "/chords/backstreet-boys-i-want-it-that-way.doc",
+          "images_url": "/chords/backstreet-boys-i-want-it-that-way-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -156,6 +170,8 @@
           "duration": "4:01",
           "mp3_url": "/audio/backstreet-boys-show-me-the-meaning.mp3",
           "chords_url": "/chords/backstreet-boys-show-me-the-meaning.json",
+          "docs_url": "/chords/backstreet-boys-show-me-the-meaning-2.doc",
+          "images_url": "/chords/backstreet-boys-show-me-the-meaning-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -176,6 +192,8 @@
           "duration": "4:17",
           "mp3_url": "/audio/bad-english-when-i-see-you-smile.mp3",
           "chords_url": "/chords/bad-english-when-i-see-you-smile.json",
+          "docs_url": "/chords/bad-english-when-i-see-you-smile-2.doc",
+          "images_url": "/chords/bad-english-when-i-see-you-smile-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -196,6 +214,8 @@
           "duration": "3:35",
           "mp3_url": "/audio/beatles-dont-let-me-down.mp3",
           "chords_url": "/chords/beatles-dont-let-me-down.json",
+          "docs_url": "/chords/beatles-dont-let-me-down.doc",
+          "images_url": "/chords/beatles-dont-let-me-down-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "A", "B", "C#m"],
@@ -216,6 +236,8 @@
           "duration": "1:31",
           "mp3_url": "/audio/beatles-golden-slumbers.mp3",
           "chords_url": "/chords/beatles-golden-slumbers.json",
+          "docs_url": "/chords/beatles-golden-slumbers-2.doc",
+          "images_url": "/chords/beatles-golden-slumbers-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "F", "G", "Am"],
@@ -236,6 +258,8 @@
           "duration": "7:11",
           "mp3_url": "/audio/beatles-hey-jude.mp3",
           "chords_url": "/chords/beatles-hey-jude.json",
+          "docs_url": "/chords/beatles-hey-jude-en-d-2.doc",
+          "images_url": "/chords/beatles-hey-jude-en-d-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["F", "C", "G", "Bb"],
@@ -256,6 +280,8 @@
           "duration": "4:03",
           "mp3_url": "/audio/beatles-let-it-be.mp3",
           "chords_url": "/chords/beatles-let-it-be.json",
+          "docs_url": "/chords/beatles-let-it-be.doc",
+          "images_url": "/chords/beatles-let-it-be.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -276,6 +302,8 @@
           "duration": "3:03",
           "mp3_url": "/audio/beatles-something.mp3",
           "chords_url": "/chords/beatles-something.json",
+          "docs_url": "/chords/beatles-something.doc",
+          "images_url": "/chords/beatles-something-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "Dm", "G"],
@@ -296,6 +324,8 @@
           "duration": "2:05",
           "mp3_url": "/audio/beatles-yesterday.mp3",
           "chords_url": "/chords/beatles-yesterday.json",
+          "docs_url": "/chords/beatles-yesterday-2.doc",
+          "images_url": "/chords/beatles-yesterday-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["F", "Em", "Am", "G"],
@@ -316,6 +346,8 @@
           "duration": "3:53",
           "mp3_url": "/audio/billy-joel-honesty.mp3",
           "chords_url": "/chords/billy-joel-honesty.json",
+          "docs_url": "/chords/billy-joel-honesty.doc",
+          "images_url": "/chords/billy-joel-honesty-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -336,6 +368,8 @@
           "duration": "5:53",
           "mp3_url": "/audio/bon-jovi-always.mp3",
           "chords_url": "/chords/bon-jovi-always.json",
+          "docs_url": "/chords/bon-jovi-always.doc",
+          "images_url": "/chords/bon-jovi-always.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -356,6 +390,8 @@
           "duration": "6:34",
           "mp3_url": "/audio/bon-jovi-bed-of-roses.mp3",
           "chords_url": "/chords/bon-jovi-bed-of-roses.json",
+          "docs_url": "/chords/bon-jovi-bed-of-roses.doc",
+          "images_url": "/chords/bon-jovi-bed-of-roses-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -376,6 +412,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/bon-jovi-como-yo-nadie-te-ha-amado.mp3",
           "chords_url": "/chords/bon-jovi-como-yo-nadie-te-ha-amado.json",
+          "docs_url": "/chords/bon-jovi-como-yo-nadie-te-ha-amado.doc",
+          "images_url": "/chords/bon-jovi-como-yo-nadie-te-ha-amado.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "B", "C#m", "A"],
@@ -396,6 +434,8 @@
           "duration": "5:46",
           "mp3_url": "/audio/bon-jovi-i-will-be-there-for-you.mp3",
           "chords_url": "/chords/bon-jovi-i-will-be-there-for-you.json",
+          "docs_url": "/chords/bon-jovi-i-will-be-there-for-you.doc",
+          "images_url": "/chords/bon-jovi-i-will-be-there-for-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -416,6 +456,8 @@
           "duration": "5:35",
           "mp3_url": "/audio/bon-jovi-lie-to-me.mp3",
           "chords_url": "/chords/bon-jovi-lie-to-me.json",
+          "docs_url": "/chords/bon-jovi-lie-to-me.doc",
+          "images_url": "/chords/bon-jovi-lie-to-me.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -436,6 +478,8 @@
           "duration": "4:31",
           "mp3_url": "/audio/bon-jovi-make-a-memory.mp3",
           "chords_url": "/chords/bon-jovi-make-a-memory.json",
+          "docs_url": "/chords/bon-jovi-make-a-memory.doc",
+          "images_url": "/chords/bon-jovi-make-a-memory.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -456,6 +500,8 @@
           "duration": "4:50",
           "mp3_url": "/audio/bon-jovi-never-say-goodbye.mp3",
           "chords_url": "/chords/bon-jovi-never-say-goodbye.json",
+          "docs_url": "/chords/bon-jovi-never-say-goodbye.doc",
+          "images_url": "/chords/bon-jovi-never-say-goodbye-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -476,6 +522,8 @@
           "duration": "5:08",
           "mp3_url": "/audio/bon-jovi-thank-you-for-loving-me.mp3",
           "chords_url": "/chords/bon-jovi-thank-you-for-loving-me.json",
+          "docs_url": "/chords/bon-jovi-thank-you-for-loving-me.doc",
+          "images_url": "/chords/bon-jovi-thank-you-for-loving-me-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -496,6 +544,8 @@
           "duration": "5:06",
           "mp3_url": "/audio/bon-jovi-this-aint-a-love-song.mp3",
           "chords_url": "/chords/bon-jovi-this-aint-a-love-song.json",
+          "docs_url": "/chords/bon-jovi-this-aint-a-love-song.doc",
+          "images_url": "/chords/bon-jovi-this-aint-a-love-song-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -516,6 +566,8 @@
           "duration": "3:15",
           "mp3_url": "/audio/bruce-springsteen-streets-of-philadelphia.mp3",
           "chords_url": "/chords/bruce-springsteen-streets-of-philadelphia.json",
+          "docs_url": "/chords/bruce-springsteen-streets-of-philadelphia-2.doc",
+          "images_url": "/chords/bruce-springsteen-streets-of-philadelphia.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -536,6 +588,8 @@
           "duration": "4:44",
           "mp3_url": "/audio/bryan-adams-all-for-love.mp3",
           "chords_url": "/chords/bryan-adams-all-for-love.json",
+          "docs_url": "/chords/bryan-adams-all-for-love-2.doc",
+          "images_url": "/chords/bryan-adams-all-for-love-3.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -556,6 +610,8 @@
           "duration": "6:11",
           "mp3_url": "/audio/bryan-adams-do-i-have-to-say-the-words.mp3",
           "chords_url": "/chords/bryan-adams-do-i-have-to-say-the-words.json",
+          "docs_url": "/chords/bryan-adams-do-i-have-to-say-the-words-2.doc",
+          "images_url": "/chords/bryan-adams-do-i-have-to-say-the-words-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -576,6 +632,8 @@
           "duration": "6:34",
           "mp3_url": "/audio/bryan-adams-everything-i-do.mp3",
           "chords_url": "/chords/bryan-adams-everything-i-do.json",
+          "docs_url": "/chords/bryan-adams-everything-i-do.doc",
+          "images_url": "/chords/bryan-adams-everything-i-do.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -596,6 +654,8 @@
           "duration": "6:51",
           "mp3_url": "/audio/bryan-adams-have-you-ever-really-loved-a-woman.mp3",
           "chords_url": "/chords/bryan-adams-have-you-ever-really-loved-a-woman.json",
+          "docs_url": "/chords/bryan-adams-have-you-ever-really-loved-a-woman.doc",
+          "images_url": "/chords/bryan-adams-have-you-ever-really-loved-a-woman.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "C", "Bb", "F"],
@@ -616,6 +676,8 @@
           "duration": "4:03",
           "mp3_url": "/audio/bryan-adams-heaven.mp3",
           "chords_url": "/chords/bryan-adams-heaven.json",
+          "docs_url": "/chords/bryan-adams-heaven.doc",
+          "images_url": "/chords/bryan-adams-heaven-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -636,6 +698,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/bryan-adams-please-forgive-me.mp3",
           "chords_url": "/chords/bryan-adams-please-forgive-me.json",
+          "docs_url": "/chords/bryan-adams-please-forgive-me.doc",
+          "images_url": "/chords/bryan-adams-please-forgive-me-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -656,6 +720,8 @@
           "duration": "4:54",
           "mp3_url": "/audio/coldplay-fix-you.mp3",
           "chords_url": "/chords/coldplay-fix-you.json",
+          "docs_url": "/chords/coldplay-fix-you.doc",
+          "images_url": "/chords/coldplay-fix-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -676,6 +742,8 @@
           "duration": "5:09",
           "mp3_url": "/audio/coldplay-the-scientist.mp3",
           "chords_url": "/chords/coldplay-the-scientist.json",
+          "docs_url": "/chords/coldplay-the-scientist-en-c-sharp-m.doc",
+          "images_url": "/chords/coldplay-the-scientist-en-c-sharp-m.jpg",
           "details": {
             "letra": "",
             "acordes": ["F", "C", "G", "Am"],
@@ -696,6 +764,8 @@
           "duration": "5:47",
           "mp3_url": "/audio/def-leppard-love-bites.mp3",
           "chords_url": "/chords/def-leppard-love-bites.json",
+          "docs_url": "/chords/def-leppard-love-bites.doc",
+          "images_url": "/chords/def-leppard-love-bites.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -716,6 +786,8 @@
           "duration": "4:55",
           "mp3_url": "/audio/elton-john-believe.mp3",
           "chords_url": "/chords/elton-john-believe.json",
+          "docs_url": "/chords/elton-john-believe-2.doc",
+          "images_url": "/chords/elton-john-believe.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -736,6 +808,8 @@
           "duration": "4:01",
           "mp3_url": "/audio/elton-john-can-you-feel-the-love-tonight.mp3",
           "chords_url": "/chords/elton-john-can-you-feel-the-love-tonight.json",
+          "docs_url": "/chords/elton-john-can-you-feel-the-love-tonight-2.doc",
+          "images_url": "/chords/elton-john-can-you-feel-the-love-tonight.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -756,6 +830,8 @@
           "duration": "3:50",
           "mp3_url": "/audio/elton-john-candle-in-the-wind.mp3",
           "chords_url": "/chords/elton-john-candle-in-the-wind.json",
+          "docs_url": "/chords/elton-john-candle-in-the-wind-2.doc",
+          "images_url": "/chords/elton-john-candle-in-the-wind-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -776,6 +852,8 @@
           "duration": "4:51",
           "mp3_url": "/audio/elton-john-circle-of-life.mp3",
           "chords_url": "/chords/elton-john-circle-of-life.json",
+          "docs_url": "/chords/elton-john-circle-of-life-2.doc",
+          "images_url": "/chords/elton-john-circle-of-life.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -796,6 +874,8 @@
           "duration": "5:35",
           "mp3_url": "/audio/elton-john-dont-let-the-sun-go-down-on-me.mp3",
           "chords_url": "/chords/elton-john-dont-let-the-sun-go-down-on-me.json",
+          "docs_url": "/chords/elton-john-dont-let-the-sun-go-down-on-me.doc",
+          "images_url": "/chords/elton-john-dont-let-the-sun-go-down-on-me-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -816,6 +896,8 @@
           "duration": "4:00",
           "mp3_url": "/audio/elton-john-sorry-seems-to-be-the-hardest-word.mp3",
           "chords_url": "/chords/elton-john-sorry-seems-to-be-the-hardest-word.json",
+          "docs_url": "/chords/elton-john-sorry-seems-to-be-the-hardest-word-2.doc",
+          "images_url": "/chords/elton-john-sorry-seems-to-be-the-hardest-word.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -836,6 +918,8 @@
           "duration": "4:02",
           "mp3_url": "/audio/elton-john-your-song.mp3",
           "chords_url": "/chords/elton-john-your-song.json",
+          "docs_url": "/chords/elton-john-your-song.doc",
+          "images_url": "/chords/elton-john-your-song-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -856,6 +940,8 @@
           "duration": "3:02",
           "mp3_url": "/audio/elvis-presley-cant-help-falling-in-love.mp3",
           "chords_url": "/chords/elvis-presley-cant-help-falling-in-love.json",
+          "docs_url": "/chords/elvis-presley-cant-help-falling-in-love-2.doc",
+          "images_url": "/chords/elvis-presley-cant-help-falling-in-love.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Em", "F", "G"],
@@ -876,6 +962,8 @@
           "duration": "3:15",
           "mp3_url": "/audio/elvis-presley-its-now-or-never.mp3",
           "chords_url": "/chords/elvis-presley-its-now-or-never.json",
+          "docs_url": "/chords/elvis-presley-its-now-or-never-2.doc",
+          "images_url": "/chords/elvis-presley-its-now-or-never.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -896,6 +984,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/elvis-presley-my-way.mp3",
           "chords_url": "/chords/elvis-presley-my-way.json",
+          "docs_url": "/chords/elvis-presley-my-way.doc",
+          "images_url": "/chords/elvis-presley-my-way.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "Dm", "G"],
@@ -916,6 +1006,8 @@
           "duration": "4:32",
           "mp3_url": "/audio/elvis-presley-unchained-melody.mp3",
           "chords_url": "/chords/elvis-presley-unchained-melody.json",
+          "docs_url": "/chords/elvis-presley-unchained-melody-2.doc",
+          "images_url": "/chords/elvis-presley-unchained-melody-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Em", "F", "G"],
@@ -936,6 +1028,8 @@
           "duration": "4:33",
           "mp3_url": "/audio/eric-clapton-tears-in-heaven.mp3",
           "chords_url": "/chords/eric-clapton-tears-in-heaven.json",
+          "docs_url": "/chords/eric-clapton-tears-in-heaven.doc",
+          "images_url": "/chords/eric-clapton-tears-in-heaven.jpg",
           "details": {
             "letra": "",
             "acordes": ["A", "E", "F#m", "D"],
@@ -956,6 +1050,8 @@
           "duration": "3:45",
           "mp3_url": "/audio/eric-clapton-wonderful-tonight.mp3",
           "chords_url": "/chords/eric-clapton-wonderful-tonight.json",
+          "docs_url": "/chords/eric-clapton-wonderful-tonight.doc",
+          "images_url": "/chords/eric-clapton-wonderful-tonight-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -976,6 +1072,8 @@
           "duration": "3:55",
           "mp3_url": "/audio/extreme-more-than-words.mp3",
           "chords_url": "/chords/extreme-more-than-words.json",
+          "docs_url": "/chords/extreme-more-than-words.doc",
+          "images_url": "/chords/extreme-more-than-words-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -996,6 +1094,8 @@
           "duration": "3:58",
           "mp3_url": "/audio/freddie-mercury-in-my-defence.mp3",
           "chords_url": "/chords/freddie-mercury-in-my-defence.json",
+          "docs_url": "/chords/freddie-mercury-in-my-defence.doc",
+          "images_url": "/chords/freddie-mercury-in-my-defence-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -1016,6 +1116,8 @@
           "duration": "3:28",
           "mp3_url": "/audio/freddie-mercury-the-great-pretender.mp3",
           "chords_url": "/chords/freddie-mercury-the-great-pretender.json",
+          "docs_url": "/chords/freddie-mercury-the-great-pretender.doc",
+          "images_url": "/chords/freddie-mercury-the-great-pretender-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["F", "Bb", "C", "Dm"],
@@ -1036,6 +1138,8 @@
           "duration": "6:10",
           "mp3_url": "/audio/gary-moore-still-got-the-blues.mp3",
           "chords_url": "/chords/gary-moore-still-got-the-blues.json",
+          "docs_url": "/chords/gary-moore-still-got-the-blues-en-dm-2.doc",
+          "images_url": "/chords/gary-moore-still-got-the-blues-en-dm-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -1056,6 +1160,8 @@
           "duration": "4:45",
           "mp3_url": "/audio/guns-n-roses-dont-cry.mp3",
           "chords_url": "/chords/guns-n-roses-dont-cry.json",
+          "docs_url": "/chords/guns-n-roses-dont-cry.doc",
+          "images_url": "/chords/guns-n-roses-dont-cry.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -1076,6 +1182,8 @@
           "duration": "8:57",
           "mp3_url": "/audio/guns-n-roses-november-rain.mp3",
           "chords_url": "/chords/guns-n-roses-november-rain.json",
+          "docs_url": "/chords/guns-n-roses-november-rain-2.doc",
+          "images_url": "/chords/guns-n-roses-november-rain-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["E", "B", "C#m", "A"],
@@ -1096,6 +1204,8 @@
           "duration": "5:56",
           "mp3_url": "/audio/guns-n-roses-patience.mp3",
           "chords_url": "/chords/guns-n-roses-patience.json",
+          "docs_url": "/chords/guns-n-roses-patience.doc",
+          "images_url": "/chords/guns-n-roses-patience.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -1116,6 +1226,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/guns-n-roses-since-i-dont-have-you.mp3",
           "chords_url": "/chords/guns-n-roses-since-i-dont-have-you.json",
+          "docs_url": "/chords/guns-n-roses-since-i-dont-have-you-2.doc",
+          "images_url": "/chords/guns-n-roses-since-i-dont-have-you-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -1136,6 +1248,8 @@
           "duration": "3:05",
           "mp3_url": "/audio/inxs-never-tear-us-apart.mp3",
           "chords_url": "/chords/inxs-never-tear-us-apart.json",
+          "docs_url": "/chords/inxs-never-tear-us-apart.doc",
+          "images_url": "/chords/inxs-never-tear-us-apart.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -1156,6 +1270,8 @@
           "duration": "3:50",
           "mp3_url": "/audio/jet-look-what-youve-done.mp3",
           "chords_url": "/chords/jet-look-what-youve-done.json",
+          "docs_url": "/chords/jet-look-what-youve-done.doc",
+          "images_url": "/chords/jet-look-what-youve-done.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -1176,6 +1292,8 @@
           "duration": "3:04",
           "mp3_url": "/audio/john-lennon-imagine.mp3",
           "chords_url": "/chords/john-lennon-imagine.json",
+          "docs_url": "/chords/john-lennon-imagine.doc",
+          "images_url": "/chords/john-lennon-imagine.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Cmaj7", "F", "G"],
@@ -1196,6 +1314,8 @@
           "duration": "3:51",
           "mp3_url": "/audio/lenny-kravitz-again.mp3",
           "chords_url": "/chords/lenny-kravitz-again.json",
+          "docs_url": "/chords/lenny-kravitz-again.doc",
+          "images_url": "/chords/lenny-kravitz-again-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -1216,6 +1336,8 @@
           "duration": "5:13",
           "mp3_url": "/audio/lenny-kravitz-calling-all-angels.mp3",
           "chords_url": "/chords/lenny-kravitz-calling-all-angels.json",
+          "docs_url": "/chords/lenny-kravitz-calling-all-angels.doc",
+          "images_url": "/chords/lenny-kravitz-calling-all-angels-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -1236,6 +1358,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/lenny-kravitz-cant-get-you-off-my-mind.mp3",
           "chords_url": "/chords/lenny-kravitz-cant-get-you-off-my-mind.json",
+          "docs_url": "/chords/lenny-kravitz-cant-get-you-off-my-mind-falta.doc",
+          "images_url": "/chords/lenny-kravitz-cant-get-you-off-my-mind-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
@@ -1256,6 +1380,8 @@
           "duration": "4:42",
           "mp3_url": "/audio/mariah-carey-one-sweet-day.mp3",
           "chords_url": "/chords/mariah-carey-one-sweet-day.json",
+          "docs_url": "/chords/mariah-carey-one-sweet-day.doc",
+          "images_url": "/chords/mariah-carey-one-sweet-day-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1276,6 +1402,8 @@
           "duration": "6:25",
           "mp3_url": "/audio/michael-jackson-heal-the-world.mp3",
           "chords_url": "/chords/michael-jackson-heal-the-world.json",
+          "docs_url": "/chords/michael-jackson-heal-the-world.doc",
+          "images_url": "/chords/michael-jackson-heal-the-world-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "F", "G", "Am"],
@@ -1296,6 +1424,8 @@
           "duration": "7:10",
           "mp3_url": "/audio/michael-jackson-we-are-the-world.mp3",
           "chords_url": "/chords/michael-jackson-we-are-the-world.json",
+          "docs_url": "/chords/michael-jackson-we-are-the-world.doc",
+          "images_url": "/chords/michael-jackson-we-are-the-world.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1316,6 +1446,8 @@
           "duration": "5:31",
           "mp3_url": "/audio/oasis-let-there-be-love.mp3",
           "chords_url": "/chords/oasis-let-there-be-love.json",
+          "docs_url": "/chords/oasis-let-there-be-love.doc",
+          "images_url": "/chords/oasis-let-there-be-love-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1336,6 +1468,8 @@
           "duration": "5:03",
           "mp3_url": "/audio/oasis-stop-crying-your-heart-out.mp3",
           "chords_url": "/chords/oasis-stop-crying-your-heart-out.json",
+          "docs_url": "/chords/oasis-stop-crying-your-heart-out.doc",
+          "images_url": "/chords/oasis-stop-crying-your-heart-out-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1356,6 +1490,8 @@
           "duration": "4:40",
           "mp3_url": "/audio/paul-mccartney-no-more-lonely-nights.mp3",
           "chords_url": "/chords/paul-mccartney-no-more-lonely-nights.json",
+          "docs_url": "/chords/paul-mccartney-no-more-lonely-nights.doc",
+          "images_url": "/chords/paul-mccartney-no-more-lonely-nights-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1376,6 +1512,8 @@
           "duration": "4:22",
           "mp3_url": "/audio/paul-young-every-time-you-go-away.mp3",
           "chords_url": "/chords/paul-young-every-time-you-go-away.json",
+          "docs_url": "/chords/paul-young-every-time-you-go-away.doc",
+          "images_url": "/chords/paul-young-every-time-you-go-away-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1396,6 +1534,8 @@
           "duration": "5:31",
           "mp3_url": "/audio/phil-collins-in-the-air-tonight.mp3",
           "chords_url": "/chords/phil-collins-in-the-air-tonight.json",
+          "docs_url": "/chords/phil-collins-in-the-air-tonight.doc",
+          "images_url": "/chords/phil-collins-in-the-air-tonight.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Bb", "F", "C"],
@@ -1416,6 +1556,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/phil-collins-one-more-night.mp3",
           "chords_url": "/chords/phil-collins-one-more-night.json",
+          "docs_url": "/chords/phil-collins-one-more-night.doc",
+          "images_url": "/chords/phil-collins-one-more-night.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1436,6 +1578,8 @@
           "duration": "6:53",
           "mp3_url": "/audio/pink-floyd-comfortably-numb.mp3",
           "chords_url": "/chords/pink-floyd-comfortably-numb.json",
+          "docs_url": "/chords/pink-floyd-comfortably-numb.doc",
+          "images_url": "/chords/pink-floyd-comfortably-numb.jpg",
           "details": {
             "letra": "",
             "acordes": ["Bm", "A", "G", "D"],
@@ -1456,6 +1600,8 @@
           "duration": "5:35",
           "mp3_url": "/audio/pink-floyd-the-wall.mp3",
           "chords_url": "/chords/pink-floyd-the-wall.json",
+          "docs_url": "/chords/pink-floyd-the-wall.doc",
+          "images_url": "/chords/pink-floyd-the-wall.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Bb", "F", "C"],
@@ -1476,6 +1622,8 @@
           "duration": "5:55",
           "mp3_url": "/audio/queen-bohemian-rhapsody.mp3",
           "chords_url": "/chords/queen-bohemian-rhapsody.json",
+          "docs_url": "/chords/queen-bohemian-rapsody-falta.doc",
+          "images_url": "/chords/queen-bohemian-rapsody-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["Bb", "C", "F", "Gm"],
@@ -1496,6 +1644,8 @@
           "duration": "2:13",
           "mp3_url": "/audio/queen-is-this-the-world-we-created.mp3",
           "chords_url": "/chords/queen-is-this-the-world-we-created.json",
+          "docs_url": "/chords/queen-is-this-the-world-we-created-falta.doc",
+          "images_url": "/chords/queen-is-this-the-world-we-created-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1516,6 +1666,8 @@
           "duration": "3:39",
           "mp3_url": "/audio/queen-love-of-my-life.mp3",
           "chords_url": "/chords/queen-love-of-my-life.json",
+          "docs_url": "/chords/queen-love-of-my-life-falta.doc",
+          "images_url": "/chords/queen-love-of-my-life-4.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1536,6 +1688,8 @@
           "duration": "4:14",
           "mp3_url": "/audio/queen-no-one-but-you.mp3",
           "chords_url": "/chords/queen-no-one-but-you.json",
+          "docs_url": "/chords/queen-no-one-but-you.doc",
+          "images_url": "/chords/queen-no-one-but-you-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1556,6 +1710,8 @@
           "duration": "3:48",
           "mp3_url": "/audio/queen-save-me.mp3",
           "chords_url": "/chords/queen-save-me.json",
+          "docs_url": "/chords/queen-save-me-falta.doc",
+          "images_url": "/chords/queen-save-me-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1576,6 +1732,8 @@
           "duration": "4:02",
           "mp3_url": "/audio/queen-say-its-not-true.mp3",
           "chords_url": "/chords/queen-say-its-not-true.json",
+          "docs_url": "/chords/queen-say-its-not-true.doc",
+          "images_url": "/chords/queen-say-its-not-true-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1596,6 +1754,8 @@
           "duration": "4:32",
           "mp3_url": "/audio/queen-the-show-must-go-on.mp3",
           "chords_url": "/chords/queen-the-show-must-go-on.json",
+          "docs_url": "/chords/queen-the-show-must-go-on.doc",
+          "images_url": "/chords/queen-the-show-must-go-on-2.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1616,6 +1776,8 @@
           "duration": "4:20",
           "mp3_url": "/audio/queen-too-much-love-will-kill-you.mp3",
           "chords_url": "/chords/queen-too-much-love-will-kill-you.json",
+          "docs_url": "/chords/queen-too-much-love-will-kill-you.doc",
+          "images_url": "/chords/queen-too-much-love-will-kill-you.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1636,6 +1798,8 @@
           "duration": "5:15",
           "mp3_url": "/audio/queen-who-wants-to-live-forever.mp3",
           "chords_url": "/chords/queen-who-wants-to-live-forever.json",
+          "docs_url": "/chords/queen-who-wants-to-live-forever.doc",
+          "images_url": "/chords/queen-who-wants-to-live-forever.jpg",
           "details": {
             "letra": "",
             "acordes": ["Dm", "Bb", "F", "C"],
@@ -1656,6 +1820,8 @@
           "duration": "5:20",
           "mp3_url": "/audio/rem-everybody-hurts.mp3",
           "chords_url": "/chords/rem-everybody-hurts.json",
+          "docs_url": "/chords/rem-everybody-hurts.doc",
+          "images_url": "/chords/rem-everybody-hurts.jpg",
           "details": {
             "letra": "",
             "acordes": ["Em", "C", "G", "D"],
@@ -1676,6 +1842,8 @@
           "duration": "4:24",
           "mp3_url": "/audio/richard-marx-right-here-waiting.mp3",
           "chords_url": "/chords/richard-marx-right-here-waiting.json",
+          "docs_url": "/chords/richard-marx-right-here-waiting.doc",
+          "images_url": "/chords/richard-marx-right-here-waiting.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1696,6 +1864,8 @@
           "duration": "4:38",
           "mp3_url": "/audio/robbie-williams-advertising-space.mp3",
           "chords_url": "/chords/robbie-williams-advertising-space.json",
+          "docs_url": "/chords/robbie-williams-advertising-space.doc",
+          "images_url": "/chords/robbie-williams-advertising-space-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1716,6 +1886,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/robbie-williams-angels.mp3",
           "chords_url": "/chords/robbie-williams-angels.json",
+          "docs_url": "/chords/robbie-williams-angels.doc",
+          "images_url": "/chords/robbie-williams-angels.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1736,6 +1908,8 @@
           "duration": "3:23",
           "mp3_url": "/audio/robbie-williams-better-man.mp3",
           "chords_url": "/chords/robbie-williams-better-man.json",
+          "docs_url": "/chords/robbie-williams-better-man.doc",
+          "images_url": "/chords/robbie-williams-better-man-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1756,6 +1930,8 @@
           "duration": "4:33",
           "mp3_url": "/audio/robbie-williams-make-me-pure.mp3",
           "chords_url": "/chords/robbie-williams-make-me-pure.json",
+          "docs_url": "/chords/robbie-williams-make-me-pure.doc",
+          "images_url": "/chords/robbie-williams-make-me-pure-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "F", "C", "G"],
@@ -1776,6 +1952,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/robbie-williams-shes-the-one.mp3",
           "chords_url": "/chords/robbie-williams-shes-the-one.json",
+          "docs_url": "/chords/robbie-williams-shes-the-one.doc",
+          "images_url": "/chords/robbie-williams-shes-the-one-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1796,6 +1974,8 @@
           "duration": "4:01",
           "mp3_url": "/audio/rod-stewart-have-i-told-you-lately.mp3",
           "chords_url": "/chords/rod-stewart-have-i-told-you-lately.json",
+          "docs_url": "/chords/rod-stewart-have-i-told-you-lately.doc",
+          "images_url": "/chords/rod-stewart-have-i-told-you-lately-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1816,6 +1996,8 @@
           "duration": "4:48",
           "mp3_url": "/audio/rod-stewart-i-dont-want-to-talk-about-it.mp3",
           "chords_url": "/chords/rod-stewart-i-dont-want-to-talk-about-it.json",
+          "docs_url": "/chords/rod-stewart-i-dont-want-to-talk-about-it.doc",
+          "images_url": "/chords/rod-stewart-i-dont-want-to-talk-about-it.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1836,6 +2018,8 @@
           "duration": "4:38",
           "mp3_url": "/audio/rod-stewart-sailing.mp3",
           "chords_url": "/chords/rod-stewart-sailing.json",
+          "docs_url": "/chords/rod-stewart-sailing.doc",
+          "images_url": "/chords/rod-stewart-sailing.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1856,6 +2040,8 @@
           "duration": "5:42",
           "mp3_url": "/audio/rolling-stones-wild-horses.mp3",
           "chords_url": "/chords/rolling-stones-wild-horses.json",
+          "docs_url": "/chords/rolling-stones-wild-horses.doc",
+          "images_url": "/chords/rolling-stones-wild-horses-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -1876,6 +2062,8 @@
           "duration": "4:28",
           "mp3_url": "/audio/roxette-crash-boom-bang.mp3",
           "chords_url": "/chords/roxette-crash-boom-bang.json",
+          "docs_url": "/chords/roxette-crash-boom-bang.doc",
+          "images_url": "/chords/roxette-crash-boom-bang-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1896,6 +2084,8 @@
           "duration": "4:18",
           "mp3_url": "/audio/roxette-it-must-have-been-love.mp3",
           "chords_url": "/chords/roxette-it-must-have-been-love.json",
+          "docs_url": "/chords/roxette-it-must-have-been-love.doc",
+          "images_url": "/chords/roxette-it-must-have-been-love-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1916,6 +2106,8 @@
           "duration": "5:28",
           "mp3_url": "/audio/roxette-listen-to-your-heart.mp3",
           "chords_url": "/chords/roxette-listen-to-your-heart.json",
+          "docs_url": "/chords/roxette-listen-to-your-heart-en-f-sharp-m.doc",
+          "images_url": "/chords/roxette-listen-to-your-heart-en-f-sharp-m.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1936,6 +2128,8 @@
           "duration": "4:35",
           "mp3_url": "/audio/roxette-spending-my-time.mp3",
           "chords_url": "/chords/roxette-spending-my-time.json",
+          "docs_url": "/chords/roxette-spending-my-time.doc",
+          "images_url": "/chords/roxette-spending-my-time.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "Em", "C"],
@@ -1956,6 +2150,8 @@
           "duration": "4:43",
           "mp3_url": "/audio/roxette-wish-i-could-fly.mp3",
           "chords_url": "/chords/roxette-wish-i-could-fly.json",
+          "docs_url": "/chords/roxette-wish-i-could-fly.doc",
+          "images_url": "/chords/roxette-wish-i-could-fly-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -1976,6 +2172,8 @@
           "duration": "6:27",
           "mp3_url": "/audio/scorpions-still-loving-you.mp3",
           "chords_url": "/chords/scorpions-still-loving-you.json",
+          "docs_url": "/chords/scorpions-still-loving-you.doc",
+          "images_url": "/chords/scorpions-still-loving-you-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -1996,6 +2194,8 @@
           "duration": "5:13",
           "mp3_url": "/audio/scorpions-wind-of-change.mp3",
           "chords_url": "/chords/scorpions-wind-of-change.json",
+          "docs_url": "/chords/scorpions-wind-of-change.doc",
+          "images_url": "/chords/scorpions-wind-of-change.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -2016,6 +2216,8 @@
           "duration": "3:15",
           "mp3_url": "/audio/shania-twain-still-the-one.mp3",
           "chords_url": "/chords/shania-twain-still-the-one.json",
+          "docs_url": "/chords/shania-twain-still-the-one.doc",
+          "images_url": "/chords/shania-twain-still-the-one.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
@@ -2036,6 +2238,8 @@
           "duration": "2:36",
           "mp3_url": "/audio/the-platters-only-you.mp3",
           "chords_url": "/chords/the-platters-only-you.json",
+          "docs_url": "/chords/elvis-presley-only-you.doc",
+          "images_url": "/chords/elvis-presley-only-you-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "Am", "F", "G"],
@@ -2056,6 +2260,8 @@
           "duration": "4:38",
           "mp3_url": "/audio/u2-i-still-havent-found-what-im-looking-for.mp3",
           "chords_url": "/chords/u2-i-still-havent-found-what-im-looking-for.json",
+          "docs_url": "/chords/u2-i-still-havent-found-what-im-looking-for.doc",
+          "images_url": "/chords/u2-i-still-havent-found-what-im-looking-for-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["D", "A", "Bm", "G"],
@@ -2076,6 +2282,8 @@
           "duration": "4:36",
           "mp3_url": "/audio/u2-one.mp3",
           "chords_url": "/chords/u2-one.json",
+          "docs_url": "/chords/u2-one.doc",
+          "images_url": "/chords/u2-one.jpg",
           "details": {
             "letra": "",
             "acordes": ["Am", "G", "F", "C"],
@@ -2096,6 +2304,8 @@
           "duration": "4:34",
           "mp3_url": "/audio/u2-original-of-the-species.mp3",
           "chords_url": "/chords/u2-original-of-the-species.json",
+          "docs_url": "/chords/u2-original-of-the-species.doc",
+          "images_url": "/chords/u2-original-of-the-species-falta.jpg",
           "details": {
             "letra": "",
             "acordes": ["C", "G", "Am", "F"],
@@ -2116,6 +2326,8 @@
           "duration": "4:44",
           "mp3_url": "/audio/whitesnake-is-this-love.mp3",
           "chords_url": "/chords/whitesnake-is-this-love.json",
+          "docs_url": "/chords/whitesnake-is-this-love.doc",
+          "images_url": "/chords/whitesnake-is-this-love.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "D", "C", "Em"],
