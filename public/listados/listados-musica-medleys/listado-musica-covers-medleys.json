@@ -357,6 +357,534 @@
             "compas": "4/4",
             "dificultad": "Intermedia"
           }
+        },
+        {
+          "id": "cover-aint-no-sunshine-away",
+          "track_number": 13,
+          "title": "Ain't No Sunshine / Away",
+          "artist": "Almango Pop",
+          "duration": "07:15",
+          "mp3_url": "/audio/03-mp3-medleys/aint-no-sunshine-paul-young-away.mp3",
+          "chords_url": [
+            "/chords/bill-withers-aint-no-sunshine.json",
+            "/chords/paul-young-every-time-you-go-away.json"
+          ],
+          "docs_url": [
+            "/chords/bill-withers-aint-no-sunshine.doc",
+            "/chords/paul-young-every-time-you-go-away.doc"
+          ],
+          "images_url": [
+            "/chords/bill-withers-aint-no-sunshine.jpg",
+            "/chords/paul-young-every-time-you-go-away.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Bill Withers - Ain't No Sunshine\n2. Paul Young - Every Time You Go Away",
+            "acordes": ["Am", "G", "F", "E"],
+            "bpm": 100,
+            "tonalidad": "Am",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-wicked-game-the-best-under-pressure",
+          "track_number": 14,
+          "title": "Wicked Game / The Best / Under Pressure",
+          "artist": "Almango Pop",
+          "duration": "09:45",
+          "mp3_url": "/audio/03-mp3-medleys/chris-isaak-wicked-game-tina-turner-the-best-queen-under-pressure.mp3",
+          "chords_url": [
+            "/chords/chris-isaak-wicked-game.json",
+            "/chords/tina-turner-simply-the-best.json",
+            "/chords/queen-under-pressure.json"
+          ],
+          "docs_url": [
+            "/chords/chris-isaak-wicked-game.doc",
+            "/chords/tina-turner-simply-the-best.doc",
+            "/chords/queen-under-pressure.doc"
+          ],
+          "images_url": [
+            "/chords/chris-isaak-wicked-game.jpg",
+            "/chords/tina-turner-simply-the-best.jpg",
+            "/chords/queen-under-pressure.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Chris Isaak - Wicked Game\n2. Tina Turner - Simply the Best\n3. Queen & David Bowie - Under Pressure",
+            "acordes": ["Em", "C", "G", "D"],
+            "bpm": 110,
+            "tonalidad": "Em",
+            "compas": "4/4",
+            "dificultad": "Avanzada"
+          }
+        },
+        {
+          "id": "cover-fix-you-beautiful-yellow",
+          "track_number": 15,
+          "title": "Fix You / You're Beautiful / Yellow",
+          "artist": "Almango Pop",
+          "duration": "10:20",
+          "mp3_url": "/audio/03-mp3-medleys/coldplay-fix-you-james-blunt-you-are-beautiful-yellow.mp3",
+          "chords_url": [
+            "/chords/coldplay-fix-you.json",
+            "/chords/james-blunt-you-are-beautiful.json",
+            "/chords/coldplay-yellow.json"
+          ],
+          "docs_url": [
+            "/chords/coldplay-fix-you.doc",
+            "/chords/james-blunt-you-are-beautiful.doc",
+            "/chords/coldplay-yellow.doc"
+          ],
+          "images_url": [
+            "/chords/coldplay-fix-you.jpg",
+            "/chords/james-blunt-you-are-beautiful.jpg",
+            "/chords/coldplay-yellow.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Coldplay - Fix You\n2. James Blunt - You're Beautiful\n3. Coldplay - Yellow",
+            "acordes": ["C", "G", "Am", "F"],
+            "bpm": 115,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-enjoy-silence-funkytown-venus",
+          "track_number": 16,
+          "title": "Enjoy the Silence / Funkytown / Venus",
+          "artist": "Almango Pop",
+          "duration": "08:30",
+          "mp3_url": "/audio/03-mp3-medleys/depeche-mode-enjoy-the-silence-funkytown-venus.mp3",
+          "chords_url": [
+            "/chords/depeche-mode-i-just-cant-get-enough.json",
+            "/chords/lipps-inc-funkytown.json",
+            "/chords/bananarama-venus.json"
+          ],
+          "docs_url": [
+            "/chords/depeche-mode-i-just-cant-get-enough.doc",
+            "/chords/lipps-inc-funkytown.doc",
+            "/chords/bananarama-venus.doc"
+          ],
+          "images_url": [
+            "/chords/depeche-mode-i-just-cant-get-enough.jpg",
+            "/chords/lipps-inc-funkytown.jpg",
+            "/chords/bananarama-venus.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Depeche Mode - Enjoy the Silence\n2. Lipps Inc. - Funkytown\n3. Bananarama - Venus",
+            "acordes": ["Dm", "C", "Bb", "F"],
+            "bpm": 128,
+            "tonalidad": "Dm",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-still-got-never-tear-us",
+          "track_number": 17,
+          "title": "Still Got the Blues / Never Tear Us Apart",
+          "artist": "Almango Pop",
+          "duration": "08:10",
+          "mp3_url": "/audio/03-mp3-medleys/gary-moore-still-got-inxs-never-tear-us.mp3",
+          "chords_url": [
+            "/chords/gary-moore-still-got-the-blues.json",
+            "/chords/inxs-never-tear-us-apart.json"
+          ],
+          "docs_url": [
+            "/chords/gary-moore-still-got-the-blues.doc",
+            "/chords/inxs-never-tear-us-apart.doc"
+          ],
+          "images_url": [
+            "/chords/gary-moore-still-got-the-blues.jpg",
+            "/chords/inxs-never-tear-us-apart.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Gary Moore - Still Got the Blues\n2. INXS - Never Tear Us Apart",
+            "acordes": ["Am", "G", "F", "E"],
+            "bpm": 95,
+            "tonalidad": "Am",
+            "compas": "4/4",
+            "dificultad": "Avanzada"
+          }
+        },
+        {
+          "id": "cover-you-can-leave-american-woman",
+          "track_number": 18,
+          "title": "You Can Leave Your Hat On / American Woman",
+          "artist": "Almango Pop",
+          "duration": "07:25",
+          "mp3_url": "/audio/03-mp3-medleys/joe-cocker-you-can-leave-your-hat-on-lenny-kravitz-american-woman.mp3",
+          "chords_url": [
+            "/chords/joe-cocker-you-can-leave-your-hat-on.json",
+            "/chords/lenny-kravitz-american-woman.json"
+          ],
+          "docs_url": [
+            "/chords/joe-cocker-you-can-leave-your-hat-on.doc",
+            "/chords/lenny-kravitz-american-woman.doc"
+          ],
+          "images_url": [
+            "/chords/joe-cocker-you-can-leave-your-hat-on.jpg",
+            "/chords/lenny-kravitz-american-woman.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Joe Cocker - You Can Leave Your Hat On\n2. Lenny Kravitz - American Woman",
+            "acordes": ["E", "A", "D", "G"],
+            "bpm": 120,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-you-get-what-cant-stop-loving",
+          "track_number": 19,
+          "title": "You Get What You Give / Can't Stop Loving You",
+          "artist": "Almango Pop",
+          "duration": "06:50",
+          "mp3_url": "/audio/03-mp3-medleys/new-radicals-you-get-what-you-give-van-halen-cant-stop-lovin-you.mp3",
+          "chords_url": [
+            "/chords/new-radicals-you-get-what-you-give.json",
+            "/chords/van-halen-cant-stop-loving-you.json"
+          ],
+          "docs_url": [
+            "/chords/new-radicals-you-get-what-you-give.doc",
+            "/chords/van-halen-cant-stop-loving-you.doc"
+          ],
+          "images_url": [
+            "/chords/new-radicals-you-get-what-you-give.jpg",
+            "/chords/van-halen-cant-stop-loving-you.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. New Radicals - You Get What You Give\n2. Van Halen - Can't Stop Loving You",
+            "acordes": ["G", "C", "D", "Em"],
+            "bpm": 125,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-another-day-without-you-time",
+          "track_number": 20,
+          "title": "Another Day in Paradise / With or Without You / Time of Your Life",
+          "artist": "Almango Pop",
+          "duration": "11:30",
+          "mp3_url": "/audio/03-mp3-medleys/phill-collins-another-day-u2-with-or-without-you-time-of-your-life.mp3",
+          "chords_url": [
+            "/chords/phil-collins-another-day-in-paradise.json",
+            "/chords/u2-with-or-without-you.json",
+            "/chords/green-day-time-of-your-life.json"
+          ],
+          "docs_url": [
+            "/chords/phil-collins-another-day-in-paradise.doc",
+            "/chords/u2-with-or-without-you.doc",
+            "/chords/green-day-time-of-your-life.doc"
+          ],
+          "images_url": [
+            "/chords/phil-collins-another-day-in-paradise.jpg",
+            "/chords/u2-with-or-without-you.jpg",
+            "/chords/green-day-time-of-your-life.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Phil Collins - Another Day in Paradise\n2. U2 - With or Without You\n3. Green Day - Time of Your Life",
+            "acordes": ["D", "A", "Bm", "G"],
+            "bpm": 118,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-one-more-night-still-the-one",
+          "track_number": 21,
+          "title": "One More Night / Still the One",
+          "artist": "Almango Pop",
+          "duration": "07:40",
+          "mp3_url": "/audio/03-mp3-medleys/phill-one-more-shania-still-the-one.mp3",
+          "chords_url": [
+            "/chords/phil-collins-one-more-night.json",
+            "/chords/shania-twain-still-the-one.json"
+          ],
+          "docs_url": [
+            "/chords/phil-collins-one-more-night.doc",
+            "/chords/shania-twain-still-the-one.doc"
+          ],
+          "images_url": [
+            "/chords/phil-collins-one-more-night.jpg",
+            "/chords/shania-twain-still-the-one.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Phil Collins - One More Night\n2. Shania Twain - Still the One",
+            "acordes": ["C", "F", "G", "Am"],
+            "bpm": 122,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-crazy-little-thing-la-bamba-jailhouse",
+          "track_number": 22,
+          "title": "Crazy Little Thing Called Love / La Bamba / Jailhouse Rock",
+          "artist": "Almango Pop",
+          "duration": "08:15",
+          "mp3_url": "/audio/03-mp3-medleys/queen-crazy-little-thing-called-love-la-bamba-elvis-jailhouse-rock.mp3",
+          "chords_url": [
+            "/chords/queen-crazy-little-thing-called-love.json",
+            "/chords/los-lobos-la-bamba.json",
+            "/chords/elvis-jailhouse-rock.json"
+          ],
+          "docs_url": [
+            "/chords/queen-crazy-little-thing-called-love.doc",
+            "/chords/los-lobos-la-bamba.doc",
+            "/chords/elvis-jailhouse-rock.doc"
+          ],
+          "images_url": [
+            "/chords/queen-crazy-little-thing-called-love.jpg",
+            "/chords/los-lobos-la-bamba.jpg",
+            "/chords/elvis-jailhouse-rock.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Queen - Crazy Little Thing Called Love\n2. Los Lobos - La Bamba\n3. Elvis Presley - Jailhouse Rock",
+            "acordes": ["C", "F", "G", "D"],
+            "bpm": 140,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-under-bridge-to-be-with-you-voice",
+          "track_number": 23,
+          "title": "Under the Bridge / To Be with You / You're the Voice",
+          "artist": "Almango Pop",
+          "duration": "10:10",
+          "mp3_url": "/audio/03-mp3-medleys/red-hot-chili-peppers-under-the-bridge-mr-big-to-be-with-you-john-farnham-you-are-the-voice.mp3",
+          "chords_url": [
+            "/chords/redhotchili-under-the-bridge.json",
+            "/chords/mr-big-to-be-with-you.json",
+            "/chords/john-farnham-you-are-the-voice.json"
+          ],
+          "docs_url": [
+            "/chords/redhotchili-under-the-bridge.doc",
+            "/chords/mr-big-to-be-with-you.doc",
+            "/chords/john-farnham-you-are-the-voice.doc"
+          ],
+          "images_url": [
+            "/chords/redhotchili-under-the-bridge.jpg",
+            "/chords/mr-big-to-be-with-you.jpg",
+            "/chords/john-farnham-you-are-the-voice.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Red Hot Chili Peppers - Under the Bridge\n2. Mr. Big - To Be with You\n3. John Farnham - You're the Voice",
+            "acordes": ["A", "D", "E", "F#m"],
+            "bpm": 115,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Avanzada"
+          }
+        },
+        {
+          "id": "cover-angels-hey-jude",
+          "track_number": 24,
+          "title": "Angels / Hey Jude",
+          "artist": "Almango Pop",
+          "duration": "09:05",
+          "mp3_url": "/audio/03-mp3-medleys/robbie-williams-angels-beatles-hey-jude.mp3",
+          "chords_url": [
+            "/chords/robbie-williams-angels.json",
+            "/chords/beatles-hey-jude.json"
+          ],
+          "docs_url": [
+            "/chords/robbie-williams-angels.doc",
+            "/chords/beatles-hey-jude.doc"
+          ],
+          "images_url": [
+            "/chords/robbie-williams-angels.jpg",
+            "/chords/beatles-hey-jude.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Robbie Williams - Angels\n2. The Beatles - Hey Jude",
+            "acordes": ["C", "G", "Am", "F"],
+            "bpm": 105,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-let-me-entertain-dont-wanna-friday-love",
+          "track_number": 25,
+          "title": "Let Me Entertain You / I Don't Wanna Go On / Friday I'm in Love",
+          "artist": "Almango Pop",
+          "duration": "08:50",
+          "mp3_url": "/audio/03-mp3-medleys/robbie-williams-let-me-entertain-you-elton-john-i-dont-wanna-go-on-the-cure-friday-im-in-love.mp3",
+          "chords_url": [
+            "/chords/robbie-williams-let-me-entertain-you.json",
+            "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.json",
+            "/chords/the-cure-friday-im-in-love.json"
+          ],
+          "docs_url": [
+            "/chords/robbie-williams-let-me-entertain-you.doc",
+            "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.doc",
+            "/chords/the-cure-friday-im-in-love.doc"
+          ],
+          "images_url": [
+            "/chords/robbie-williams-let-me-entertain-you.jpg",
+            "/chords/elton-john-i-dont-wanna-go-on-with-you-like-that.jpg",
+            "/chords/the-cure-friday-im-in-love.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Robbie Williams - Let Me Entertain You\n2. Elton John - I Don't Wanna Go On with You Like That\n3. The Cure - Friday I'm in Love",
+            "acordes": ["G", "D", "C", "Em"],
+            "bpm": 130,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-dont-want-to-talk-cryin",
+          "track_number": 26,
+          "title": "I Don't Want to Talk About It / Cryin'",
+          "artist": "Almango Pop",
+          "duration": "07:35",
+          "mp3_url": "/audio/03-mp3-medleys/rod-stewart-i-dont-want-to-talk-about-it-aerosmith-cryin.mp3",
+          "chords_url": [
+            "/chords/rod-stewart-i-dont-want-to-talk-about-it.json",
+            "/chords/aerosmith-cryin.json"
+          ],
+          "docs_url": [
+            "/chords/rod-stewart-i-dont-want-to-talk-about-it.doc",
+            "/chords/aerosmith-cryin.doc"
+          ],
+          "images_url": [
+            "/chords/rod-stewart-i-dont-want-to-talk-about-it.jpg",
+            "/chords/aerosmith-cryin.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Rod Stewart - I Don't Want to Talk About It\n2. Aerosmith - Cryin'",
+            "acordes": ["G", "C", "D", "Em"],
+            "bpm": 112,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-spending-time-listen-heart-acustico",
+          "track_number": 27,
+          "title": "Spending My Time / Listen to Your Heart (Acústico)",
+          "artist": "Almango Pop",
+          "duration": "07:20",
+          "mp3_url": "/audio/03-mp3-medleys/roxette-spending-my-time-listen-to-your-heart-1-acustico.mp3",
+          "chords_url": [
+            "/chords/roxette-spending-my-time.json",
+            "/chords/roxette-listen-to-your-heart.json"
+          ],
+          "docs_url": [
+            "/chords/roxette-spending-my-time.doc",
+            "/chords/roxette-listen-to-your-heart.doc"
+          ],
+          "images_url": [
+            "/chords/roxette-spending-my-time.jpg",
+            "/chords/roxette-listen-to-your-heart.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Roxette - Spending My Time\n2. Roxette - Listen to Your Heart (versión acústica)",
+            "acordes": ["C", "G", "Am", "F"],
+            "bpm": 100,
+            "tonalidad": "C Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-spending-time-listen-heart-original",
+          "track_number": 28,
+          "title": "Spending My Time / Listen to Your Heart (Original)",
+          "artist": "Almango Pop",
+          "duration": "07:25",
+          "mp3_url": "/audio/03-mp3-medleys/roxette-spending-my-time-listen-to-your-heart-2-original.mp3",
+          "chords_url": [
+            "/chords/roxette-spending-my-time.json",
+            "/chords/roxette-listen-to-your-heart.json"
+          ],
+          "docs_url": [
+            "/chords/roxette-spending-my-time.doc",
+            "/chords/roxette-listen-to-your-heart.doc"
+          ],
+          "images_url": [
+            "/chords/roxette-spending-my-time.jpg",
+            "/chords/roxette-listen-to-your-heart.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Roxette - Spending My Time\n2. Roxette - Listen to Your Heart (versión original)",
+            "acordes": ["D", "A", "Bm", "G"],
+            "bpm": 125,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-everybody-wants-to-rule-come-together",
+          "track_number": 29,
+          "title": "Everybody Wants to Rule the World / Come Together",
+          "artist": "Almango Pop",
+          "duration": "08:15",
+          "mp3_url": "/audio/03-mp3-medleys/tears-for-fears-everybody-wants-to-rule-the-world-beatles-come-together.mp3",
+          "chords_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.json",
+            "/chords/beatles-come-together.json"
+          ],
+          "docs_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.doc",
+            "/chords/beatles-come-together.doc"
+          ],
+          "images_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.jpg",
+            "/chords/beatles-come-together.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Tears for Fears - Everybody Wants to Rule the World\n2. The Beatles - Come Together",
+            "acordes": ["A", "E", "D", "F#m"],
+            "bpm": 118,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
+        },
+        {
+          "id": "cover-everybody-wants-addicted-heroes",
+          "track_number": 30,
+          "title": "Everybody Wants to Rule the World / Addicted to Love / Heroes",
+          "artist": "Almango Pop",
+          "duration": "09:40",
+          "mp3_url": "/audio/03-mp3-medleys/tears-for-fears-everybody-wants-to-rule-the-world-tina-turner-addicted-david-bowie-heroes.mp3",
+          "chords_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.json",
+            "/chords/tina-turner-simply-the-best.json",
+            "/chords/david-bowie-heroes.json"
+          ],
+          "docs_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.doc",
+            "/chords/tina-turner-simply-the-best.doc",
+            "/chords/david-bowie-heroes.doc"
+          ],
+          "images_url": [
+            "/chords/tears-for-fears-everybody-wants-to-rule-the-world.jpg",
+            "/chords/tina-turner-simply-the-best.jpg",
+            "/chords/david-bowie-heroes.jpg"
+          ],
+          "details": {
+            "letra": "Medley que incluye:\n1. Tears for Fears - Everybody Wants to Rule the World\n2. Tina Turner - Addicted to Love\n3. David Bowie - Heroes",
+            "acordes": ["D", "A", "G", "Bm"],
+            "bpm": 120,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia"
+          }
         }
       ]
     }
