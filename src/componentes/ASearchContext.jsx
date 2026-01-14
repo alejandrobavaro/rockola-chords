@@ -188,9 +188,9 @@ export const SearchProvider = ({ children }) => {
       genre: 'Rock'
     },
     { 
-      id: 'homenaje-bersuit-vergarabat', 
-      name: 'bersuit-vergarabat', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bersuit-vergarabat.json',
+      id: 'homenaje-bersuit', 
+      name: 'Bersuit Vergarabat', 
+      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bersuit.json',
       type: 'homenajes',
       genre: 'Rock Argentino'
     },
@@ -286,9 +286,9 @@ export const SearchProvider = ({ children }) => {
       genre: 'Rock Alternativo'
     },
     { 
-      id: 'homenaje-laley-Mana', 
-      name: 'La Ley & Mana', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-laley-Mana.json',
+      id: 'homenaje-laley-mana', 
+      name: 'La Ley & Maná', 
+      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-laley-mana.json',
       type: 'homenajes',
       genre: 'Rock Latino'
     },

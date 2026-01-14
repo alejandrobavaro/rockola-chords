@@ -1,7 +1,4 @@
-import { useState, useEffect, useRef } from "react";
-import html2canvas from "html2canvas";
-import { Document, Packer, Paragraph, TextRun } from "docx";
-import { saveAs } from "file-saver";
+import { useState } from "react";
 import "../assets/scss/_03-Componentes/_FormateoPartituras.scss";
 
 const ES_ACORDE = /^[A-G][#b]?(m|maj7|m7|7|sus|dim|add)?/;
@@ -9,8 +6,7 @@ const ES_SECCION = /^[A-ZÁÉÍÓÚÑ\s-]+:/;
 
 export default function FormateoPartituras() {
   const [raw, setRaw] = useState("");
-  const [modo, setModo] = useState("vertical");
-  const hojaRef = useRef(null);
+  const [modo, setModo] = useState("vertical"); // vertical | horizontal
 
   const parsear = () => {
     const lineas = raw.split("\n");
@@ -25,6 +21,7 @@ export default function FormateoPartituras() {
       const linea = l.trim();
       if (!linea) return;
 
+      // TÍTULO + TONO
       if (!titulo) {
         titulo = linea;
         const match = linea.match(/tono\s*([A-G][#b]?m?)/i);
@@ -32,6 +29,7 @@ export default function FormateoPartituras() {
         return;
       }
 
+      // SECCIÓN
       if (ES_SECCION.test(linea)) {
         bloqueActual = {
           seccion: linea.replace(":", ""),
@@ -41,11 +39,13 @@ export default function FormateoPartituras() {
         return;
       }
 
+      // ACORDES
       if (ES_ACORDE.test(linea)) {
         acordesPendientes = linea.split(/\s+/);
         return;
       }
 
+      // TEXTO
       if (!bloqueActual) {
         bloqueActual = { seccion: null, lineas: [] };
         bloques.push(bloqueActual);
@@ -79,109 +79,11 @@ export default function FormateoPartituras() {
 
   const data = raw ? parsear() : null;
 
-  /* ================= AUTO ESCALADO ================= */
-
-  useEffect(() => {
-    if (!hojaRef.current) return;
-    const hoja = hojaRef.current;
-
-    hoja.style.setProperty("--font-scale", 1);
-    let scale = 1;
-
-    while (hoja.scrollHeight > hoja.offsetHeight && scale > 0.85) {
-      scale -= 0.02;
-      hoja.style.setProperty("--font-scale", scale);
-    }
-  }, [data, modo]);
-
-  /* ================= EXPORTAR JPG ================= */
-
-  const exportarJPG = async () => {
-    if (!hojaRef.current) return;
-
-    const canvas = await html2canvas(hojaRef.current, {
-      scale: 2,
-      backgroundColor: "#ffffff"
-    });
-
-    const link = document.createElement("a");
-    link.download = "chord.jpg";
-    link.href = canvas.toDataURL("image/jpeg", 1);
-    link.click();
-  };
-
-  /* ================= EXPORTAR WORD ================= */
-
-  const exportarWord = async () => {
-    if (!data) return;
-
-    const doc = new Document({
-      sections: [
-        {
-          children: [
-            new Paragraph({
-              children: [
-                new TextRun({
-                  text: data.titulo,
-                  bold: true,
-                  size: 32
-                }),
-                data.tono
-                  ? new TextRun({
-                      text: ` – TONO ${data.tono}`,
-                      bold: true,
-                      size: 26
-                    })
-                  : null
-              ].filter(Boolean)
-            }),
-
-            ...data.columnas.flatMap(col =>
-              col.map(l => {
-                if (l.tipo === "seccion") {
-                  return new Paragraph({
-                    spacing: { before: 300, after: 150 },
-                    children: [
-                      new TextRun({
-                        text: l.texto.toUpperCase(),
-                        bold: true,
-                        underline: {}
-                      })
-                    ]
-                  });
-                }
-
-                return new Paragraph({
-                  children: [
-                    ...(l.acordes || []).map(a =>
-                      new TextRun({
-                        text: `${a} `,
-                        bold: true,
-                        color: "0033FF"
-                      })
-                    ),
-                    new TextRun({
-                      text: l.texto,
-                      break: 1
-                    })
-                  ]
-                });
-              })
-            )
-          ]
-        }
-      ]
-    });
-
-    const blob = await Packer.toBlob(doc);
-    saveAs(blob, "chord.docx");
-  };
-
   return (
     <div className="formateo-layout">
+      {/* INPUT */}
       <div className="formateo-input">
         <h3>Pegar chord</h3>
-
         <textarea
           value={raw}
           onChange={(e) => setRaw(e.target.value)}
@@ -202,21 +104,11 @@ export default function FormateoPartituras() {
             Horizontal
           </button>
         </div>
-
-        <button className="btn-exportar" onClick={exportarJPG}>
-          Exportar JPG
-        </button>
-
-        <button className="btn-exportar" onClick={exportarWord}>
-          Exportar Word
-        </button>
       </div>
 
+      {/* HOJA */}
       {data && (
-        <section
-          className={`partitura-a4 ${modo}`}
-          ref={hojaRef}
-        >
+        <section className={`partitura-a4 ${modo}`}>
           <h1 className="partitura-titulo">
             {data.titulo}
             {data.tono && <span className="tono"> – TONO {data.tono}</span>}
