@@ -105,7 +105,7 @@
           "duration": "1:32",
           "mp3_url": "/audio/beatles-golden-slumbers.mp3",
           "chords_url": "/chords/beatles-golden-slumbers.json",
-          "docs_url": "/chords/beatles-golden-slumbers-2.doc",
+          "docs_url": "/chords/beatles-golden-slumbers.doc",
           "images_url": "/chords/beatles-golden-slumbers.jpg",
           "details": {
             "letra": "",
@@ -120,30 +120,8 @@
           }
         },
         {
-          "id": "homenaje-beatles-06-help",
-          "track_number": 6,
-          "title": "Help!",
-          "artist": "The Beatles",
-          "duration": "2:19",
-          "mp3_url": "/audio/beatles-help.mp3",
-          "chords_url": "/chords/beatles-help.json",
-          "docs_url": "/chords/beatles-help.doc",
-          "images_url": "/chords/beatles-help.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 104,
-            "tonalidad": "G Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Rock",
-            "genre": "Rock",
-            "categoria": "Homenajes The Beatles"
-          }
-        },
-        {
           "id": "homenaje-beatles-07-here-comes-the-sun",
-          "track_number": 7,
+          "track_number": 6,
           "title": "Here Comes the Sun",
           "artist": "The Beatles",
           "duration": "3:06",
@@ -165,7 +143,7 @@
         },
         {
           "id": "homenaje-beatles-08-hey-jude",
-          "track_number": 8,
+          "track_number": 7,
           "title": "Hey Jude",
           "artist": "The Beatles",
           "duration": "7:11",
@@ -187,7 +165,7 @@
         },
         {
           "id": "homenaje-beatles-09-i-saw-her-standing-there",
-          "track_number": 9,
+          "track_number": 8,
           "title": "I Saw Her Standing There",
           "artist": "The Beatles",
           "duration": "2:53",
@@ -209,7 +187,7 @@
         },
         {
           "id": "homenaje-beatles-10-let-it-be",
-          "track_number": 10,
+          "track_number": 9,
           "title": "Let It Be",
           "artist": "The Beatles",
           "duration": "4:03",
@@ -231,7 +209,7 @@
         },
         {
           "id": "homenaje-beatles-11-love-me-do",
-          "track_number": 11,
+          "track_number": 10,
           "title": "Love Me Do",
           "artist": "The Beatles",
           "duration": "2:22",
@@ -253,7 +231,7 @@
         },
         {
           "id": "homenaje-beatles-12-something",
-          "track_number": 12,
+          "track_number": 11,
           "title": "Something",
           "artist": "The Beatles",
           "duration": "3:03",
@@ -275,7 +253,7 @@
         },
         {
           "id": "homenaje-beatles-13-twist-and-shout",
-          "track_number": 13,
+          "track_number": 12,
           "title": "Twist and Shout",
           "artist": "The Beatles",
           "duration": "2:35",
@@ -297,14 +275,14 @@
         },
         {
           "id": "homenaje-beatles-14-yesterday",
-          "track_number": 14,
+          "track_number": 13,
           "title": "Yesterday",
           "artist": "The Beatles",
           "duration": "2:05",
           "mp3_url": "/audio/beatles-yesterday.mp3",
           "chords_url": "/chords/beatles-yesterday.json",
-          "docs_url": "/chords/beatles-yesterday-2.doc",
-          "images_url": "/chords/beatles-yesterday-2.jpg",
+          "docs_url": "/chords/beatles-yesterday.doc",
+          "images_url": "/chords/beatles-yesterday.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -319,7 +297,7 @@
         },
         {
           "id": "homenaje-beatles-15-oh-darling",
-          "track_number": 15,
+          "track_number": 14,
           "title": "Oh! Darling",
           "artist": "The Beatles",
           "duration": "3:27",
@@ -341,7 +319,7 @@
         },
         {
           "id": "homenaje-beatles-16-my-love",
-          "track_number": 16,
+          "track_number": 15,
           "title": "My Love",
           "artist": "Paul McCartney",
           "duration": "4:10",
@@ -362,30 +340,8 @@
           }
         },
         {
-          "id": "homenaje-beatles-17-no-more-lonely-nights",
-          "track_number": 17,
-          "title": "No More Lonely Nights",
-          "artist": "Paul McCartney",
-          "duration": "4:40",
-          "mp3_url": "/audio/paul-mccartney-no-more-lonely-nights.mp3",
-          "chords_url": "/chords/paul-mccartney-no-more-lonely-nights.json",
-          "docs_url": "/chords/paul-mccartney-no-more-lonely-nights.doc",
-          "images_url": "/chords/paul-mccartney-no-more-lonely-nights.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 72,
-            "tonalidad": "D Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Pop",
-            "genre": "Rock",
-            "categoria": "Homenajes The Beatles"
-          }
-        },
-        {
           "id": "homenaje-beatles-18-stand-by-me",
-          "track_number": 18,
+          "track_number": 16,
           "title": "Stand By Me",
           "artist": "The Beatles",
           "duration": "3:00",
@@ -407,7 +363,7 @@
         },
         {
           "id": "homenaje-beatles-19-while-my-guitar-gently-weeps",
-          "track_number": 19,
+          "track_number": 17,
           "title": "While My Guitar Gently Weeps",
           "artist": "The Beatles",
           "duration": "4:45",
@@ -429,7 +385,7 @@
         },
         {
           "id": "homenaje-beatles-20-my-sweet-lord",
-          "track_number": 20,
+          "track_number": 18,
           "title": "My Sweet Lord",
           "artist": "George Harrison",
           "duration": "4:38",

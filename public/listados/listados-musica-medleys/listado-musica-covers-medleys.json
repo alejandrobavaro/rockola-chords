@@ -125,18 +125,18 @@
           "title": "A Little Respect / Your Love",
           "artist": "Almango Pop",
           "duration": "06:15",
-          "mp3_url": "/audio/03-mp3-medleys/A-Little-Respect-Your-Love-19-09-2025.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/erasure-a-little-respect+rod-steward-do-you-think-im-sexy+inxs-new-sensation.mp3",
           "chords_url": [
             "/chords/erasure-little-respect.json",
-            "/chords/the-wonders-that-thing-you-do.json"
+            "/chords/the-outfield-your-love.json"
           ],
           "docs_url": [
             "/chords/erasure-little-respect.doc",
-            "/chords/the-wonders-that-thing-you-do.doc"
+            "/chords/the-outfield-your-love.doc"
           ],
           "images_url": [
             "/chords/erasure-little-respect.jpg",
-            "/chords/the-wonders-that-thing-you-do.jpg"
+            "/chords/the-outfield-your-love.jpg"
           ],
           "details": {
             "letra": "Medley que incluye:\n1. Erasure - A Little Respect\n2. The Outfield - Your Love",
@@ -153,7 +153,7 @@
           "title": "Pretty Woman / That Thing You Do",
           "artist": "Almango Pop",
           "duration": "06:40",
-          "mp3_url": "/audio/03-mp3-medleys/Preaty-woman-The-Wonders-19-09-2025.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/roy-orbison-pretty-woman+beach-boys+little-richard+creedence-travelin-band.mp3",
           "chords_url": [
             "/chords/roy-orbison-pretty-woman.json",
             "/chords/the-wonders-that-thing-you-do.json"
@@ -181,7 +181,7 @@
           "title": "Never Tear Us Apart",
           "artist": "Almango Pop",
           "duration": "04:20",
-          "mp3_url": "/audio/03-mp3-medleys/INXS-Never-tear-us-apart-1.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/gary-moore-still-got-inxs-never-tear-us.mp3",
           "chords_url": [
             "/chords/inxs-never-tear-us-apart.json"
           ],
@@ -206,7 +206,7 @@
           "title": "A Little Respect / Do You Think I'm Sexy / New Sensation",
           "artist": "Almango Pop",
           "duration": "09:15",
-          "mp3_url": "/audio/03-mp3-medleys/erasure-little-respect+rod-stewart-do-you-think-im-sexy+inxs-new-sensation.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/erasure-a-little-respect+rod-steward-do-you-think-im-sexy+inxs-new-sensation.mp3",
           "chords_url": [
             "/chords/erasure-little-respect.json",
             "/chords/rod-stewart-do-you-think-im-sexy.json",
@@ -454,19 +454,19 @@
           "title": "Enjoy the Silence / Funkytown / Venus",
           "artist": "Almango Pop",
           "duration": "08:30",
-          "mp3_url": "/audio/03-mp3-medleys/depeche-mode-enjoy-the-silence-funkytown-venus.mp3",
+          "mp3_url": "/audio/03-mp3-medleys/depeche-mode+funkytown+electronico.mp3",
           "chords_url": [
-            "/chords/depeche-mode-i-just-cant-get-enough.json",
+            "/chords/depeche-mode-enjoy-the-silence.json",
             "/chords/lipps-inc-funkytown.json",
             "/chords/bananarama-venus.json"
           ],
           "docs_url": [
-            "/chords/depeche-mode-i-just-cant-get-enough.doc",
+            "/chords/depeche-mode-enjoy-the-silence.doc",
             "/chords/lipps-inc-funkytown.doc",
             "/chords/bananarama-venus.doc"
           ],
           "images_url": [
-            "/chords/depeche-mode-i-just-cant-get-enough.jpg",
+            "/chords/depeche-mode-enjoy-the-silence.jpg",
             "/chords/lipps-inc-funkytown.jpg",
             "/chords/bananarama-venus.jpg"
           ],
@@ -864,17 +864,17 @@
           "mp3_url": "/audio/03-mp3-medleys/tears-for-fears-everybody-wants-to-rule-the-world-tina-turner-addicted-david-bowie-heroes.mp3",
           "chords_url": [
             "/chords/tears-for-fears-everybody-wants-to-rule-the-world.json",
-            "/chords/tina-turner-simply-the-best.json",
+            "/chords/tina-turner-addicted-to-love.json",
             "/chords/david-bowie-heroes.json"
           ],
           "docs_url": [
             "/chords/tears-for-fears-everybody-wants-to-rule-the-world.doc",
-            "/chords/tina-turner-simply-the-best.doc",
+            "/chords/tina-turner-addicted-to-love.doc",
             "/chords/david-bowie-heroes.doc"
           ],
           "images_url": [
             "/chords/tears-for-fears-everybody-wants-to-rule-the-world.jpg",
-            "/chords/tina-turner-simply-the-best.jpg",
+            "/chords/tina-turner-addicted-to-love.jpg",
             "/chords/david-bowie-heroes.jpg"
           ],
           "details": {

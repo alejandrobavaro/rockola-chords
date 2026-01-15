@@ -141,249 +141,250 @@ export const SearchProvider = ({ children }) => {
       path: '/listados/listados-musica-medleys/listado-musica-covers-medleys.json',
       type: 'medleys'
     },
-    
     // ======================================================
-    // 👑 HOMENAJES (TODOS LOS ARCHIVOS)
-    // ======================================================
-    { 
-      id: 'homenaje-acdc', 
-      name: 'AC/DC', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-acdc.json',
-      type: 'homenajes',
-      genre: 'Hard Rock'
-    },
-    { 
-      id: 'homenaje-adams-sting-stewart', 
-      name: 'Bryan Adams, Sting, Rod Stewart', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-adams-sting-stewart.json',
-      type: 'homenajes',
-      genre: 'Rock Internacional'
-    },
-    { 
-      id: 'homenaje-aerosmith', 
-      name: 'Aerosmith', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-aerosmith.json',
-      type: 'homenajes',
-      genre: 'Hard Rock'
-    },
-    { 
-      id: 'homenaje-alejandro-lerner', 
-      name: 'Alejandro Lerner', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-alejandro-lerner.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-andres-calamaro', 
-      name: 'Andrés Calamaro', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-andres-calamaro.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-beatles', 
-      name: 'The Beatles', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-beatles.json',
-      type: 'homenajes',
-      genre: 'Rock'
-    },
-    { 
-      id: 'homenaje-bersuit', 
-      name: 'Bersuit Vergarabat', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bersuit.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-bon-jovi', 
-      name: 'Bon Jovi', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bon-jovi.json',
-      type: 'homenajes',
-      genre: 'Rock'
-    },
-    { 
-      id: 'homenaje-cadillacs-pericos-kapanga', 
-      name: 'Cadillacs, Pericos, Kapanga', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-cadillacs-pericos-kapanga.json',
-      type: 'homenajes',
-      genre: 'Ska/Rock Argentino'
-    },
-    { 
-      id: 'homenaje-ccr', 
-      name: 'Creedence Clearwater Revival', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-ccr.json',
-      type: 'homenajes',
-      genre: 'Rock & Roll'
-    },
-    { 
-      id: 'homenaje-cerati-soda', 
-      name: 'Gustavo Cerati & Soda Stereo', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-cerati-soda.json',
-      type: 'homenajes',
-      genre: 'Rock Latino'
-    },
-    { 
-      id: 'homenaje-coldplay', 
-      name: 'Coldplay', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-coldplay.json',
-      type: 'homenajes',
-      genre: 'Pop Rock'
-    },
-    { 
-      id: 'homenaje-diego-torres', 
-      name: 'Diego Torres', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-diego-torres.json',
-      type: 'homenajes',
-      genre: 'Pop Latino'
-    },
-    { 
-      id: 'homenaje-divididos', 
-      name: 'Divididos', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-divididos.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-elton-john-georgemichael', 
-      name: 'Elton John & George Michael', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-elton-john-georgemichael.json',
-      type: 'homenajes',
-      genre: 'Pop Rock'
-    },
-    { 
-      id: 'homenaje-enanitosverdes', 
-      name: 'Enanitos Verdes', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-enanitosverdes.json',
-      type: 'homenajes',
-      genre: 'Rock Latino'
-    },
-    { 
-      id: 'homenaje-garcia-paez-spinetta', 
-      name: 'Charly García, Fito Páez, Spinetta', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-garcia-paez-spinetta.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-green-day-offspring', 
-      name: 'Green Day & The Offspring', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-green-day-offspring.json',
-      type: 'homenajes',
-      genre: 'Punk Rock'
-    },
-    { 
-      id: 'homenaje-gunsnroses', 
-      name: 'Guns N\' Roses', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-gunsnroses.json',
-      type: 'homenajes',
-      genre: 'Hard Rock'
-    },
-    { 
-      id: 'homenaje-inxs', 
-      name: 'INXS', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-inxs.json',
-      type: 'homenajes',
-      genre: 'Rock Alternativo'
-    },
-    { 
-      id: 'homenaje-laley-mana', 
-      name: 'La Ley & Maná', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-laley-mana.json',
-      type: 'homenajes',
-      genre: 'Rock Latino'
-    },
-    { 
-      id: 'homenaje-larenga-pappo-redondos-ratones', 
-      name: 'La Renga, Pappo, Los Redondos, Ratones', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-larenga-pappo-redondos-ratones.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-lenny-kravitz', 
-      name: 'Lenny Kravitz', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-lenny-kravitz.json',
-      type: 'homenajes',
-      genre: 'Rock'
-    },
-    { 
-      id: 'homenaje-los-pijos', 
-      name: 'Los Piojos', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-los-pijos.json',
-      type: 'homenajes',
-      genre: 'Rock Argentino'
-    },
-    { 
-      id: 'homenaje-michaeljackson', 
-      name: 'Michael Jackson', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-michaeljackson.json',
-      type: 'homenajes',
-      genre: 'Pop'
-    },
-    { 
-      id: 'homenaje-nirvana-foo-fighters-system', 
-      name: 'Nirvana, Foo Fighters, System of a Down', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-nirvana-foo-fighters-system.json',
-      type: 'homenajes',
-      genre: 'Grunge/Rock Alternativo'
-    },
-    { 
-      id: 'homenaje-oasis', 
-      name: 'Oasis', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-oasis.json',
-      type: 'homenajes',
-      genre: 'Britpop'
-    },
-    { 
-      id: 'homenaje-phillcollins', 
-      name: 'Phil Collins', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-philcollins.json',
-      type: 'homenajes',
-      genre: 'Pop Rock'
-    },
-    { 
-      id: 'homenaje-queen', 
-      name: 'Queen', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-queen.json',
-      type: 'homenajes',
-      genre: 'Rock'
-    },
-    { 
-      id: 'homenaje-redhotchili', 
-      name: 'Red Hot Chili Peppers', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-redhotchili.json',
-      type: 'homenajes',
-      genre: 'Funk Rock'
-    },
-    { 
-      id: 'homenaje-robbiewilliams', 
-      name: 'Robbie Williams', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-robbiewilliams.json',
-      type: 'homenajes',
-      genre: 'Pop'
-    },
-    { 
-      id: 'homenaje-rolling-stones', 
-      name: 'The Rolling Stones', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-rolling-stones.json',
-      type: 'homenajes',
-      genre: 'Rock & Roll'
-    },
-    { 
-      id: 'homenaje-roxette', 
-      name: 'Roxette', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-roxette.json',
-      type: 'homenajes',
-      genre: 'Pop'
-    },
-    { 
-      id: 'homenaje-u2', 
-      name: 'U2', 
-      path: '/listados/listados-musica-homenajes/listado-musica-homenaje-u2.json',
-      type: 'homenajes',
-      genre: 'Rock'
-    },
-    
+// 👑 HOMENAJES (TODOS LOS ARCHIVOS - 31 EN TOTAL)
+// ======================================================
+{ 
+  id: 'homenaje-acdc', 
+  name: 'AC/DC', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-acdc.json',
+  type: 'homenajes',
+  genre: 'Hard Rock'
+},
+{ 
+  id: 'homenaje-adams-sting-stewart', 
+  name: 'Bryan Adams, Sting, Rod Stewart', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-adams-sting-stewart.json',
+  type: 'homenajes',
+  genre: 'Rock Internacional'
+},
+{ 
+  id: 'homenaje-aerosmith', 
+  name: 'Aerosmith', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-aerosmith.json',
+  type: 'homenajes',
+  genre: 'Hard Rock'
+},
+{ 
+  id: 'homenaje-alejandro-lerner', 
+  name: 'Alejandro Lerner', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-alejandro-lerner.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-andres-calamaro', 
+  name: 'Andrés Calamaro', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-andres-calamaro.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-beatles', 
+  name: 'The Beatles', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-beatles.json',
+  type: 'homenajes',
+  genre: 'Rock'
+},
+{ 
+  id: 'homenaje-bersuit', 
+  name: 'Bersuit Vergarabat', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bersuit.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-bon-jovi', 
+  name: 'Bon Jovi', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-bon-jovi.json',
+  type: 'homenajes',
+  genre: 'Rock'
+},
+{ 
+  id: 'homenaje-cadillacs-pericos-kapanga', 
+  name: 'Cadillacs, Pericos, Kapanga', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-cadillacs-pericos-kapanga.json',
+  type: 'homenajes',
+  genre: 'Ska/Rock Argentino'
+},
+{ 
+  id: 'homenaje-ccr', 
+  name: 'Creedence Clearwater Revival', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-ccr.json',
+  type: 'homenajes',
+  genre: 'Rock & Roll'
+},
+{ 
+  id: 'homenaje-cerati-soda', 
+  name: 'Gustavo Cerati & Soda Stereo', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-cerati-soda.json',
+  type: 'homenajes',
+  genre: 'Rock Latino'
+},
+{ 
+  id: 'homenaje-coldplay', 
+  name: 'Coldplay', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-coldplay.json',
+  type: 'homenajes',
+  genre: 'Pop Rock'
+},
+// ✅ NUEVO - AGREGADO
+{ 
+  id: 'homenaje-diego-torres', 
+  name: 'Diego Torres', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-diego-torres.json',
+  type: 'homenajes',
+  genre: 'Pop Latino'
+},
+{ 
+  id: 'homenaje-divididos', 
+  name: 'Divididos', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-divididos.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-elton-john-georgemichael', 
+  name: 'Elton John & George Michael', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-elton-john-georgemichael.json',
+  type: 'homenajes',
+  genre: 'Pop Rock'
+},
+{ 
+  id: 'homenaje-enanitosverdes', 
+  name: 'Enanitos Verdes', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-enanitosverdes.json',
+  type: 'homenajes',
+  genre: 'Rock Latino'
+},
+{ 
+  id: 'homenaje-garcia-paez-spinetta', 
+  name: 'Charly García, Fito Páez, Spinetta', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-garcia-paez-spinetta.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-green-day-offspring', 
+  name: 'Green Day & The Offspring', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-green-day-offspring.json',
+  type: 'homenajes',
+  genre: 'Punk Rock'
+},
+{ 
+  id: 'homenaje-gunsnroses', 
+  name: 'Guns N\' Roses', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-gunsnroses.json',
+  type: 'homenajes',
+  genre: 'Hard Rock'
+},
+{ 
+  id: 'homenaje-inxs', 
+  name: 'INXS', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-inxs.json',
+  type: 'homenajes',
+  genre: 'Rock Alternativo'
+},
+{ 
+  id: 'homenaje-laley-mana', 
+  name: 'La Ley & Maná', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-laley-mana.json',
+  type: 'homenajes',
+  genre: 'Rock Latino'
+},
+{ 
+  id: 'homenaje-larenga-pappo-redondos-ratones', 
+  name: 'La Renga, Pappo, Los Redondos, Ratones', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-larenga-pappo-redondos-ratones.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-lenny-kravitz', 
+  name: 'Lenny Kravitz', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-lenny-kravitz.json',
+  type: 'homenajes',
+  genre: 'Rock'
+},
+// ✅ NUEVO - AGREGADO
+{ 
+  id: 'homenaje-los-pijos', 
+  name: 'Los Piojos', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-los-piojos.json',
+  type: 'homenajes',
+  genre: 'Rock Argentino'
+},
+{ 
+  id: 'homenaje-michaeljackson', 
+  name: 'Michael Jackson', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-michaeljackson.json',
+  type: 'homenajes',
+  genre: 'Pop'
+},
+{ 
+  id: 'homenaje-nirvana-foo-fighters-system', 
+  name: 'Nirvana, Foo Fighters, System of a Down', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-nirvana-foo-fighters-system.json',
+  type: 'homenajes',
+  genre: 'Grunge/Rock Alternativo'
+},
+{ 
+  id: 'homenaje-oasis', 
+  name: 'Oasis', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-oasis.json',
+  type: 'homenajes',
+  genre: 'Britpop'
+},
+// ✅ CORREGIDO (ID mal escrito antes)
+{ 
+  id: 'homenaje-philcollins',  // ← Antes era 'phillcollins' (doble L)
+  name: 'Phil Collins', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-philcollins.json',
+  type: 'homenajes',
+  genre: 'Pop Rock'
+},
+{ 
+  id: 'homenaje-queen', 
+  name: 'Queen', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-queen.json',
+  type: 'homenajes',
+  genre: 'Rock'
+},
+{ 
+  id: 'homenaje-redhotchili', 
+  name: 'Red Hot Chili Peppers', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-redhotchili.json',
+  type: 'homenajes',
+  genre: 'Funk Rock'
+},
+{ 
+  id: 'homenaje-robbiewilliams', 
+  name: 'Robbie Williams', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-robbiewilliams.json',
+  type: 'homenajes',
+  genre: 'Pop'
+},
+{ 
+  id: 'homenaje-rolling-stones', 
+  name: 'The Rolling Stones', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-rolling-stones.json',
+  type: 'homenajes',
+  genre: 'Rock & Roll'
+},
+{ 
+  id: 'homenaje-roxette', 
+  name: 'Roxette', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-roxette.json',
+  type: 'homenajes',
+  genre: 'Pop'
+},
+{ 
+  id: 'homenaje-u2', 
+  name: 'U2', 
+  path: '/listados/listados-musica-homenajes/listado-musica-homenaje-u2.json',
+  type: 'homenajes',
+  genre: 'Rock'
+},
     // ======================================================
     // 🎹 ZAPADAS POR GÉNERO (17 archivos individuales)
     // ======================================================

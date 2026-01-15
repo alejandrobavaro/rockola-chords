@@ -11,12 +11,12 @@
       "songs": [
         {
           "id": "homenaje-phil-collins-01-in-the-air-tonight",
-          "track_number": 129,
+          "track_number": 1,
           "title": "In the Air Tonight",
           "artist": "Phil Collins",
           "duration": "5:36",
-          "mp3_url": "/audio/homenajes/phil-collins-in-the-air-tonight.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-in-the-air-tonight.json",
+          "mp3_url": "/audio/phil-collins-in-the-air-tonight.mp3",
+          "chords_url": "/chords/phil-collins-in-the-air-tonight.json",
           "docs_url": "/chords/phil-collins-in-the-air-tonight.doc",
           "images_url": "/chords/phil-collins-in-the-air-tonight.jpg",
           "details": {
@@ -33,12 +33,12 @@
         },
         {
           "id": "homenaje-phil-collins-02-against-all-odds",
-          "track_number": 130,
+          "track_number": 2,
           "title": "Against All Odds (Take a Look at Me Now)",
           "artist": "Phil Collins",
           "duration": "3:23",
-          "mp3_url": "/audio/homenajes/phil-collins-against-all-odds.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-against-all-odds.json",
+          "mp3_url": "/audio/phil-collins-against-all-odds.mp3",
+          "chords_url": "/chords/phil-collins-against-all-odds.json",
           "docs_url": "/chords/phil-collins-against-all-odds.doc",
           "images_url": "/chords/phil-collins-against-all-odds.jpg",
           "details": {
@@ -55,12 +55,12 @@
         },
         {
           "id": "homenaje-phil-collins-03-another-day-in-paradise",
-          "track_number": 131,
+          "track_number": 3,
           "title": "Another Day in Paradise",
           "artist": "Phil Collins",
           "duration": "5:22",
-          "mp3_url": "/audio/homenajes/phil-collins-another-day-in-paradise.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-another-day-in-paradise.json",
+          "mp3_url": "/audio/phil-collins-another-day-in-paradise.mp3",
+          "chords_url": "/chords/phil-collins-another-day-in-paradise.json",
           "docs_url": "/chords/phil-collins-another-day-in-paradise.doc",
           "images_url": "/chords/phil-collins-another-day-in-paradise.jpg",
           "details": {
@@ -77,12 +77,12 @@
         },
         {
           "id": "homenaje-phil-collins-04-easy-lover",
-          "track_number": 132,
+          "track_number": 4,
           "title": "Easy Lover",
           "artist": "Phil Collins",
           "duration": "5:04",
-          "mp3_url": "/audio/homenajes/phil-collins-easy-lover.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-easy-lover.json",
+          "mp3_url": "/audio/phil-collins-easy-lover.mp3",
+          "chords_url": "/chords/phil-collins-easy-lover.json",
           "docs_url": "/chords/phil-collins-easy-lover.doc",
           "images_url": "/chords/phil-collins-easy-lover.jpg",
           "details": {
@@ -98,57 +98,13 @@
           }
         },
         {
-          "id": "homenaje-phil-collins-05-you-cant-hurry-love",
-          "track_number": 133,
-          "title": "You Can't Hurry Love",
-          "artist": "Phil Collins",
-          "duration": "2:55",
-          "mp3_url": "/audio/homenajes/phil-collins-you-cant-hurry-love.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-you-cant-hurry-love.json",
-          "docs_url": "/chords/phil-collins-you-cant-hurry-love.doc",
-          "images_url": "/chords/phil-collins-you-cant-hurry-love.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 138,
-            "tonalidad": "C Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Pop",
-            "genre": "Pop",
-            "categoria": "Homenajes Phil Collins"
-          }
-        },
-        {
-          "id": "homenaje-phil-collins-06-sussudio",
-          "track_number": 134,
-          "title": "Sussudio",
-          "artist": "Phil Collins",
-          "duration": "4:23",
-          "mp3_url": "/audio/homenajes/phil-collins-sussudio.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-sussudio.json",
-          "docs_url": "/chords/phil-collins-sussudio.doc",
-          "images_url": "/chords/phil-collins-sussudio.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 120,
-            "tonalidad": "F Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Pop Rock",
-            "genre": "Pop",
-            "categoria": "Homenajes Phil Collins"
-          }
-        },
-        {
-          "id": "homenaje-phil-collins-07-one-more-night",
-          "track_number": 135,
+          "id": "homenaje-phil-collins-05-one-more-night",
+          "track_number": 5,
           "title": "One More Night",
           "artist": "Phil Collins",
           "duration": "4:48",
-          "mp3_url": "/audio/homenajes/phil-collins-one-more-night.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-one-more-night.json",
+          "mp3_url": "/audio/phil-collins-one-more-night.mp3",
+          "chords_url": "/chords/phil-collins-one-more-night.json",
           "docs_url": "/chords/phil-collins-one-more-night.doc",
           "images_url": "/chords/phil-collins-one-more-night.jpg",
           "details": {
@@ -164,13 +120,13 @@
           }
         },
         {
-          "id": "homenaje-phil-collins-08-separate-lives",
-          "track_number": 136,
+          "id": "homenaje-phil-collins-06-separate-lives",
+          "track_number": 6,
           "title": "Separate Lives",
           "artist": "Phil Collins",
           "duration": "4:06",
-          "mp3_url": "/audio/homenajes/phil-collins-separate-lives.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-separate-lives.json",
+          "mp3_url": "/audio/phil-collins-separate-lives.mp3",
+          "chords_url": "/chords/phil-collins-separate-lives.json",
           "docs_url": "/chords/phil-collins-separate-lives.doc",
           "images_url": "/chords/phil-collins-separate-lives.jpg",
           "details": {
@@ -186,13 +142,13 @@
           }
         },
         {
-          "id": "homenaje-phil-collins-09-something-happened-on-the-way-to-heaven",
-          "track_number": 137,
+          "id": "homenaje-phil-collins-07-something-happened-on-the-way-to-heaven",
+          "track_number": 7,
           "title": "Something Happened on the Way to Heaven",
           "artist": "Phil Collins",
           "duration": "4:50",
-          "mp3_url": "/audio/homenajes/phil-collins-something-happened.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-something-happened.json",
+          "mp3_url": "/audio/phil-collins-something-happelnd-on-the-way.mp3",
+          "chords_url": "/chords/phil-collins-something-happened.json",
           "docs_url": "/chords/phil-collins-something-happened.doc",
           "images_url": "/chords/phil-collins-something-happened.jpg",
           "details": {
@@ -208,23 +164,23 @@
           }
         },
         {
-          "id": "homenaje-phil-collins-10-dance-into-the-light",
-          "track_number": 138,
-          "title": "Dance into the Light",
+          "id": "homenaje-phil-collins-08-a-groovy-kind-of-love",
+          "track_number": 8,
+          "title": "A Groovy Kind of Love",
           "artist": "Phil Collins",
-          "duration": "4:23",
-          "mp3_url": "/audio/homenajes/phil-collins-dance-into-the-light.mp3",
-          "chords_url": "/chords/homenajes/phil-collins-dance-into-the-light.json",
-          "docs_url": "/chords/phil-collins-dance-into-the-light.doc",
-          "images_url": "/chords/phil-collins-dance-into-the-light.jpg",
+          "duration": "3:30",
+          "mp3_url": "/audio/phil-collins-a-groovy-kind-of-love.mp3",
+          "chords_url": "/chords/phil-collins-a-groovy-kind-of-love.json",
+          "docs_url": "/chords/phil-collins-a-groovy-kind-of-love.doc",
+          "images_url": "/chords/phil-collins-a-groovy-kind-of-love.jpg",
           "details": {
             "letra": "",
             "acordes": [],
-            "bpm": 110,
-            "tonalidad": "G Mayor",
+            "bpm": 92,
+            "tonalidad": "C Mayor",
             "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Pop Rock",
+            "dificultad": "Fácil",
+            "style": "Balada",
             "genre": "Pop",
             "categoria": "Homenajes Phil Collins"
           }

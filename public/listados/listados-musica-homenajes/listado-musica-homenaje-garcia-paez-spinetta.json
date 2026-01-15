@@ -17,8 +17,8 @@
           "duration": "3:22",
           "mp3_url": "/audio/charly-garcia-demoliendo-hoteles.mp3",
           "chords_url": "/chords/charly-garcia-demoliendo-hoteles.json",
-          "docs_url": "/chords/charly-garcia-demoliendo-hoteles-2.doc",
-          "images_url": "/chords/charly-garcia-demoliendo-hoteles-2.jpg",
+          "docs_url": "/chords/charly-garcia-demoliendo-hoteles.doc",
+          "images_url": "/chords/charly-garcia-demoliendo-hoteles.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -39,8 +39,8 @@
           "duration": "4:15",
           "mp3_url": "/audio/charly-garcia-rezo-por-vos.mp3",
           "chords_url": "/chords/charly-garcia-rezo-por-vos.json",
-          "docs_url": "/chords/charly-garcia-rezo-por-vos-2.doc",
-          "images_url": "/chords/charly-garcia-rezo-por-vos-2.jpg",
+          "docs_url": "/chords/charly-garcia-rezo-por-vos.doc",
+          "images_url": "/chords/charly-garcia-rezo-por-vos.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -61,8 +61,8 @@
           "duration": "4:40",
           "mp3_url": "/audio/charly-garcia-cerca-de-la-revolucion.mp3",
           "chords_url": "/chords/charly-garcia-cerca-de-la-revolucion.json",
-          "docs_url": "/chords/charly-garcia-cerca-de-la-revolucion-2.doc",
-          "images_url": "/chords/charly-garcia-cerca-de-la-revolucion-2.jpg",
+          "docs_url": "/chords/charly-garcia-cerca-de-la-revolucion.doc",
+          "images_url": "/chords/charly-garcia-cerca-de-la-revolucion.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -83,8 +83,8 @@
           "duration": "4:25",
           "mp3_url": "/audio/charly-garcia-cancion-para-mi-muerte.mp3",
           "chords_url": "/chords/charly-garcia-cancion-para-mi-muerte.json",
-          "docs_url": "/chords/charly-garcia-cancion-para-mi-muerte-2.doc",
-          "images_url": "/chords/charly-garcia-cancion-para-mi-muerte-2.jpg",
+          "docs_url": "/chords/charly-garcia-cancion-para-mi-muerte.doc",
+          "images_url": "/chords/charly-garcia-cancion-para-mi-muerte.jpg",
           "details": {
             "letra": "",
             "acordes": [],
@@ -273,72 +273,7 @@
             "categoria": "Homenajes Luis Alberto Spinetta"
           }
         },
-        {
-          "id": "homenaje-luis-alberto-spinetta-02-barro-tal-vez",
-          "track_number": 13,
-          "title": "Barro Tal Vez",
-          "artist": "Luis Alberto Spinetta",
-          "duration": "4:22",
-          "mp3_url": "/audio/spinetta-barro-tal-vez.mp3",
-          "chords_url": "/chords/spinetta-barro-tal-vez.json",
-          "docs_url": "/chords/spinetta-barro-tal-vez.doc",
-          "images_url": "/chords/spinetta-barro-tal-vez.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 108,
-            "tonalidad": "Em",
-            "compas": "4/4",
-            "dificultad": "Difícil",
-            "style": "Rock Progresivo",
-            "genre": "Rock",
-            "categoria": "Homenajes Luis Alberto Spinetta"
-          }
-        },
-        {
-          "id": "homenaje-luis-alberto-spinetta-03-aguas-claras",
-          "track_number": 14,
-          "title": "Aguas Claras",
-          "artist": "Luis Alberto Spinetta",
-          "duration": "4:05",
-          "mp3_url": "/audio/spinetta-aguas-claras.mp3",
-          "chords_url": "/chords/spinetta-aguas-claras.json",
-          "docs_url": "/chords/spinetta-aguas-claras.doc",
-          "images_url": "/chords/spinetta-aguas-claras.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 88,
-            "tonalidad": "D Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Rock",
-            "genre": "Rock",
-            "categoria": "Homenajes Luis Alberto Spinetta"
-          }
-        },
-        {
-          "id": "homenaje-luis-alberto-spinetta-04-esta-sembrada-mi-tierra",
-          "track_number": 15,
-          "title": "Esta Sembrada Mi Tierra",
-          "artist": "Luis Alberto Spinetta",
-          "duration": "4:18",
-          "mp3_url": "/audio/spinetta-esta-sembrada-mi-tierra.mp3",
-          "chords_url": "/chords/spinetta-esta-sembrada-mi-tierra.json",
-          "docs_url": "/chords/spinetta-esta-sembrada-mi-tierra.doc",
-          "images_url": "/chords/spinetta-esta-sembrada-mi-tierra.jpg",
-          "details": {
-            "letra": "",
-            "acordes": [],
-            "bpm": 112,
-            "tonalidad": "A Mayor",
-            "compas": "4/4",
-            "dificultad": "Media",
-            "style": "Rock",
-            "genre": "Rock",
-            "categoria": "Homenajes Luis Alberto Spinetta"
-          }
-        },
+  
         {
           "id": "homenaje-luis-alberto-spinetta-05-seguir-viviendo-sin-tu-amor",
           "track_number": 16,
@@ -367,10 +302,10 @@
           "title": "Popotitos",
           "artist": "Serú Girán",
           "duration": "3:55",
-          "mp3_url": "/audio/seru-giran-popotitos.mp3",
-          "chords_url": "/chords/seru-giran-popotitos.json",
-          "docs_url": "/chords/seru-giran-popotitos.doc",
-          "images_url": "/chords/seru-giran-popotitos.jpg",
+          "mp3_url": "/audio/charly-garcia-seru-giran-popotitos.mp3",
+          "chords_url": "/chords/charly-garcia-seru-giran-popotitos.json",
+          "docs_url": "/chords/charly-garcia-seru-giran-popotitos.doc",
+          "images_url": "/chords/charly-garcia-seru-giran-popotitos.jpg",
           "details": {
             "letra": "",
             "acordes": [],

@@ -1,0 +1,125 @@
+{
+  "artista": "Los Piojos",
+  "categoria": "homenajes",
+  "discografia": [
+    {
+      "album_id": "homenajes-los-piojos",
+      "album_name": "HOMENAJES Los Piojos",
+      "year": "2024",
+      "cover_image": "/img/02-logos/logo-formateo-chords2.png",
+      "genre": "Rock",
+      "songs": [
+        {
+          "id": "homenaje-los-piojos-01-verano-del-92",
+          "track_number": 1,
+          "title": "Verano del 92",
+          "artist": "Los Piojos",
+          "duration": "4:15",
+          "mp3_url": "/audio/los-piojos-verano-del-92.mp3",
+          "chords_url": "/chords/los-piojos-verano-del-92.json",
+          "docs_url": "/chords/los-piojos-verano-del-92.doc",
+          "images_url": "/chords/los-piojos-verano-del-92.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 126,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Piojos"
+          }
+        },
+        {
+          "id": "homenaje-los-piojos-02-el-balneario-de-los-doctores-crotos",
+          "track_number": 2,
+          "title": "El Balneario de los Doctores Crotos",
+          "artist": "Los Piojos",
+          "duration": "4:40",
+          "mp3_url": "/audio/los-piojos-el-balneario-de-los-doctores-crotos.mp3",
+          "chords_url": "/chords/los-piojos-el-balneario-de-los-doctores-croto.json",
+          "docs_url": "/chords/los-piojos-el-balneario-de-los-doctores-croto.doc",
+          "images_url": "/chords/los-piojos-el-balneario-de-los-doctores-croto.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 118,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Piojos"
+          }
+        },
+        {
+          "id": "homenaje-los-piojos-03-tan-solo",
+          "track_number": 3,
+          "title": "Tan Sólo",
+          "artist": "Los Piojos",
+          "duration": "4:25",
+          "mp3_url": "/audio/los-piojos-tan-solo.mp3",
+          "chords_url": "/chords/los-piojos-tan-solo.json",
+          "docs_url": "/chords/los-piojos-tan-solo.doc",
+          "images_url": "/chords/los-piojos-tan-solo.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 120,
+            "tonalidad": "D Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Piojos"
+          }
+        },
+        {
+          "id": "homenaje-los-piojos-04-ruleta",
+          "track_number": 4,
+          "title": "Ruleta",
+          "artist": "Los Piojos",
+          "duration": "4:18",
+          "mp3_url": "/audio/los-piojos-ruleta.mp3",
+          "chords_url": "/chords/los-piojos-ruleta.json",
+          "docs_url": "/chords/los-piojos-ruleta.doc",
+          "images_url": "/chords/los-piojos-ruleta.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 124,
+            "tonalidad": "G Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Piojos"
+          }
+        },
+        {
+          "id": "homenaje-los-piojos-05-como-ali",
+          "track_number": 5,
+          "title": "Como Alí",
+          "artist": "Los Piojos",
+          "duration": "4:15",
+          "mp3_url": "/audio/los-piojos-como-ali.mp3",
+          "chords_url": "/chords/los-piojos-como-ali.json",
+          "docs_url": "/chords/los-piojos-como-ali.doc",
+          "images_url": "/chords/los-piojos-como-ali.jpg",
+          "details": {
+            "letra": "",
+            "acordes": [],
+            "bpm": 126,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Media",
+            "style": "Rock",
+            "genre": "Rock",
+            "categoria": "Homenajes Los Piojos"
+          }
+        }
+      ]
+    }
+  ]
+}

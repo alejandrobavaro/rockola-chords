@@ -437,7 +437,7 @@ const loadHomenajesData = async () => {
       '/listados/listados-musica-homenajes/listado-musica-homenaje-laley-mana.json',
       '/listados/listados-musica-homenajes/listado-musica-homenaje-larenga-pappo-redondos-ratones.json',
       '/listados/listados-musica-homenajes/listado-musica-homenaje-lenny-kravitz.json',
-      '/listados/listados-musica-homenajes/listado-musica-homenaje-los-pijos.json',
+      '/listados/listados-musica-homenajes/listado-musica-homenaje-los-piojos.json',
       '/listados/listados-musica-homenajes/listado-musica-homenaje-michaeljackson.json',
       '/listados/listados-musica-homenajes/listado-musica-homenaje-nirvana-foo-fighters-system.json',
       '/listados/listados-musica-homenajes/listado-musica-homenaje-oasis.json',

@@ -75,44 +75,44 @@
           }
         },
         {
-          "id": "acdc-rock-n-roll-train",
+          "id": "acdc-thunderstruck",
           "track_number": 4,
-          "title": "Rock 'n' Roll Train",
+          "title": "Thunderstruck",
           "artist": "AC/DC",
-          "duration": "4:22",
-          "mp3_url": "/audio/acdc-rock-n-roll-train.mp3",
-          "chords_url": "/chords/acdc-rock-n-roll-train.json",
-          "docs_url": "/chords/acdc-rock-n-roll-train.doc",
-          "images_url": "/chords/acdc-rock-n-roll-train.jpg",
+          "duration": "4:53",
+          "mp3_url": "/audio/acdc-thunderstruck.mp3",
+          "chords_url": "/chords/acdc-thunderstruck.json",
+          "docs_url": "/chords/acdc-thunderstruck.doc",
+          "images_url": "/chords/acdc-thunderstruck.jpg",
           "details": {
             "letra": "",
-            "acordes": ["E", "A", "B", "C#m"],
-            "bpm": 124,
-            "tonalidad": "E Mayor",
+            "acordes": ["B", "E", "F#", "G#m"],
+            "bpm": 132,
+            "tonalidad": "B Mayor",
             "compas": "4/4",
-            "dificultad": "Intermedia",
+            "dificultad": "Avanzada",
             "style": "Rock Clásico",
             "genre": "Hard Rock",
             "categoria": "Covers Hard Rock y Punk Inglés"
           }
         },
         {
-          "id": "acdc-shoot-to-thrill",
+          "id": "acdc-you-shook-me-all-night-long",
           "track_number": 5,
-          "title": "Shoot to Thrill",
+          "title": "You Shook Me All Night Long",
           "artist": "AC/DC",
-          "duration": "5:18",
-          "mp3_url": "/audio/acdc-shoot-to-thrill.mp3",
-          "chords_url": "/chords/acdc-shoot-to-thrill.json",
-          "docs_url": "/chords/acdc-shoot-to-thrill.doc",
-          "images_url": "/chords/acdc-shoot-to-thrill.jpg",
+          "duration": "3:32",
+          "mp3_url": "/audio/acdc-you-shook-me-all-night-long.mp3",
+          "chords_url": "/chords/acdc-you-shook-me-all-night-long.json",
+          "docs_url": "/chords/acdc-you-shook-me-all-night-long.doc",
+          "images_url": "/chords/acdc-you-shook-me-all-night-long.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
-            "bpm": 120,
+            "bpm": 128,
             "tonalidad": "G Mayor",
             "compas": "4/4",
-            "dificultad": "Intermedia",
+            "dificultad": "Básica",
             "style": "Rock Clásico",
             "genre": "Hard Rock",
             "categoria": "Covers Hard Rock y Punk Inglés"
@@ -141,41 +141,41 @@
           }
         },
         {
-          "id": "acdc-thunderstruck",
+          "id": "acdc-big-gun",
           "track_number": 7,
-          "title": "Thunderstruck",
+          "title": "Big Gun",
           "artist": "AC/DC",
-          "duration": "4:53",
-          "mp3_url": "/audio/acdc-thunderstruck.mp3",
-          "chords_url": "/chords/acdc-thunderstruck.json",
-          "docs_url": "/chords/acdc-thunderstruck.doc",
-          "images_url": "/chords/acdc-thunderstruck.jpg",
+          "duration": "4:22",
+          "mp3_url": "/audio/acdc-big-gun.mp3",
+          "chords_url": "/chords/acdc-big-gun.json",
+          "docs_url": "/chords/acdc-big-gun.doc",
+          "images_url": "/chords/acdc-big-gun.jpg",
           "details": {
             "letra": "",
-            "acordes": ["B", "E", "F#", "G#m"],
-            "bpm": 132,
-            "tonalidad": "B Mayor",
+            "acordes": ["E", "A", "B", "C#m"],
+            "bpm": 125,
+            "tonalidad": "E Mayor",
             "compas": "4/4",
-            "dificultad": "Avanzada",
+            "dificultad": "Intermedia",
             "style": "Rock Clásico",
             "genre": "Hard Rock",
             "categoria": "Covers Hard Rock y Punk Inglés"
           }
         },
         {
-          "id": "acdc-whole-lotta-rosie",
+          "id": "acdc-hail-caesar",
           "track_number": 8,
-          "title": "Whole Lotta Rosie",
+          "title": "Hail Caesar",
           "artist": "AC/DC",
-          "duration": "5:36",
-          "mp3_url": "/audio/acdc-whole-lotta-rosie.mp3",
-          "chords_url": "/chords/acdc-whole-lotta-rosie.json",
-          "docs_url": "/chords/acdc-whole-lotta-rosie.doc",
-          "images_url": "/chords/acdc-whole-lotta-rosie.jpg",
+          "duration": "5:14",
+          "mp3_url": "/audio/acdc-hail-caesar.mp3",
+          "chords_url": "/chords/acdc-hail-caesar.json",
+          "docs_url": "/chords/acdc-hail-caesar.doc",
+          "images_url": "/chords/acdc-hail-caesar.jpg",
           "details": {
             "letra": "",
-            "acordes": ["A", "G", "D", "E"],
-            "bpm": 126,
+            "acordes": ["A", "D", "E", "G"],
+            "bpm": 120,
             "tonalidad": "A Mayor",
             "compas": "4/4",
             "dificultad": "Intermedia",
@@ -185,22 +185,110 @@
           }
         },
         {
-          "id": "acdc-you-shook-me-all-night-long",
+          "id": "acdc-hard-as-a-rock",
           "track_number": 9,
-          "title": "You Shook Me All Night Long",
+          "title": "Hard as a Rock",
           "artist": "AC/DC",
-          "duration": "3:32",
-          "mp3_url": "/audio/acdc-you-shook-me-all-night-long.mp3",
-          "chords_url": "/chords/acdc-you-shook-me-all-night-long.json",
-          "docs_url": "/chords/acdc-you-shook-me-all-night-long.doc",
-          "images_url": "/chords/acdc-you-shook-me-all-night-long.jpg",
+          "duration": "4:31",
+          "mp3_url": "/audio/acdc-hard-as-a-rock.mp3",
+          "chords_url": "/chords/acdc-hard-as-a-rock.json",
+          "docs_url": "/chords/acdc-hard-as-a-rock.doc",
+          "images_url": "/chords/acdc-hard-as-a-rock.jpg",
+          "details": {
+            "letra": "",
+            "acordes": ["E", "A", "B", "C#m"],
+            "bpm": 128,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia",
+            "style": "Rock Clásico",
+            "genre": "Hard Rock",
+            "categoria": "Covers Hard Rock y Punk Inglés"
+          }
+        },
+        {
+          "id": "acdc-rock-n-roll-train-live",
+          "track_number": 10,
+          "title": "Rock 'n' Roll Train (Live at River Plate 2009)",
+          "artist": "AC/DC",
+          "duration": "4:50",
+          "mp3_url": "/audio/acdc-rock-n-roll-train-live-at-river-plate-2009.mp3",
+          "chords_url": "/chords/acdc-rock-n-roll-train-live-at-river-plate-2009.json",
+          "docs_url": "/chords/acdc-rock-n-roll-train-live-at-river-plate-2009.doc",
+          "images_url": "/chords/acdc-rock-n-roll-train-live-at-river-plate-2009.jpg",
+          "details": {
+            "letra": "",
+            "acordes": ["E", "A", "B", "C#m"],
+            "bpm": 132,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia",
+            "style": "Rock Clásico",
+            "genre": "Hard Rock",
+            "categoria": "Covers Hard Rock y Punk Inglés"
+          }
+        },
+        {
+          "id": "acdc-safe-in-new-york-city",
+          "track_number": 11,
+          "title": "Safe in New York City",
+          "artist": "AC/DC",
+          "duration": "4:09",
+          "mp3_url": "/audio/acdc-safe-in-new-york-city.mp3",
+          "chords_url": "/chords/acdc-safe-in-new-york-city.json",
+          "docs_url": "/chords/acdc-safe-in-new-york-city.doc",
+          "images_url": "/chords/acdc-safe-in-new-york-city.jpg",
+          "details": {
+            "letra": "",
+            "acordes": ["E", "A", "B", "C#m"],
+            "bpm": 126,
+            "tonalidad": "E Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia",
+            "style": "Rock Clásico",
+            "genre": "Hard Rock",
+            "categoria": "Covers Hard Rock y Punk Inglés"
+          }
+        },
+        {
+          "id": "acdc-shoot-to-thrill-live",
+          "track_number": 12,
+          "title": "Shoot to Thrill (Live at River Plate 2009)",
+          "artist": "AC/DC",
+          "duration": "5:45",
+          "mp3_url": "/audio/acdc-shoot-to-thrill-ironman-live-at-river-plate-2009.mp3",
+          "chords_url": "/chords/acdc-shoot-to-thrill-ironman-live-at-river-plate-2009.json",
+          "docs_url": "/chords/acdc-shoot-to-thrill-ironman-live-at-river-plate-2009.doc",
+          "images_url": "/chords/acdc-shoot-to-thrill-ironman-live-at-river-plate-2009.jpg",
           "details": {
             "letra": "",
             "acordes": ["G", "C", "D", "Em"],
             "bpm": 128,
             "tonalidad": "G Mayor",
             "compas": "4/4",
-            "dificultad": "Básica",
+            "dificultad": "Intermedia",
+            "style": "Rock Clásico",
+            "genre": "Hard Rock",
+            "categoria": "Covers Hard Rock y Punk Inglés"
+          }
+        },
+        {
+          "id": "acdc-whole-lotta-rosie-live",
+          "track_number": 13,
+          "title": "Whole Lotta Rosie (Live at River Plate 2009)",
+          "artist": "AC/DC",
+          "duration": "5:38",
+          "mp3_url": "/audio/acdc-whole-lotta-rosie-live-at-river-plate-2009.mp3",
+          "chords_url": "/chords/acdc-whole-lotta-rosie-live-at-river-plate-2009.json",
+          "docs_url": "/chords/acdc-whole-lotta-rosie-live-at-river-plate-2009.doc",
+          "images_url": "/chords/acdc-whole-lotta-rosie-live-at-river-plate-2009.jpg",
+          "details": {
+            "letra": "",
+            "acordes": ["A", "G", "D", "E"],
+            "bpm": 134,
+            "tonalidad": "A Mayor",
+            "compas": "4/4",
+            "dificultad": "Intermedia",
             "style": "Rock Clásico",
             "genre": "Hard Rock",
             "categoria": "Covers Hard Rock y Punk Inglés"
@@ -208,7 +296,7 @@
         },
         {
           "id": "blur-song-2",
-          "track_number": 10,
+          "track_number": 14,
           "title": "Song 2",
           "artist": "Blur",
           "duration": "2:02",
@@ -230,7 +318,7 @@
         },
         {
           "id": "bon-jovi-its-my-life",
-          "track_number": 11,
+          "track_number": 15,
           "title": "It's My Life",
           "artist": "Bon Jovi",
           "duration": "3:45",
@@ -252,7 +340,7 @@
         },
         {
           "id": "bon-jovi-keep-the-faith",
-          "track_number": 12,
+          "track_number": 16,
           "title": "Keep the Faith",
           "artist": "Bon Jovi",
           "duration": "5:46",
@@ -274,7 +362,7 @@
         },
         {
           "id": "bon-jovi-livin-on-a-prayer",
-          "track_number": 13,
+          "track_number": 17,
           "title": "Livin' on a Prayer",
           "artist": "Bon Jovi",
           "duration": "4:11",
@@ -296,7 +384,7 @@
         },
         {
           "id": "bon-jovi-wanted-dead-or-alive",
-          "track_number": 14,
+          "track_number": 18,
           "title": "Wanted Dead or Alive",
           "artist": "Bon Jovi",
           "duration": "5:09",
@@ -318,7 +406,7 @@
         },
         {
           "id": "cranberries-zombie",
-          "track_number": 15,
+          "track_number": 19,
           "title": "Zombie",
           "artist": "The Cranberries",
           "duration": "5:07",
@@ -340,7 +428,7 @@
         },
         {
           "id": "def-leppard-pour-some-sugar-on-me",
-          "track_number": 16,
+          "track_number": 20,
           "title": "Pour Some Sugar on Me",
           "artist": "Def Leppard",
           "duration": "4:54",
@@ -362,7 +450,7 @@
         },
         {
           "id": "dire-straits-money-for-nothing",
-          "track_number": 17,
+          "track_number": 21,
           "title": "Money for Nothing",
           "artist": "Dire Straits",
           "duration": "8:26",
@@ -384,7 +472,7 @@
         },
         {
           "id": "foo-fighters-best-of-you",
-          "track_number": 18,
+          "track_number": 22,
           "title": "Best of You",
           "artist": "Foo Fighters",
           "duration": "4:16",
@@ -406,7 +494,7 @@
         },
         {
           "id": "foo-fighters-my-hero",
-          "track_number": 19,
+          "track_number": 23,
           "title": "My Hero",
           "artist": "Foo Fighters",
           "duration": "4:20",
@@ -428,7 +516,7 @@
         },
         {
           "id": "foo-fighters-walk",
-          "track_number": 20,
+          "track_number": 24,
           "title": "Walk",
           "artist": "Foo Fighters",
           "duration": "4:16",
@@ -450,7 +538,7 @@
         },
         {
           "id": "green-day-american-idiot",
-          "track_number": 21,
+          "track_number": 25,
           "title": "American Idiot",
           "artist": "Green Day",
           "duration": "2:54",
@@ -472,7 +560,7 @@
         },
         {
           "id": "green-day-basket-case",
-          "track_number": 22,
+          "track_number": 26,
           "title": "Basket Case",
           "artist": "Green Day",
           "duration": "3:03",
@@ -494,7 +582,7 @@
         },
         {
           "id": "guns-n-roses-civil-war",
-          "track_number": 23,
+          "track_number": 27,
           "title": "Civil War",
           "artist": "Guns N' Roses",
           "duration": "7:42",
@@ -516,7 +604,7 @@
         },
         {
           "id": "guns-n-roses-knockin-on-heavens-door",
-          "track_number": 24,
+          "track_number": 28,
           "title": "Knockin' on Heaven's Door",
           "artist": "Guns N' Roses",
           "duration": "5:36",
@@ -538,7 +626,7 @@
         },
         {
           "id": "guns-n-roses-live-and-let-die",
-          "track_number": 25,
+          "track_number": 29,
           "title": "Live and Let Die",
           "artist": "Guns N' Roses",
           "duration": "3:04",
@@ -560,7 +648,7 @@
         },
         {
           "id": "guns-n-roses-paradise-city",
-          "track_number": 26,
+          "track_number": 30,
           "title": "Paradise City",
           "artist": "Guns N' Roses",
           "duration": "6:46",
@@ -582,7 +670,7 @@
         },
         {
           "id": "guns-n-roses-sweet-child-o-mine",
-          "track_number": 27,
+          "track_number": 31,
           "title": "Sweet Child o' Mine",
           "artist": "Guns N' Roses",
           "duration": "5:56",
@@ -604,7 +692,7 @@
         },
         {
           "id": "guns-n-roses-welcome-to-the-jungle",
-          "track_number": 28,
+          "track_number": 32,
           "title": "Welcome to the Jungle",
           "artist": "Guns N' Roses",
           "duration": "4:32",
@@ -626,7 +714,7 @@
         },
         {
           "id": "guns-n-roses-yesterdays",
-          "track_number": 29,
+          "track_number": 33,
           "title": "Yesterdays",
           "artist": "Guns N' Roses",
           "duration": "3:16",
@@ -648,7 +736,7 @@
         },
         {
           "id": "guns-n-roses-you-could-be-mine",
-          "track_number": 30,
+          "track_number": 34,
           "title": "You Could Be Mine",
           "artist": "Guns N' Roses",
           "duration": "5:48",
@@ -670,7 +758,7 @@
         },
         {
           "id": "inxs-dont-lose-your-head",
-          "track_number": 31,
+          "track_number": 35,
           "title": "Don't Lose Your Head",
           "artist": "INXS",
           "duration": "4:22",
@@ -692,7 +780,7 @@
         },
         {
           "id": "inxs-elegantly-wasted",
-          "track_number": 32,
+          "track_number": 36,
           "title": "Elegantly Wasted",
           "artist": "INXS",
           "duration": "4:33",
@@ -714,7 +802,7 @@
         },
         {
           "id": "lenny-kravitz-always-on-the-run",
-          "track_number": 33,
+          "track_number": 37,
           "title": "Always on the Run",
           "artist": "Lenny Kravitz",
           "duration": "3:58",
@@ -736,7 +824,7 @@
         },
         {
           "id": "lenny-kravitz-american-woman",
-          "track_number": 34,
+          "track_number": 38,
           "title": "American Woman",
           "artist": "Lenny Kravitz",
           "duration": "4:21",
@@ -758,7 +846,7 @@
         },
         {
           "id": "lenny-kravitz-are-you-gonna-go-my-way",
-          "track_number": 35,
+          "track_number": 39,
           "title": "Are You Gonna Go My Way",
           "artist": "Lenny Kravitz",
           "duration": "3:32",
@@ -780,7 +868,7 @@
         },
         {
           "id": "lenny-kravitz-fly-away",
-          "track_number": 36,
+          "track_number": 40,
           "title": "Fly Away",
           "artist": "Lenny Kravitz",
           "duration": "3:42",
@@ -802,7 +890,7 @@
         },
         {
           "id": "michael-jackson-beat-it",
-          "track_number": 37,
+          "track_number": 41,
           "title": "Beat It",
           "artist": "Michael Jackson",
           "duration": "4:18",
@@ -824,7 +912,7 @@
         },
         {
           "id": "michael-jackson-smooth-criminal",
-          "track_number": 38,
+          "track_number": 42,
           "title": "Smooth Criminal",
           "artist": "Michael Jackson",
           "duration": "4:18",
@@ -846,7 +934,7 @@
         },
         {
           "id": "mick-jagger-god-gave-me-everything",
-          "track_number": 39,
+          "track_number": 43,
           "title": "God Gave Me Everything",
           "artist": "Mick Jagger",
           "duration": "3:33",
@@ -868,7 +956,7 @@
         },
         {
           "id": "nirvana-the-man-who-sold-the-world",
-          "track_number": 40,
+          "track_number": 44,
           "title": "The Man Who Sold the World",
           "artist": "Nirvana",
           "duration": "4:21",
@@ -890,7 +978,7 @@
         },
         {
           "id": "oasis-all-around-the-world",
-          "track_number": 41,
+          "track_number": 45,
           "title": "All Around the World",
           "artist": "Oasis",
           "duration": "9:20",
@@ -912,7 +1000,7 @@
         },
         {
           "id": "oasis-dont-go-away",
-          "track_number": 42,
+          "track_number": 46,
           "title": "Don't Go Away",
           "artist": "Oasis",
           "duration": "4:48",
@@ -934,7 +1022,7 @@
         },
         {
           "id": "oasis-dyou-know-what-i-mean",
-          "track_number": 43,
+          "track_number": 47,
           "title": "D'You Know What I Mean?",
           "artist": "Oasis",
           "duration": "7:43",
@@ -956,7 +1044,7 @@
         },
         {
           "id": "oasis-live-forever",
-          "track_number": 44,
+          "track_number": 48,
           "title": "Live Forever",
           "artist": "Oasis",
           "duration": "4:36",
@@ -978,7 +1066,7 @@
         },
         {
           "id": "oasis-supersonic",
-          "track_number": 45,
+          "track_number": 49,
           "title": "Supersonic",
           "artist": "Oasis",
           "duration": "4:43",
@@ -1000,7 +1088,7 @@
         },
         {
           "id": "offspring-defy-you",
-          "track_number": 46,
+          "track_number": 50,
           "title": "Defy You",
           "artist": "The Offspring",
           "duration": "3:48",
@@ -1022,7 +1110,7 @@
         },
         {
           "id": "offspring-pretty-fly-for-a-white-guy",
-          "track_number": 47,
+          "track_number": 51,
           "title": "Pretty Fly (for a White Guy)",
           "artist": "The Offspring",
           "duration": "3:08",
@@ -1044,7 +1132,7 @@
         },
         {
           "id": "offspring-the-kids-arent-alright",
-          "track_number": 48,
+          "track_number": 52,
           "title": "The Kids Aren't Alright",
           "artist": "The Offspring",
           "duration": "3:00",
@@ -1066,7 +1154,7 @@
         },
         {
           "id": "offspring-want-you-bad",
-          "track_number": 49,
+          "track_number": 53,
           "title": "Want You Bad",
           "artist": "The Offspring",
           "duration": "3:23",
@@ -1088,7 +1176,7 @@
         },
         {
           "id": "offspring-why-dont-you-get-a-job",
-          "track_number": 50,
+          "track_number": 54,
           "title": "Why Don't You Get a Job?",
           "artist": "The Offspring",
           "duration": "2:52",
@@ -1110,7 +1198,7 @@
         },
         {
           "id": "puff-daddy-come-with-me",
-          "track_number": 51,
+          "track_number": 55,
           "title": "Come with Me",
           "artist": "Puff Daddy",
           "duration": "3:31",
@@ -1132,7 +1220,7 @@
         },
         {
           "id": "queen-hammer-to-fall",
-          "track_number": 52,
+          "track_number": 56,
           "title": "Hammer to Fall",
           "artist": "Queen",
           "duration": "4:28",
@@ -1154,7 +1242,7 @@
         },
         {
           "id": "queen-i-want-it-all",
-          "track_number": 53,
+          "track_number": 57,
           "title": "I Want It All",
           "artist": "Queen",
           "duration": "4:41",
@@ -1176,7 +1264,7 @@
         },
         {
           "id": "queen-innuendo",
-          "track_number": 54,
+          "track_number": 58,
           "title": "Innuendo",
           "artist": "Queen",
           "duration": "6:31",
@@ -1198,7 +1286,7 @@
         },
         {
           "id": "queen-one-vision",
-          "track_number": 55,
+          "track_number": 59,
           "title": "One Vision",
           "artist": "Queen",
           "duration": "5:11",
@@ -1220,7 +1308,7 @@
         },
         {
           "id": "queen-tie-your-mother-down",
-          "track_number": 56,
+          "track_number": 60,
           "title": "Tie Your Mother Down",
           "artist": "Queen",
           "duration": "4:48",
@@ -1242,7 +1330,7 @@
         },
         {
           "id": "queen-we-will-rock-you",
-          "track_number": 57,
+          "track_number": 61,
           "title": "We Will Rock You",
           "artist": "Queen",
           "duration": "2:02",
@@ -1264,7 +1352,7 @@
         },
         {
           "id": "radiohead-creep",
-          "track_number": 58,
+          "track_number": 62,
           "title": "Creep",
           "artist": "Radiohead",
           "duration": "3:58",
@@ -1286,7 +1374,7 @@
         },
         {
           "id": "redhotchillipeppers-by-the-way",
-          "track_number": 59,
+          "track_number": 63,
           "title": "By the Way",
           "artist": "Red Hot Chili Peppers",
           "duration": "3:37",
@@ -1308,7 +1396,7 @@
         },
         {
           "id": "robbie-williams-no-regrets",
-          "track_number": 60,
+          "track_number": 64,
           "title": "No Regrets",
           "artist": "Robbie Williams",
           "duration": "5:09",
@@ -1330,7 +1418,7 @@
         },
         {
           "id": "rolling-stones-saint-of-me",
-          "track_number": 61,
+          "track_number": 65,
           "title": "Saint of Me",
           "artist": "Rolling Stones",
           "duration": "4:11",
@@ -1352,7 +1440,7 @@
         },
         {
           "id": "survivor-eye-of-the-tiger",
-          "track_number": 62,
+          "track_number": 66,
           "title": "Eye of the Tiger",
           "artist": "Survivor",
           "duration": "4:05",
@@ -1374,7 +1462,7 @@
         },
         {
           "id": "system-of-a-down-hypnotize",
-          "track_number": 63,
+          "track_number": 67,
           "title": "Hypnotize",
           "artist": "System of a Down",
           "duration": "3:09",
@@ -1396,7 +1484,7 @@
         },
         {
           "id": "system-of-a-down-toxicity",
-          "track_number": 64,
+          "track_number": 68,
           "title": "Toxicity",
           "artist": "System of a Down",
           "duration": "3:39",
