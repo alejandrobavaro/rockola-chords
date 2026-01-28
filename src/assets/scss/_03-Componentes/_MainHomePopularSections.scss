@@ -1,0 +1,712 @@
+// ================================================
+// ARCHIVO: _MainHomePopularSections.scss - VERSIÓN COMPLETA MEJORADA
+// DESCRIPCIÓN: Estilos para secciones populares con imágenes
+// ESTRATEGIA: Mobile-first, diseño compacto, imágenes unificadas
+// ================================================
+
+/* ================================================
+   CONTENEDOR PRINCIPAL
+================================================ */
+.main-home-popular-sections {
+  background: rgba(42, 42, 42, 0.8);
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border: 1px solid rgba(255, 209, 102, 0.15);
+  
+  // Tablet
+  @media (min-width: 768px) {
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 2.5rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    padding: 2.5rem;
+  }
+}
+
+/* ================================================
+   ENCABEZADO CON IMAGEN
+================================================ */
+.sections-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  
+  .header-content {
+    .section-title {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: #ffd166;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.75rem;
+      
+      .title-icon {
+        color: #e63946;
+        font-size: 1.8rem;
+      }
+      
+      // Tablet
+      @media (min-width: 768px) {
+        font-size: 1.8rem;
+      }
+    }
+    
+    .section-subtitle {
+      font-size: 0.95rem;
+      color: #adb5bd;
+      max-width: 600px;
+      margin: 0 auto;
+      
+      // Tablet
+      @media (min-width: 768px) {
+        font-size: 1.05rem;
+      }
+    }
+  }
+}
+
+/* ================================================
+   IMAGEN DEL ENCABEZADO
+================================================ */
+.header-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.header-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1.2rem;
+  border-radius: 50px;
+  background: rgba(230, 57, 70, 0.1);
+  color: #e63946;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: rgba(230, 57, 70, 0.2);
+    transform: translateY(-2px);
+  }
+}
+
+/* ================================================
+   GRID DE SECCIONES - CON IMÁGENES
+================================================ */
+.sections-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+.section-card {
+  background: #2a2a2a;
+  border-radius: 8px;
+  padding: 1.2rem;
+  border: 1px solid;
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-3px);
+    
+    .section-top-image img {
+      transform: scale(1.05);
+    }
+  }
+  
+  // Mobile pequeño
+  @media (max-width: 360px) {
+    padding: 1rem;
+  }
+}
+
+/* ================================================
+   IMAGEN SUPERIOR DE SECCIÓN
+================================================ */
+.section-top-image {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 4px 4px 0 0;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1.2rem;
+}
+
+.section-title-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.section-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.section-title-small {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.section-total {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #adb5bd;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 0.2rem 0.6rem;
+  border-radius: 10px;
+}
+
+/* ================================================
+   ITEMS DE SECCIÓN - CON IMÁGENES
+================================================ */
+.section-items {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.section-item {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  
+  &:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+}
+
+/* ================================================
+   IMAGEN DEL ÍTEM
+================================================ */
+.item-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.item-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.3rem;
+  flex: 1;
+  
+  .item-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #fff;
+    flex: 1;
+  }
+  
+  .item-badge {
+    font-size: 0.6rem;
+    font-weight: 700;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+}
+
+.item-details {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  width: 100%;
+  
+  span {
+    font-size: 0.75rem;
+    color: #adb5bd;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+  
+  .item-artist,
+  .item-likes {
+    color: #ffd166;
+  }
+  
+  .item-count,
+  .item-plays {
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+  }
+}
+
+/* ================================================
+   ENLACE DE SECCIÓN
+================================================ */
+.section-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.6rem;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.03);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: rgba(255, 255, 255, 0.08);
+  }
+}
+
+/* ================================================
+   CATEGORÍAS RÁPIDAS - CON IMÁGENES
+================================================ */
+.quick-categories-section {
+  margin-bottom: 2.5rem;
+}
+
+.subsection-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  .subsection-icon {
+    color: #e63946;
+  }
+  
+  // Tablet
+  @media (min-width: 768px) {
+    font-size: 1.3rem;
+  }
+}
+
+.categories-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+
+.category-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.8rem;
+  border-radius: 8px;
+  text-decoration: none;
+  border: 1px solid;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+  }
+  
+  .category-icon {
+    font-size: 1.2rem;
+  }
+  
+  .category-name {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+    flex: 1;
+    margin-left: 0.5rem;
+  }
+}
+
+/* ================================================
+   IMAGEN EN CATEGORÍAS
+================================================ */
+.category-image {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 5px;
+  flex-shrink: 0;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.category-count {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 10px;
+  min-width: 30px;
+  text-align: center;
+}
+
+/* ================================================
+   ARTISTAS DESTACADOS - CON IMÁGENES
+================================================ */
+.featured-artists-section {
+  margin-bottom: 2.5rem;
+}
+
+.artists-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+.artist-card {
+  display: flex;
+  align-items: center;
+  padding: 0.8rem;
+  background: #2a2a2a;
+  border-radius: 8px;
+  border: 1px solid;
+  transition: transform 0.3s ease;
+  text-decoration: none;
+  
+  &:hover {
+    transform: translateY(-2px);
+  }
+}
+
+/* ================================================
+   IMAGEN DEL ARTISTA
+================================================ */
+.artist-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-right: 0.8rem;
+  flex-shrink: 0;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.artist-info {
+  flex: 1;
+  
+  .artist-name {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.2rem;
+    line-height: 1;
+  }
+}
+
+.artist-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  
+  .artist-type {
+    font-size: 0.7rem;
+    color: #adb5bd;
+  }
+  
+  .artist-songs {
+    font-size: 0.7rem;
+    color: #ffd166;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+}
+
+.artist-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.05);
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+  
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateX(2px);
+  }
+}
+
+/* ================================================
+   BANNER PROMOCIONAL - CON IMAGEN DE FONDO
+================================================ */
+.promo-banner {
+  background: linear-gradient(135deg, rgba(230, 57, 70, 0.1), rgba(255, 209, 102, 0.1));
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(230, 57, 70, 0.2);
+  position: relative;
+  overflow: hidden;
+  
+  .promo-content {
+    margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
+    
+    .promo-title {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.8rem;
+    }
+    
+    .promo-text {
+      font-size: 0.9rem;
+      color: #adb5bd;
+      max-width: 500px;
+      margin: 0 auto;
+    }
+  }
+}
+
+/* ================================================
+   IMAGEN DE FONDO PARA BANNER
+================================================ */
+.promo-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    opacity: 0.1;
+    border-radius: 8px;
+  }
+}
+
+.promo-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  position: relative;
+  z-index: 1;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
+
+.promo-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.9rem 1.8rem;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  
+  &.primary {
+    background: #e63946;
+    color: white;
+    
+    &:hover {
+      background: #c1121f;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(230, 57, 70, 0.4);
+    }
+  }
+  
+  &.secondary {
+    background: transparent;
+    color: #ffd166;
+    border-color: #ffd166;
+    
+    &:hover {
+      background: rgba(255, 209, 102, 0.1);
+      transform: translateY(-2px);
+    }
+  }
+}
+
+/* ================================================
+   RESPONSIVE ADICIONAL
+================================================ */
+
+// Mobile pequeño (< 480px)
+@media (max-width: 480px) {
+  .sections-grid {
+    gap: 1rem;
+  }
+  
+  .section-card {
+    padding: 1rem;
+  }
+  
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .artists-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .sections-header {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
+// Tablet horizontal (768px-1024px)
+@media (min-width: 768px) and (max-width: 1024px) {
+  .categories-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  
+  .artists-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Modo horizontal en móviles
+@media (max-height: 500px) and (orientation: landscape) {
+  .main-home-popular-sections {
+    padding: 1rem;
+  }
+  
+  .sections-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .section-card {
+    padding: 0.8rem;
+  }
+  
+  .categories-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* ================================================
+   MEJORAS DE ACCESIBILIDAD
+================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .section-card,
+  .category-chip,
+  .artist-card,
+  .promo-button,
+  .section-top-image img {
+    transition: none;
+    
+    &:hover {
+      transform: none;
+      
+      img {
+        transform: none;
+      }
+    }
+  }
+}

@@ -64,7 +64,7 @@ export const MultipistaProvider = ({ children }) => {
         console.log('🔄 Cargando datos multipista unificados...');
         
         // Cargar el JSON principal de multipista mejorado
-        const response = await fetch('/listados/listados-musica-multipista/listados-musica-multipista-homenajes\listado-musica-multipista-acdc-mejorado.json');
+        const response = await fetch('/listados/listados-musica-multipista/listados-musica-multipista-homenajes/listado-musica-multipista-acdc-mejorado.json');
         
         if (!response.ok) {
           throw new Error('No se pudo cargar el JSON de multipista');

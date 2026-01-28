@@ -1,7 +1,7 @@
 // ============================================
-// ARCHIVO: App.js - VERSIÓN COMPLETA CON RUTA MULTIPISTA
-// DESCRIPCIÓN: Componente principal de la aplicación con todas las rutas
-// CORRECCIÓN: Importación correcta del MultipistaProvider y MMultipistaEscucha
+// ARCHIVO: App.jsx - VERSIÓN COMPLETA MEJORADA
+// DESCRIPCIÓN: Componente principal de la aplicación con nueva página de inicio
+// MEJORAS: Nueva página de inicio marketingera con todos los componentes nuevos
 // ============================================
 
 // ======================================================
@@ -14,10 +14,10 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import "./assets/scss/estilo.scss";
 
 // ======================================================
-// IMPORTACIONES DE COMPONENTES PROPIOS
+// IMPORTACIONES DE COMPONENTES PROPIOS - NUEVA PÁGINA DE INICIO
 // ======================================================
 import Header from "./componentes/Header";
-import MainContent from "./componentes/MainContent";
+import MainHomeContent from "./componentes/MainHomeContent"; // ✅ NUEVO: Página de inicio mejorada
 import MainWhatsappIcon from "./componentes/MainWhatsappIcon";
 import MainPublicidadSlider from "./componentes/MainPublicidadSlider";
 import Footer from "./componentes/Footer";
@@ -34,9 +34,9 @@ import MMusicaEscucha from "./componentes/ReproductorMusica/MMusicaEscucha";
 import { MusicaProvider } from "./componentes/ReproductorMusica/MusicaContexto";
 
 // ======================================================
-// IMPORTACIONES DEL NUEVO REPRODUCTOR MULTIPISTA
+// IMPORTACIONES DEL REPRODUCTOR MULTIPISTA
 // ======================================================
-import MMultipistaEscucha from "./componentes/ReproductorMultipista/MMultipistaEscucha"; // ✅ COMPONENTE NUEVO
+import MMultipistaEscucha from "./componentes/ReproductorMultipista/MMultipistaEscucha";
 import { MultipistaProvider } from "./componentes/ReproductorMultipista/MultipistaContexto";
 
 // ======================================================
@@ -45,7 +45,7 @@ import { MultipistaProvider } from "./componentes/ReproductorMultipista/Multipis
 import { SearchProvider } from './componentes/ASearchContext';
 
 // ======================================================
-// BIBLIOTECAS DE CANCIONES
+// BIBLIOTECAS DE CANCIONES (SIMPLIFICADO PARA APP.JSX)
 // ======================================================
 const SONG_LIBRARIES = [
   { 
@@ -92,22 +92,31 @@ function App() {
   return (
     <MusicaProvider>
       <SearchProvider>
-        {/* ✅ NUEVO: Agregar MultipistaProvider alrededor de todo */}
         <MultipistaProvider>
           <Router>
             <div className="App">
-              {/* HEADER */}
+              
+              {/* ======================================================
+                  HEADER DE LA APLICACIÓN
+              ====================================================== */}
               <Header />
               <hr className="section-divider" />
               
-              {/* CONTENIDO PRINCIPAL */}
+              {/* ======================================================
+                  CONTENIDO PRINCIPAL
+              ====================================================== */}
               <div className="main-content">
                 <div className="content">
                   <Routes>
-                    {/* RUTA PRINCIPAL */}
-                    <Route path="/" element={<MainContent />} />
                     
-                    {/* MÚSICA - REPRODUCTOR CON VISUALIZADOR DE ACORDES */}
+                    {/* ==============================================
+                        RUTA PRINCIPAL - NUEVA PÁGINA DE INICIO
+                    ============================================== */}
+                    <Route path="/" element={<MainHomeContent />} />
+                    
+                    {/* ==============================================
+                        MÚSICA - REPRODUCTOR CON VISUALIZADOR DE ACORDES
+                    ============================================== */}
                     <Route path="/musica" element={
                       <MMusicaEscucha 
                         songLibraries={SONG_LIBRARIES}
@@ -115,16 +124,24 @@ function App() {
                       />
                     } />
                     
-                    {/* ✅ NUEVA RUTA: REPRODUCTOR MULTIPISTA MEJORADO */}
+                    {/* ==============================================
+                        REPRODUCTOR MULTIPISTA MEJORADO
+                    ============================================== */}
                     <Route path="/multipista" element={<MMultipistaEscucha />} />
                     
-                    {/* VIDEOS - REPRODUCTOR DE VIDEO */}
+                    {/* ==============================================
+                        VIDEOS - REPRODUCTOR DE VIDEO
+                    ============================================== */}
                     <Route path="/Videos" element={<ReproductorVideo />} />
                     
-                    {/* TEORÍA MUSICAL */}
+                    {/* ==============================================
+                        TEORÍA MUSICAL Y RECURSOS
+                    ============================================== */}
                     <Route path="/formateo-chords" element={<BibliotecaTeoriaMusical />} />
                     
-                    {/* FORMATEO DE PARTITURAS */}
+                    {/* ==============================================
+                        FORMATEO DE PARTITURAS PROFESIONAL
+                    ============================================== */}
                     <Route path="/chords-format" element={
                       <FormateoPartituras
                         titulo="Creedence - Have You Ever Seen The Rain"
@@ -133,22 +150,33 @@ function App() {
                       />
                     }/>
                     
-                    {/* CONTACTO */}
+                    {/* ==============================================
+                        CONTACTO Y SOPORTE
+                    ============================================== */}
                     <Route path="/contacto" element={<Contacto />} />
                     
-                    {/* AYUDA */}
+                    {/* ==============================================
+                        AYUDA Y CONSULTAS
+                    ============================================== */}
                     <Route path="/ayuda" element={<ConsultasAyuda />} />
                     
-                    {/* RUTA COMODÍN */}
-                    <Route path="*" element={<MainContent />} />
+                    {/* ==============================================
+                        RUTA COMODÍN - REDIRIGE A INICIO
+                    ============================================== */}
+                    <Route path="*" element={<MainHomeContent />} />
+                    
                   </Routes>
                 </div>
               </div>
               
+              {/* ======================================================
+                  ELEMENTOS ADICIONALES
+              ====================================================== */}
               <hr className="section-divider" />
               <MainPublicidadSlider />
               <Footer />
               <MainWhatsappIcon />
+              
             </div>
           </Router>
         </MultipistaProvider>

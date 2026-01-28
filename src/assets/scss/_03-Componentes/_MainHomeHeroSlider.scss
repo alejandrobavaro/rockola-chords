@@ -1,0 +1,608 @@
+// ================================================
+// ARCHIVO: _MainHomeHeroSlider.scss - VERSIÓN COMPLETA MEJORADA
+// DESCRIPCIÓN: Estilos para el slider principal con imágenes
+// ESTRATEGIA: Mobile-first, diseño compacto, imágenes responsivas
+// ================================================
+
+/* ================================================
+   CONTENEDOR PRINCIPAL
+================================================ */
+.main-home-hero-slider {
+    position: relative;
+    width: 100%;
+    height: 380px;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    
+    // Tablet
+    @media (min-width: 768px) {
+      height: 420px;
+      border-radius: 10px;
+      margin-bottom: 2rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      height: 460px;
+      border-radius: 12px;
+      margin-bottom: 2.5rem;
+    }
+  }
+  
+  /* ================================================
+     CONTENEDOR DEL SLIDER
+  ================================================ */
+  .slider-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* ================================================
+     SLIDES INDIVIDUALES CON IMÁGENES
+  ================================================ */
+  .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: opacity 0.6s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    
+    &.active {
+      opacity: 1;
+      z-index: 1;
+    }
+  }
+  
+  /* Overlay para mejor contraste */
+  .slide-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      rgba(26, 26, 26, 0.85) 0%,
+      rgba(26, 26, 26, 0.7) 50%,
+      rgba(26, 26, 26, 0.4) 100%
+    );
+    z-index: 1;
+  }
+  
+  /* ================================================
+     IMAGEN DE FONDO ADICIONAL EN SLIDE
+  ================================================ */
+  .slide-background-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 60%;
+    z-index: 1;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      opacity: 0.15;
+    }
+  }
+  
+  /* ================================================
+     CONTENIDO DEL SLIDE CON IMAGEN
+  ================================================ */
+  .slide-content {
+    position: relative;
+    z-index: 2;
+    max-width: 90%;
+    padding: 1.5rem;
+    color: #fff;
+    text-align: left;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      max-width: 600px;
+      padding: 2rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      max-width: 700px;
+      padding: 2.5rem;
+    }
+  }
+  
+  /* ================================================
+     IMAGEN ADICIONAL EN CONTENIDO DEL SLIDE
+  ================================================ */
+  .slide-content-image {
+    margin-bottom: 1rem;
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    overflow: hidden;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 100px;
+      height: 100px;
+    }
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+  
+  /* Badge destacado */
+  .slide-badge {
+    display: inline-block;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 1rem;
+    color: white;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 0.8rem;
+      padding: 0.5rem 1.2rem;
+    }
+  }
+  
+  /* Título principal */
+  .slide-title {
+    font-size: 1.8rem;
+    font-weight: 800;
+    margin-bottom: 0.8rem;
+    color: #ffd166;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    line-height: 1.1;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 2.2rem;
+      margin-bottom: 1rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      font-size: 2.6rem;
+    }
+  }
+  
+  /* Subtítulo descriptivo */
+  .slide-subtitle {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    opacity: 0.9;
+    line-height: 1.4;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 1.05rem;
+      margin-bottom: 2rem;
+      line-height: 1.5;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      font-size: 1.15rem;
+    }
+  }
+  
+  /* ================================================
+     ACCIONES DEL SLIDE
+  ================================================ */
+  .slide-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      flex-direction: row;
+      align-items: center;
+      gap: 2rem;
+    }
+  }
+  
+  /* Botón de llamada a la acción */
+  .slide-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.9rem 1.8rem;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    flex-shrink: 0;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+    }
+    
+    .cta-icon {
+      font-size: 1.2rem;
+    }
+    
+    .cta-arrow {
+      margin-left: 0.5rem;
+      font-size: 1rem;
+      transition: transform 0.3s ease;
+    }
+    
+    &:hover .cta-arrow {
+      transform: translateX(3px);
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      padding: 1rem 2rem;
+      font-size: 1.05rem;
+      
+      .cta-icon {
+        font-size: 1.3rem;
+      }
+    }
+  }
+  
+  /* ================================================
+     INDICADORES DE SLIDE
+  ================================================ */
+  .slide-indicators {
+    display: flex;
+    gap: 0.6rem;
+    justify-content: center;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      justify-content: flex-start;
+    }
+  }
+  
+  .indicator {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0;
+    
+    &:hover {
+      background: rgba(255, 255, 255, 0.6);
+    }
+    
+    &.active {
+      background: #e63946;
+      transform: scale(1.2);
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 12px;
+      height: 12px;
+    }
+  }
+  
+  /* ================================================
+     IMÁGENES ADICIONALES ALREDEDOR DEL SLIDER
+  ================================================ */
+  .slider-side-images {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    z-index: 10;
+    
+    // Ocultar en móviles pequeños para ahorrar espacio
+    @media (max-width: 480px) {
+      display: none;
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 100px;
+      right: 1.5rem;
+      top: 1.5rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      width: 120px;
+      right: 2rem;
+      top: 2rem;
+    }
+    
+    .side-image {
+      border-radius: 4px;
+      overflow: hidden;
+      aspect-ratio: 1;
+      
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+    }
+  }
+  
+  /* ================================================
+     BOTONES DE NAVEGACIÓN
+  ================================================ */
+  .slider-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(5px);
+    
+    &:hover {
+      background: rgba(230, 57, 70, 0.9);
+      border-color: #e63946;
+    }
+    
+    &.prev {
+      left: 1rem;
+    }
+    
+    &.next {
+      right: 1rem;
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 45px;
+      height: 45px;
+      
+      &.prev {
+        left: 1.5rem;
+      }
+      
+      &.next {
+        right: 1.5rem;
+      }
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      width: 50px;
+      height: 50px;
+      
+      &.prev {
+        left: 2rem;
+      }
+      
+      &.next {
+        right: 2rem;
+      }
+    }
+  }
+  
+  /* ================================================
+     ESTADÍSTICAS DEL SLIDER - CON IMÁGENES
+  ================================================ */
+  .slider-stats {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    display: flex;
+    gap: 1rem;
+    z-index: 10;
+    
+    // Ocultar en móviles pequeños para ahorrar espacio
+    @media (max-width: 480px) {
+      display: none;
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      bottom: 1.5rem;
+      right: 1.5rem;
+      gap: 1.5rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      bottom: 2rem;
+      right: 2rem;
+      gap: 2rem;
+    }
+  }
+  
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(255, 209, 102, 0.95);
+    padding: 0.6rem 1rem;
+    border-radius: 6px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    min-width: 60px;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      padding: 0.75rem 1.25rem;
+      min-width: 70px;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      padding: 0.8rem 1.5rem;
+      min-width: 80px;
+    }
+  }
+  
+  /* ================================================
+     IMAGEN EN ESTADÍSTICAS
+  ================================================ */
+  .stat-image {
+    margin-bottom: 0.5rem;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 35px;
+      height: 35px;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  
+  .stat-number {
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: #1a1a1a;
+    line-height: 1;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 1.3rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      font-size: 1.4rem;
+    }
+  }
+  
+  .stat-label {
+    font-size: 0.7rem;
+    color: #1a1a1a;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0.2rem;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 0.75rem;
+    }
+    
+    // Desktop
+    @media (min-width: 1024px) {
+      font-size: 0.8rem;
+    }
+  }
+  
+  /* ================================================
+     RESPONSIVE ADICIONAL
+  ================================================ */
+  
+  // Móviles muy pequeños (< 360px)
+  @media (max-width: 360px) {
+    .main-home-hero-slider {
+      height: 320px;
+    }
+    
+    .slide-title {
+      font-size: 1.6rem;
+    }
+    
+    .slide-subtitle {
+      font-size: 0.9rem;
+    }
+    
+    .slide-cta {
+      padding: 0.8rem 1.5rem;
+      font-size: 0.95rem;
+    }
+  }
+  
+  // Modo horizontal en móviles
+  @media (max-height: 500px) and (orientation: landscape) {
+    .main-home-hero-slider {
+      height: 280px;
+    }
+    
+    .slide-content {
+      padding: 1rem;
+    }
+    
+    .slide-title {
+      font-size: 1.6rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .slide-subtitle {
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+    }
+  }
+  
+  /* ================================================
+     MEJORAS DE ACCESIBILIDAD
+  ================================================ */
+  @media (prefers-reduced-motion: reduce) {
+    .slide {
+      transition: none;
+    }
+    
+    .slider-nav,
+    .slide-cta {
+      transition: none;
+      
+      &:hover {
+        transform: translateY(0);
+      }
+    }
+    
+    .cta-arrow {
+      transition: none;
+    }
+  }

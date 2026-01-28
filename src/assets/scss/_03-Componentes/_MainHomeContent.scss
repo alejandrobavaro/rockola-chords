@@ -1,0 +1,788 @@
+// ================================================
+// ARCHIVO: _MainHomeContent.scss - VERSIÓN COMPLETA MEJORADA
+// DESCRIPCIÓN: Estilos específicos para MainHomeContent.jsx con imágenes
+// ESTRATEGIA: Mobile-first, diseño compacto, manejo uniforme de imágenes
+// ================================================
+
+/* ================================================
+   CONTENEDOR PRINCIPAL
+================================================ */
+.main-home-content {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 1rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    padding: 1.5rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    padding: 2rem;
+  }
+}
+
+/* ================================================
+   SECCIONES GENERALES
+================================================ */
+.hero-section,
+.quick-access-section,
+.stats-section,
+.popular-section,
+.features-section,
+.testimonials-section,
+.quick-search-section,
+.final-info-section {
+  margin-bottom: 2rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    margin-bottom: 2.5rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    margin-bottom: 3rem;
+  }
+}
+
+/* ================================================
+   ENCABEZADOS DE SECCIÓN
+================================================ */
+.section-header,
+.search-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  
+  .section-title,
+  .search-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #ffd166;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    
+    .title-icon {
+      color: #e63946;
+    }
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 1.7rem;
+    }
+  }
+  
+  .section-subtitle,
+  .search-subtitle {
+    font-size: 0.9rem;
+    color: #adb5bd;
+    max-width: 600px;
+    margin: 0 auto;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      font-size: 1rem;
+    }
+  }
+}
+
+/* ================================================
+   ACCESO RÁPIDO - CON ESTILOS PARA IMÁGENES
+================================================ */
+.quick-access-section {
+  background: rgba(42, 42, 42, 0.8);
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid rgba(255, 209, 102, 0.15);
+  
+  // Tablet
+  @media (min-width: 768px) {
+    padding: 2rem;
+    border-radius: 12px;
+  }
+}
+
+.quick-access-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.access-card {
+  background: #2a2a2a;
+  border-radius: 8px;
+  padding: 1.2rem;
+  text-decoration: none;
+  border-left: 4px solid;
+  border-bottom: 3px solid;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  
+  &:hover {
+    transform: translateY(-3px);
+    background: #3a3a3a;
+    
+    .card-arrow {
+      transform: translateX(3px);
+    }
+  }
+}
+
+.access-card-primary {
+  background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+  border: 1px solid #e63946;
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, rgba(230, 57, 70, 0.1), transparent);
+    border-radius: 0 8px 0 0;
+  }
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.card-icon {
+  font-size: 2rem;
+}
+
+.card-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* ================================================
+   ESTILOS PARA IMÁGENES EN TARJETAS DE ACCESO
+================================================ */
+.card-image {
+  width: 100%;
+  margin: 0.8rem 0;
+  border-radius: 6px;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+  
+  .access-card:hover & img {
+    transform: scale(1.05);
+  }
+}
+
+.card-content {
+  flex: 1;
+  margin-bottom: 1rem;
+  
+  .card-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+  }
+  
+  .card-description {
+    font-size: 0.85rem;
+    color: #adb5bd;
+    line-height: 1.4;
+  }
+}
+
+.card-arrow {
+  align-self: flex-end;
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+}
+
+/* ================================================
+   BÚSQUEDA RÁPIDA - CON ESTILOS PARA IMÁGENES
+================================================ */
+.quick-search-section {
+  background: rgba(42, 42, 42, 0.8);
+  border-radius: 10px;
+  padding: 1.5rem;
+  border: 1px solid rgba(230, 57, 70, 0.15);
+}
+
+.filters-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+  
+  // Desktop
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
+
+.filter-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.8rem;
+  border-radius: 8px;
+  text-decoration: none;
+  border: 1px solid;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+  }
+  
+  .filter-icon {
+    font-size: 1.2rem;
+  }
+  
+  .filter-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #fff;
+    flex: 1;
+    margin: 0 0.5rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+/* ================================================
+   ESTILOS PARA IMÁGENES EN FILTROS
+================================================ */
+.filter-image {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-left: 8px;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.filter-count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  border-radius: 10px;
+  min-width: 35px;
+  text-align: center;
+  margin-left: 8px;
+}
+
+/* ================================================
+   INFORMACIÓN FINAL - CON ESTILOS PARA IMÁGENES
+================================================ */
+.final-info-section {
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
+
+.info-card {
+  background: #2a2a2a;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  
+  .info-icon {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  h4 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #ffd166;
+    margin-bottom: 0.8rem;
+  }
+  
+  p {
+    font-size: 0.9rem;
+    color: #adb5bd;
+    line-height: 1.4;
+  }
+}
+
+/* ================================================
+   ESTILOS PARA IMÁGENES EN TARJETAS DE INFORMACIÓN
+================================================ */
+.info-card-image {
+  width: 100%;
+  margin: 1rem 0;
+  border-radius: 6px;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+  
+  .info-card:hover & img {
+    transform: scale(1.05);
+  }
+}
+
+.final-cta {
+  background: linear-gradient(135deg, rgba(230, 57, 70, 0.1), rgba(255, 209, 102, 0.1));
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(230, 57, 70, 0.2);
+  position: relative;
+  overflow: hidden;
+  
+  .cta-content {
+    margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
+    
+    h3 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 0.8rem;
+    }
+    
+    p {
+      font-size: 0.95rem;
+      color: #adb5bd;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  }
+}
+
+/* ================================================
+   IMÁGENES DE FONDO PARA CTA
+================================================ */
+.cta-background-images {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  z-index: 0;
+  
+  .cta-bg-image {
+    flex: 1;
+    overflow: hidden;
+    border-radius: 4px;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+.cta-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  position: relative;
+  z-index: 1;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.9rem 1.8rem;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+  
+  &.primary {
+    background: #e63946;
+    color: white;
+    
+    &:hover {
+      background: #c1121f;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 15px rgba(230, 57, 70, 0.4);
+    }
+  }
+  
+  &.secondary {
+    background: #118ab2;
+    color: white;
+    
+    &:hover {
+      background: #0a6c8f;
+      transform: translateY(-2px);
+    }
+  }
+  
+  &.outline {
+    background: transparent;
+    color: #ffd166;
+    border-color: #ffd166;
+    
+    &:hover {
+      background: rgba(255, 209, 102, 0.1);
+      transform: translateY(-2px);
+    }
+  }
+}
+
+/* ================================================
+   FOOTER DE LA HOME - CON IMÁGENES
+================================================ */
+.home-footer {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  text-align: center;
+  
+  .footer-content {
+    margin-bottom: 1rem;
+    
+    .footer-text {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #ffd166;
+      margin-bottom: 0.5rem;
+    }
+    
+    .footer-subtext {
+      font-size: 0.85rem;
+      color: #adb5bd;
+    }
+  }
+}
+
+/* ================================================
+   IMÁGENES EN FOOTER
+================================================ */
+.footer-images {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  
+  .footer-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    overflow: hidden;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  
+  a {
+    color: #adb5bd;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: #ffd166;
+    }
+  }
+}
+
+/* ================================================
+   IMÁGENES ADICIONALES PARA SECCIONES
+================================================ */
+.hero-images-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1rem;
+  }
+  
+  .hero-image-container {
+    border-radius: 6px;
+    overflow: hidden;
+    aspect-ratio: 1;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+    
+    &:hover img {
+      transform: scale(1.05);
+    }
+  }
+}
+
+.stats-images-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  
+  .stats-image-item {
+    border-radius: 6px;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+.popular-images-carousel {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  
+  .popular-image-slide {
+    border-radius: 6px;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.3s ease;
+    }
+    
+    &:hover img {
+      transform: scale(1.05);
+    }
+  }
+}
+
+.features-images-showcase {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.8rem;
+  margin-top: 1.5rem;
+  
+  // Tablet
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  
+  .feature-image-box {
+    border-radius: 6px;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+.testimonials-background-images {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+  
+  .testimonial-bg-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    overflow: hidden;
+    
+    // Tablet
+    @media (min-width: 768px) {
+      width: 120px;
+      height: 120px;
+    }
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+  }
+}
+
+/* ================================================
+   RESPONSIVE ADICIONAL
+================================================ */
+
+// Mobile pequeño (< 360px)
+@media (max-width: 360px) {
+  .main-home-content {
+    padding: 0.5rem;
+  }
+  
+  .quick-access-grid,
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .access-card,
+  .info-card {
+    padding: 1rem;
+  }
+  
+  .hero-images-grid,
+  .stats-images-grid,
+  .popular-images-carousel,
+  .features-images-showcase {
+    grid-template-columns: 1fr;
+  }
+}
+
+// Modo horizontal en móviles
+@media (max-height: 500px) and (orientation: landscape) {
+  .main-home-content {
+    padding: 0.5rem;
+  }
+  
+  .quick-access-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .access-card {
+    padding: 0.8rem;
+    
+    .card-title {
+      font-size: 1rem;
+    }
+    
+    .card-description {
+      font-size: 0.8rem;
+    }
+  }
+}
+
+/* ================================================
+   MEJORAS DE ACCESIBILIDAD
+================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .access-card,
+  .filter-chip,
+  .cta-button,
+  .card-image img,
+  .info-card-image img,
+  .popular-image-slide img,
+  .hero-image-container img {
+    transition: none;
+    
+    &:hover {
+      transform: none;
+    }
+  }
+}

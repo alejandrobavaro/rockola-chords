@@ -262,17 +262,17 @@ const ConsultasAyuda = () => {
         <div className="canales-contacto">
           <div className="canal">
             <h3>📧 Email Directo</h3>
-            <p>soporte@RockolaCancioneros.com</p>
+            {/* <p>soporte@RockolaCancioneros.com</p> */}
             <span>Respuesta en 24 horas</span>
           </div>
           <div className="canal">
             <h3>💬 WhatsApp</h3>
-            <p>+54 9 11 2345-6789</p>
+            {/* <p>+54 9 11 2345-6789</p> */}
             <span>Soporte rápido vía chat</span>
           </div>
           <div className="canal">
             <h3>🕒 Horario de Atención</h3>
-            <p>Lunes a Viernes</p>
+            {/* <p>Lunes a Viernes</p> */}
             <span>9:00 - 18:00 hs</span>
           </div>
         </div>
